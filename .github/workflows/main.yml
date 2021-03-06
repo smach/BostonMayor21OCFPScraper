@@ -3,14 +3,14 @@
 name: run_scraper
 on: push
 # on:
-#   schedule:
-#     - cron: '28 20 * * *'
+#  schedule:
+#   - cron: '28 20 * * *'
 
 
 jobs:
   autoscrape:
     # The type of runner that the job will run on
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     # Load repo and install R
     steps:
