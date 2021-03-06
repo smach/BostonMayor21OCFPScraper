@@ -1,2 +1,4 @@
 New log file
 
+
+ Script finished running at  2021-03-06 21:49:28
