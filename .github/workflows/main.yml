@@ -4,12 +4,6 @@ name: run_scraper
 
 on:
   schedule:
-    - cron: '0 9 * * *'
-
-name: run_scraper
-
-on:
-  schedule:
     - cron: '07 11 * * *'
 
 # A workflow run is made up of one or more jobs 
