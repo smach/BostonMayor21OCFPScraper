@@ -1,10 +1,8 @@
 # Inspired by:
 # https://simonwillison.net/2021/Mar/5/git-scraping/
-# used these R-specific instructions on running R with GitHub actions:
-# https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gh-actions/
 
-# and followed this file format
-# https://github.com/RMHogervorst/invertedushape/blob/main/.github/workflows/main.yml
+# For R-specific issues, I followed this file format
+# https://lapsedgeographer.london/2020-04/automating-pdf-scraping/
 
 # Need to commit files or it won't work!
 # Look at Simon's files here:
