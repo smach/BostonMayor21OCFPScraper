@@ -1,17 +1,27 @@
+# This is a basic workflow that only runs on schedule
+
+name: run_scraper
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+
 name: run_scraper
 
 on:
   schedule:
     - cron: '07 11 * * *'
 
-env:
-  RENV_PATHS_ROOT: ~/.local/share/renv
-
+# A workflow run is made up of one or more jobs 
 jobs:
+  # This workflow contains a single job
   run_thingy:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-     env:
-          RENV_PATHS_ROOT: ~/.local/share/renv
+    # retrieve secrets from github
+    env:
+        RENV_PATHS_ROOT: ~/.local/share/renv
+    #
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
@@ -35,3 +45,4 @@ jobs:
       - run: R -e 'renv::restore()'
       # execute Rscript
       - run: Rscript scraper.R
+
