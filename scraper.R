@@ -5,7 +5,7 @@
 # https://lapsedgeographer.london/2020-04/automating-pdf-scraping/
 
 # Need to commit files or it won't work!
-# Look at Simon's files here:
+# Look at Simon's file here:
 # https://github.com/simonw/cdc-vaccination-history/blob/main/.github/workflows/scrape.yml
 
 
