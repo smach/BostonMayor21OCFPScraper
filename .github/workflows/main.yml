@@ -38,6 +38,21 @@ jobs:
       - run: sudo apt-get install -y --no-install-recommends libcurl4-openssl-dev
       # install c++ dependencies and install necessary packages
       - run: R -e 'renv::restore()'
-      # execute Rscript
-      - run: Rscript scraper.R
+      # execute Rscript AND COMMIT RESULTS
+      - run:
+          Rscript scraper.R
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add data temp
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push     
+      
+      
+      
+      
+      
+      
+      
+      
 
