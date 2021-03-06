@@ -4,6 +4,8 @@ Inspired by [Simon Willison's presentation on git scraping](https://simonwilliso
 
 The resulting CSV file of contributions - including whether the contributor address is in my list of known Boston Zip Codes - is in the [data folder](https://github.com/smach/BostonMayor21OCFPScraper/tree/main/data).
 
-The scraper runs once a day. It uses a basic R package I created for this project, [BostonMayor21OCPFData](https://github.com/smach/BostonMayor21OCPFData), a short R script to run the package's `download_latest_candidate_contributions()` function on a vector of candidate IDs, and a [GitHub Actions YAML file](https://github.com/smach/BostonMayor21OCFPScraper/blob/main/.github/workflows/main.yml)  to automatically run the scaper once a day. 
+The scraper runs once a day. It uses a basic R package I created for this project, [BostonMayor21OCPFData](https://github.com/smach/BostonMayor21OCPFData), a short R script to run the package's `download_latest_candidate_contributions()` function on a vector of candidate IDs, and a [GitHub Actions YAML file](https://github.com/smach/BostonMayor21OCFPScraper/blob/main/.github/workflows/main.yml)  to automatically run the scaper daily. 
 
 [This blog post](https://lapsedgeographer.london/2020-04/automating-pdf-scraping/) helped me create the R-specific portions of the GitHub Actions YAML file.
+
+The data don't change very often, so I'll have a better idea if things update automatically in a week or so.
