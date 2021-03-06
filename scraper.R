@@ -6,9 +6,9 @@
 # and followed this file format
 # https://github.com/RMHogervorst/invertedushape/blob/main/.github/workflows/main.yml
 
-# Needed to set up locally:
-# remotes::install_github("smach/BostonMayor21OCPFData")
-# renv::activate()
+# Need to commit files or it won't work!
+# Look at Simon's files here:
+# https://github.com/simonw/cdc-vaccination-history/blob/main/.github/workflows/scrape.yml
 
 
 library(BostonMayor21OCPFData)
