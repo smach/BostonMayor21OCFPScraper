@@ -2,10 +2,10 @@
 
 name: run_scraper
 
-# on: push
-on:
-   schedule:
-     - cron: '07 11 * * *'
+on: push
+# on:
+#   schedule:
+#     - cron: '07 11 * * *'
 
 
 jobs:
