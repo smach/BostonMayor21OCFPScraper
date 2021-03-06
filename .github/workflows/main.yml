@@ -45,7 +45,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data temp
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          git commit -m "Data update"
           git push     
       
       
