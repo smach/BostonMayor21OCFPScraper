@@ -12,3 +12,6 @@
 library(BostonMayor21OCPFData)
 contributions <- purrr::map_df(the_ids, download_latest_candidate_contributions)
 data.table::fwrite(contributions, "data/contributions.csv")
+msg <- paste("Script finished running at", as.character(Sys.time()) )
+print(msg)
+cat(msg, file = "temp/log.txt", append = TRUE)
