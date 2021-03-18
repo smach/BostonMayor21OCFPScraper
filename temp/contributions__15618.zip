@@ -4653,6 +4653,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15618	"Essaibi George, Annissa"	"3/10/2021"	"Tsivelekidis"	"Constantine"	"955 Massachusetts Ave , # 172"	"Cambridge"	"MA"	"02139-3233"	1000.0000	"Registered Agent"	"Epeios Energy, Inc"	""	"0"	3/10/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"3/10/2021"	"Whalen"	"Meredith"	"11 Deerfield Rd ,"	"Pound Ridge"	"NY"	"10576-1413"	1000.0000	"Purchasing Manager"	"Gilbane Building Company"	""	"0"	3/10/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"3/10/2021"	"Wilson"	"Virginia L"	"67 Mill Rd ,"	"Kingston"	"NH"	"03848-3434"	1000.0000	"Bookkeeper"	"American Concrete Foundations"	""	"0"	3/10/21 Deposit Report		1	Check
+220	Aggregated Unitemized Receipts	15618	"Essaibi George, Annissa"	"3/11/2021"	"Aggregated Unitemized Receipts"	""	""	""	""	""	0.2900	""	""	""	"0"	3/11/21 Deposit Report	Aggregated Unitemized Receipts	0	
 201	Individual	15618	"Essaibi George, Annissa"	"3/11/2021"	"Araujo"	"Diamantino E"	"681 Randolph Ave ,"	"Milton"	"MA"	"02186-4509"	250.0000	"Police Officer"	"City of Boston"	""	"0"	3/11/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"3/11/2021"	"Araujo"	"Jose M"	"36 Callender St , Apt 2"	"Dorchester"	"MA"	"02124-3215"	250.0000	"Owner"	"Computers for All"	""	"0"	3/11/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"3/11/2021"	"Argus III"	"Joseph V"	"99 E BROADWAY ,"	"South Boston"	"MA"	"02127"	1000.0000	"Project Estimator"	"Karas & Karas Glass Company Inc."	""	"0"	3/11/21 Deposit Report		1	Check
@@ -4811,3 +4812,10 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15618	"Essaibi George, Annissa"	"3/15/2021"	"Parlon"	"Matthew"	"79 Colonial Dr ,"	"Dedham"	"MA"	"02026-2246"	500.0000	"Renewable Energy Consultant"	"Wood"	""	"0"	3/15/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"3/15/2021"	"Parlon"	"William L"	"10 Locust Ln ,"	"East Sandwich"	"MA"	"02537-1423"	500.0000	"Retired"	"Retired"	""	"0"	3/15/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"3/15/2021"	"Parlon"	"William L"	"8 Eastbourne St ,"	"Roslindale"	"MA"	"02131-3313"	1000.0000	"Police Captain"	"City of Boston"	""	"0"	3/15/21 Deposit Report		1	Check
+202	Committee	15618	"Essaibi George, Annissa"	"3/16/2021"	"Mobilzeamerica -refund of overpayment"	""	"87 -89 5TH Ave ,"	"New York"	"NY"	"10003"	159.3800	""	""	""	"0"	3/16/21 Deposit Report		3	Credit Card
+201	Individual	15618	"Essaibi George, Annissa"	"3/18/2021"	"Cleveland"	"B Kimball"	"20 Forbes Ave ,"	"Norwood"	"MA"	"02062-3945"	500.0000	""	""	""	"0"	3/18/21 Deposit Report		1	Check
+201	Individual	15618	"Essaibi George, Annissa"	"3/18/2021"	"Crowley"	"Brian C"	"15 Wallace Rd ,"	"Quincy"	"MA"	"02169-1226"	1000.0000	"Construction"	"Sugarloaf Development Inc"	""	"0"	3/18/21 Deposit Report		1	Check
+201	Individual	15618	"Essaibi George, Annissa"	"3/18/2021"	"Lydon"	"Mathias"	"PO Box 366343 ,"	"Boston"	"MA"	"02136-0026"	1000.0000	"Owner"	"Matthias Corporation"	""	"0"	3/18/21 Deposit Report		1	Check
+201	Individual	15618	"Essaibi George, Annissa"	"3/18/2021"	"McMorrow"	"Susan"	"260 Corey St ,"	"West Roxbury"	"MA"	"02132-1735"	100.0000	""	""	""	"0"	3/18/21 Deposit Report		1	Check
+201	Individual	15618	"Essaibi George, Annissa"	"3/18/2021"	"Trichilo"	"Joseph A"	"57 Mansfield Rd ,"	"Lynnfield"	"MA"	"01940"	500.0000	"Owner"	"Ex-Styles"	""	"0"	3/18/21 Deposit Report		1	Check
+201	Individual	15618	"Essaibi George, Annissa"	"3/18/2021"	"Zera"	"Zihni"	"51 Jordan Dr ,"	"Weymouth"	"MA"	"02190-2614"	1000.0000	"Owner"	"Boston Cabinetry Co."	""	"0"	3/18/21 Deposit Report		1	Check
