@@ -5764,7 +5764,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2020-12-21,"Wu, Michelle",Michael,Szkolka,Boston,MA,02125,3,Not Employed,Not Employed,12/21/20 Deposit Report,Yes
 2020-12-21,"Wu, Michelle",Shoji,Takahashi,Arlington,MA,02474,5,Intellectual Property,Whitehead Institute for Biomedical Research,12/21/20 Deposit Report,No
 2020-12-21,"Wu, Michelle",Hua,Tan,Westwood,MA,02090,50,Microbiologist,DPH,12/21/20 Deposit Report,No
-2020-12-21,"Wu, Michelle",Dora,Tao,Oakland,CA,94606,25,Clinical Quality Associate,Hazel Health,12/21/20 Deposit Report,No
+2020-12-21,"Wu, Michelle",Dora,Tao,Boston,MA,02108,25,Clinical Quality Associate,Hazel Health,12/21/20 Deposit Report,Yes
 2020-12-21,"Wu, Michelle",Andrew,Taverrite,Washington,DC,20001,20,Communications,PPFA,12/21/20 Deposit Report,No
 2020-12-21,"Wu, Michelle",Debra,Taylor,Boston,MA,02108,25,Manager,Link,12/21/20 Deposit Report,Yes
 2020-12-21,"Wu, Michelle",Jessica,Taylor,West Springfield,MA,01089,4,Data Coordinator,New Hampshire Democratic Party,12/21/20 Deposit Report,No
@@ -12862,6 +12862,69 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-02-26,"Campbell, Andrea Joy",Ann,Wozencraft,Houston,TX,77027-4035,100,Managing Director,Marsh LLC,2/26/21 Deposit Report,No
 2021-02-27,"Campbell, Andrea Joy",Linda,Dorcena Forry,Dorchester,MA,02124-5724,500,Management,Suffolk Construction,2/27/21 Deposit Report,No
 2021-02-27,"Campbell, Andrea Joy",Matthew,Scheier,Mattapan,MA,02126-2936,1000,Administrator,Dagle Electrical Construction Corp.,2/27/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Peter,Akara,Roslindale,MA,02131-4543,25,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Maggie,Austen,Dorchester,MA,02124-4684,10,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Lorenzo,Bivans Jr,Bowie,MD,20716-3246,150,Attorney,"Rosenberg Martin Greenberg, LLP",3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Ann,Bookman,Boston,MA,02116-1726,100,Faculty,University of Massachusetts Boston,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Ann,Bookman,Boston,MA,02116-1726,100,Faculty,University of Massachusetts Boston,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Bernard,Bryant,Joliet,IL,60432-2267,1,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Kimberly,Clouse,Brookline,MA,02446-0016,100,Financial Advisor,Via Global Advisors,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",John,Connolly,West Roxbury,MA,02132-3507,1000,Executive Director,1647 Families,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Carlos,Contreras,Brighton,MA,02135-1801,25,Teacher,Somerville Public Schools,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Donald,Cowles,Richmond,VA,23226-1714,100,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Ian,Cubie,Boston,MA,02135-1945,50,Mason,Florentine Renaisance Masonry,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Billy,Curtis,Boston,MA,02118-3700,3,Marketing Analyst,Thought Industries,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Kevin,Drakulich,Boston,MA,02130-3997,25,Professor,Northeastern University,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Cinque,Dunham-Carson,Waltham,MA,02453-4441,25,Program Manager,Northeastern University,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Meredith,Dunn,Needham,MA,02492-2785,100,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Adler,Eliacin,Boston,MA,02119-1430,250,Executive Director,Haitian Chamber of Commerce of Greater Boston,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Wanda R,Geer,Boston,MA,02116-6049,250,Partner and C.E.O.,"Tartt's Day Care Centers, Inc.",3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Katherine,Gergen Barnett,Brookline,MA,02446-4733,180,Physician,Boston Medical Center,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",George F,Gormley,South Boston,MA,02127-2345,500,Attorney,George F. Gormley PC,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Hope,Haff,Jamaica Plain,MA,02130-2015,50,Retired,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Kimberly,Hamilton,Stone Mtn,GA,30088-1730,100,Educator,Gwinnett School System,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Lydia,Hausle,Dorchester Center,MA,02124-3682,25,Urban Planner,Toole Design Group,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Matthew,Hoffman,Boston,MA,02116-2345,250,Real Estate,Matthew Hoffman,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Katherine,Hughes,Boston,MA,02130-5153,25,Family Engagement Specialist,Boston Children's Museum,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Tahir,Hussain,Allston,MA,02134-4529,7,Administrator,City of Boston,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Stephanie,Irving,Dorchester Center,MA,02124-2324,40,Teacher,Uncommon Schools,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Peter,Isham,Norton,MA,02766-2334,25,Teacher,Boston Public Schools,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Rachel R,Jolivet,Boston,MA,02124-2227,10,Midwife,Harvard T.H. Chan School of Public Health,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Dan,Kavanaugh,Boston,MA,02114-2252,100,Product Manager,HubSpot,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Will,Keyser,West Roxbury,MA,02132-7818,1000,President,Keyser Public Strategies,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Michael,Larsson,Milton,MA,02186-2213,1000,C.E.O.,Duet,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Monica,Lehner,Greenfield,NH,03047-4413,100,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Christina,Maher,Arlington,VA,22201-2576,1000,Hospitality Sales,The Doyle Collection,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Jeffrey,Mayersohn,Wellesley Hills,MA,02481-1422,1000,Co-Owner,Harvard Book Store,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Heather,McCulloch,Sonoma,CA,95476-6353,50,Executive Director,Closing the Women's Wealth Gap,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Joshua,McGuire,Newton Center,MA,02459-2746,100,Attorney,Law Office of Joshua McGuire,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Sally,McNagny,Wellesley,MA,02481-1212,250,Physician,Mass General Brigham,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Beverly,Merz,Boston,MA,02118-3411,25,Editor,Beverly Merz,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Tania,Mireles,Boston,MA,02131-3702,25,Violence Prevention,Boston Public Health Commission,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Marilyn,Morrissey,Boston,MA,02130-2214,50,Nurse,Boston Public Schools,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Cliff,Moskow,Boston,MA,02116-3935,1000,Real Estate,Moskow Group,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Christopher,Nzenwa,Boston,MA,02136-1036,100,BWSC Worker,City of Boston,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Pablo,Pena,Jamaica Plain,MA,02130-1219,5,Software Engineer,"LiveData, Inc",3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Yvette,Philip,Mattapan,MA,02126-1328,25,C.F.O.,Brooke Charter School,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Ja?Karri,Pierre,Boston,MA,02118-1315,25,Student,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Kathryn,Plazak,Boston,MA,02114-4401,250,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Claudia,Pouravelis,Boston,MA,02118-2189,250,Associate Dean,Boston College,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Sonya,Raye,Boston,MA,02127-2531,15,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Martha,Richmond,Boston,MA,02124-2213,25,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Mark,Scott,Dorchester,MA,02124-2213,25,Manager,Boston Public Health Commission,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Joanne,Sewell,West Roxbury,MA,02132-4744,50,Social Worker,Boston Medical Center,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Deborah,Smith,Villanova,PA,19085-1326,100,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Gary,Smith,Wellesley,MA,02481-2420,100,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Milo,Stella,Boston,MA,02124-3627,25,General Manager,"Star Contracting Company, Inc.",3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Kevin,Teal,Champaign,IL,61822-8305,500,Neurosurgeon,Carle Foundation Hospital,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Ben,Thompson,Dorchester Center,MA,02124-2107,5,Not Employed,None,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Travis,Watson,East Falmouth,MA,02536-5256,50,Director of Racial Equity and Community Engagement,Massachusetts Housing Investment Corporation,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",James,White,Boston,MA,02124-3315,25,Administrator,Boston Police Department,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Owen,Wiggins,Plymouth,MA,02360-4581,100,Hospitality,Gourmet Caterers,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Mindy,Wright,Dorchester Center,MA,02124-4632,25,Chief Program Officer,The Upward Project,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Heidi,Wyle,Weston,MA,02493-1640,1000,C.E.O.,Venti Technologies,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Gwill,York,Cambridge,MA,02138-3330,1000,Founding Managing Director,Lighthouse Capital Partners,3/1/21 Deposit Report,No
+2021-03-01,"Campbell, Andrea Joy",Judith,Young,Auburn,MA,01501-1814,50,Executive Director,Civic Action Project,3/1/21 Deposit Report,No
 2020-02-04,"Essaibi George, Annissa","",Painters District Council #35 PAC,Roslindale,MA,02131,500,"","",2/4/20 Deposit Report,Yes
 2020-03-05,"Essaibi George, Annissa","",Boston Police Patrolmens Assoc. Pol Action Comm.,Dorchester,MA,02122,500,"","",3/5/20 Deposit Report,Yes
 2020-03-05,"Essaibi George, Annissa",William,Kennedy,Dorchester,MA,02124,200,Attorney,"Nutter, McClennen & Fish, Llp",3/5/20 Deposit Report,Yes
@@ -14099,7 +14162,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-11,"Essaibi George, Annissa",Keith A,Clark,Avon,MA,02322-1640,1000,Contractor,Alexandra Construction,3/11/21 Deposit Report,No
 2021-03-11,"Essaibi George, Annissa",Kenneth J,Clark,Milton,MA,02186-2817,1000,Letter Sent 3/10/21,Letter Sent 3/10/21,3/11/21 Deposit Report,No
 2021-03-11,"Essaibi George, Annissa",Teresa M,Clark,Weston,MA,02493-1339,1000,Homemaker,At home,3/11/21 Deposit Report,No
-2021-03-11,"Essaibi George, Annissa",Tracy,Clark,Avon,MA,02322-1640,1000,Letter Sent 3/10/21,Letter Sent 3/10/21,3/11/21 Deposit Report,No
+2021-03-11,"Essaibi George, Annissa",Tracy,Clark,Avon,MA,02322-1640,1000,Not Employed,Not Employed,3/11/21 Deposit Report,No
 2021-03-11,"Essaibi George, Annissa",Victoria T,Clark,Weston,MA,02493-1339,1000,Planner & Designer,	Alexandra Construction,3/11/21 Deposit Report,No
 2021-03-11,"Essaibi George, Annissa",Katherine Cotugno,Colleran,South Boston,MA,02127-2631,1000,Writer,Katharine Colleran,3/11/21 Deposit Report,No
 2021-03-11,"Essaibi George, Annissa",Thomas Patrick,Colleran,South Boston,MA,02127-2631,1000,Senior Project Manager,Elevated,3/11/21 Deposit Report,No
@@ -15619,6 +15682,9 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-14,"Barros, John F.",Jeanne,Wolf,Somerville,MA,02144,100,CEO,CFA Society Boston,3/14/21 Deposit Report,No
 2021-03-14,"Barros, John F.",Lourdes,Xavier,Boston,MA,02124,50,Not Employed,Not Employed,3/14/21 Deposit Report,Yes
 2021-03-14,"Barros, John F.",Pedro,Xavier,Lakeville,MA,02347,1000,Martial Arts Personal Development Coach,Boston Tae Kwon Do Academy,3/14/21 Deposit Report,No
+2021-03-19,"Barros, John F.",Jose,Fidalgo,Information Requested,"","",600,Information Requested,Information Requested,3/19/21 Deposit Report,No
+2021-03-19,"Barros, John F.",Lawrence,Lucchino,Information Requested,"","",1000,Information Requested,Information Requested,3/19/21 Deposit Report,No
+2021-03-19,"Barros, John F.",Jeremy,Sclar,Information Requested,"","",1000,Information Requested,Information Requested,3/19/21 Deposit Report,No
 2021-03-21,"Barros, John F.",Manuel,A.Fidalgo,Dorchester,MA,02121,25,Not Employed,Not Employed,3/21/21 Deposit Report,Yes
 2021-03-21,"Barros, John F.",THELMA,Ajayi,ROXBURY,MA,02119,100,Manager,Northeastern,3/21/21 Deposit Report,Yes
 2021-03-21,"Barros, John F.",Thomas,Alperin,Boston,MA,02116,250,Real estate executive,National Development,3/21/21 Deposit Report,Yes
@@ -15722,6 +15788,27 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-21,"Barros, John F.",Antonio,Teixeira,Randolph,MA,02368,500,Material Handler,Teradyne,3/21/21 Deposit Report,No
 2021-03-21,"Barros, John F.",Duquinha,Thompson,Syracsue,NY,13210,50,Director,Child care solutions,3/21/21 Deposit Report,No
 2021-03-21,"Barros, John F.",Ted,Tye,Boston,MA,02215,250,real estate,National Development,3/21/21 Deposit Report,Yes
+2021-03-24,"Barros, John F.",Thomas,Ravenel,Mt Pleasant,SC,29464,200,Information Requested,Information Requested,3/24/21 Deposit Report,No
+2021-03-27,"Barros, John F.",Madueno,Alves,Quincy,MA,02169,150,Self Employed,Teresa Vaquez,3/27/21 Deposit Report,No
+2021-03-27,"Barros, John F.",Margarita,Amado,Roxbury ,MA,02119,500,Retired,Not Employed,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Antonio C,Barros,Roxbury,MA,02119,100,Retired,Not Employed,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Lina,De Pina,Dorchester,MA,02125,50,Information Requested,Information Requested,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Miguel,De Pina,Dorchester,MA,02125,50,Information Requested,Information Requested,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Genie,DeAndrade,Boston,MA,02119,1000,Department of Transitional Assistance,Caseworker ,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",George,Deligiannides,Swampscott,MA,01907,1000,Costas Provision,Owner,3/27/21 Deposit Report,No
+2021-03-27,"Barros, John F.",Irene,Deligiannides,Westwood,MA,02090,1000,Costas Provision,Owner,3/27/21 Deposit Report,No
+2021-03-27,"Barros, John F.",Alino,DoCanto,Weymouth,MA,02190,150,Information Requested,Information Requested,3/27/21 Deposit Report,No
+2021-03-27,"Barros, John F.",Majda,Elfaquir,Quincy,MA,02169,1000,Boston Pizza,Manager,3/27/21 Deposit Report,No
+2021-03-27,"Barros, John F.",Pamela,Jones,Dorchester,MA,02125,1000,BMC,Patient Account,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Francina,Liriano,Dorchester,MA,02124,1000,Self-Employed,Francina Liriano,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Heidi Perdomo,Liriano,Roxbury ,MA,02119,1000,Self-Employed,Pamela Jones,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Jose,Lopes,Dorchester,MA,02125,150,Information Requested,Information Requested,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Humberto,Pina,Dorchester,MA,02125,200,Retired,Not Employed,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Nelson,Rodrigues,Dorchester,MA,02125,1000,Boston Medical Center,Director,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Alfredo,Spencer,Brockton,MA,02301,500,Self-Employed,Contractor,3/27/21 Deposit Report,No
+2021-03-27,"Barros, John F.",Maria,Teixeira,Roxbury,MA,02119,250,Davey's Supermarket,Owner,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Teresa,Vasquez,Dorchester,MA,02124,1000,Homemaker,Not Employed,3/27/21 Deposit Report,Yes
+2021-03-27,"Barros, John F.",Linda,Webster,Information Requested,"","",500,Information Requested,Information Requested,3/27/21 Deposit Report,No
 2021-03-28,"Barros, John F.",Lincoln,Alabaster,New York,NY,10034,200,Adjunct Lecturer,LaGuardia Community College,3/28/21 Deposit Report,No
 2021-03-28,"Barros, John F.",Kevin,Andrews,Newton,MA,02458,250,Not Employed,Not Employed,3/28/21 Deposit Report,No
 2021-03-28,"Barros, John F.",Marjorie,Ayres,Dorchester,MA,02125,50,Not Employed,Not Employed,3/28/21 Deposit Report,Yes
@@ -15798,3 +15885,149 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-28,"Barros, John F.",Jason,Webb,Clermont,FL,34714,25,Housing specialist,Grounded Solutions Network,3/28/21 Deposit Report,No
 2021-03-28,"Barros, John F.",tony,webb,Brockton,MA,02302,100,Sales,Core and main,3/28/21 Deposit Report,No
 2021-03-28,"Barros, John F.",Paul,Wontroski,Scranton,PA,18505,25,Doctor,YALE,3/28/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Augusto,Araujo,Information Requested,"","",50,city of boston ,city of boston ,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Isabella,Araujo,Information Requested,"","",50,Information Requested,Information Requested,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Casimiro,Barros,Dorchester,MA,02125,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Jeremiah,Barros,Dorchester,MA,02125,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",John,Barros,Dorchester,MA,02125,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Mason,Barros,Information Requested,"","",25,Not employed,Not employed,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Olivia,Barros,Dorchester,MA,02125,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Gyanna,DaSilva,Quincy,MA,02169,25,Not employed,Not employed,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Jayla,DaSilva,Quincy,MA,02169,25,Not employed,Not employed,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Phynyx,DaSilva,Quincy,MA,02169,25,Not employed,Not employed,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Trystan,DaSilva,Quincy,MA,02169,25,Not employed,Not employed,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Manuel,Do Canto,Dorchester,MA,02125,50,retired,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Maria,Do Canto,Dorchester,MA,02125,50,retired,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Devin,DosSantos,Roxbury,MA,02119,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Kaydin,DosSantos,Roxbury,MA,02119,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Kaylib,DosSantos,Roxbury,MA,02119,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Ian,Gentle,Dorchester,MA,02125,25,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-29,"Barros, John F.",Acetyn,Rosario-Clark,Information Requested,"","",25,Not employed,Not employed,3/29/21 Deposit Report,No
+2021-03-29,"Barros, John F.",Antonia,Soares,Roxbury,MA,02119,50,Not employed,Not employed,3/29/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Samora,Andrade,Rockland,MA,02370,100,Category Manager,Stop & Shop,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Joe,Avellone,Wellesley,MA,02481,100,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Margarita,Barrios,West roxbury,MA,02132,100,Professor,Northeastern,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Celina,Barrios-Millner,Roslindale,MA,02131,100,Policy Advisor,City of Boston,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Ivan,Barros,Waltham,MA,02452,100,Technical support analyst,Berkshire Partners LLC,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Joao,Barros,Canton,MA,02021,250,Senior Director of Operations,C&W Services,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Loduvina,Barros,Brockton,MA,02301,100,Teacher,Brockton Public,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Zulmira,Barros,Milton,MA,02186,100,Manager,Panera Bread,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Daniel,Benard,Malden,MA,02148,200,Consultant,Harbor Insights,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Steven,Boris,Jamaica plain,MA,02130,25,Attorney,Krasnow et al,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",PIERRE,BOURSIQUOT,NEWTON,MA,02460,1000,Financial Services,Prime Lending,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Adilson,Cardoso,Boston,MA,02119,1000,Educator,BPS,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Margarida,Cardoso,Boston,MA,02121,100,Not Employed,Not Employed,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Terry,Christie,scarsdale,NY,10583,25,accounts manager,Terry Christie,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Jacqui,Conrad,Milton,MA,02186,1000,Marketing Administrator,Cambridge College,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Evelyn,Correa,Dorchester,MA,02125,3,Family Liaison,Boston Public Schools,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Nadeen,Correia-Gomes,Hyde Park,MA,02137,25,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Genevieve,Cromer,Suitland,MD,20746,50,Teacher,PGCEA,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Eliza,Datta,Newton Center,MA,02459,250,Self-employed,E3 Development LLC,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Bartolomeu,DeBarros,Canton,MA,02021,100,Substitute Teacher,BPS,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Miguel,Do Canto,Dorchester,MA,02125,100,Accountant,BBH,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Driscoll,DoCanto,Dorchester,MA,02125,250,Wealth Advisor,Bank of America/Merrill Lynch,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Michael,Docanto,Milton,MA,02186,500,Finance,Computershare,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Linda,Dorcena Forry,Dorchester,MA,02124,250,Management,Suffolk Construction,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Lisa,Dos Santos,Roxbury,MA,02119,100,Finance,SSC,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Andrew,Farnitano,Boston,MA,02119,200,Consultant,Crawford Strategies Inc.,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Emanuel,Fidalgo,North Hollywood,CA,91601,25,Producer,Freelance,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Vanessa,Fidalgo,Boston,MA,02121,50,Program Director,Mass Mentors,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Terrence,Finn,Newton,MA,02465,50,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Maria,Fontes,Mattapan,MA,02126,500,Food Prep,WholeFoods,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Jascha,Franklin-Hodge,Jamaica Plain,MA,02130,500,Not Employed,Not Employed,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Jackie,Gelb,Auburndale,MA,02466,100,Chief Strategy Officer,Children's Services of Roxbury,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Lori Ann,Gerdisch,Zionsville,IN,46077,250,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Marjorie,Glazer,Boston,MA,02199,250,Not employed,Not employed,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Alice,Gomes,Hyde Park,MA,02136,100,District,Kfc,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Bernardo,Gonsalves,East Boston,MA,02128,100,Not Employed,Not Employed,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Keon,Holmes,Needham,MA,02492,150,Investment Director,Cambridge Associates,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Marianne,Hughes,Dorchester,MA,02124,50,Consultant,Marianne Huges,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",John,Hynes,Boston,MA,02116,500,RE Developer,BGI,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Bruce,Johnson,Roslindale,MA,02131,100,Not employed,Not employed,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Judith,Kurland,Newton,MA,02459,100,Not employed,Not employed,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Maria,Lima,Kissimmee,FL,34746,100,Realtor,Dalton Wade,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Jessica,Lipnack,San Francisco,CA,94110,100,Writer,Jessica Lipnack,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",John,Lippitt PDM,Reading,MA,01867,25,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Mariza,Lopes,Pawtucket,RI,02861,250,Psychologist,NAVY,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Flavio,Maia,Stoughton,MA,02072,1000,Self Employed,Maia Electrical,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Jaime,Manion,Framingham,MA,01701,1000,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Michael,Manove,Brookline,MA,02446,100,Professor,Boston University,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Christina,Marcelino,Brockton,MA,02301,25,Manager,Stop & Shop,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Nick,Markopoulos,Hudson,MA,01749,250,Sales,Alpha Restaurant equipment and supplies,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Dick,Marks,Newton,MA,02467,1000,Real Estate Executive,WS Asset Management,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Ceasar,McDowell,Watertown,MA,02472,100,Professor,MIT,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Amon,Millner,WEST ROXBURY,MA,02132,100,Professor,Olin College of Engineering,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Claudia,Monteiro,Not Hispanic or Latino,MA,02368,100,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Jessica,Monteiro,Dorchester,MA,02125-1733,40,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Sara,Myerson,Wellesley,MA,02481,500,Finance,GSD Urban Solutions (dba MSquared),3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Robert,Nichols,Boston,MA,02122,500,Rea Estate,Boston Trust Realty Group,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Jonathan,Nierman,North Smithfield,RI,02896,100,Chief Development Officer,JVS BOSTON,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",kathleen,Oneil,Newtown Square,PA,19073,100,Not Employed,Not Employed,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Deval,Patrick,Richmond,MA,01254,500,Consulting,Deval Patrick,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Arthur,Pearson,Boston,MA,02127,10,Educator,Outward Bound,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",elvira,ponce,brookline,MA,02446,100,medical director,sanofi genzyme,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",margaret,pontes,Dorchester,MA,02125,85,Claims adjudicator,Molina healthcare,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",margaret,pontes,Dorchester,MA,02125,50,Claims adjudicator,Molina healthcare,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",margaret,pontes,Dorchester,MA,02125,765,Claims adjudicator,Molina healthcare,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Samira,Pontes,Boston,MA,02125,100,Senior AP Analyst,Duck Creek Technologies,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Seth,Priebatsch,Boston,MA,02111,1000,Partner,Groma,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Claire,Reinelt,Lexington,MA,02421,100,Consultant,Claire Reinelt,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Bud,Ris,Boston,MA,02109,250,President & CEO,New England Aquarium,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Michael,Rooney,HINGHAM,MA,02043,1000,Real Estate Executive,JLCD Development,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Lisa,Schank,Savannah,MO,64485,100,marketing,Lisa Schank,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Ambreen,Shah,New york,NY,10010,50,Sales,Cornerstone macro,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Madeleine,Steczynski,East Boston,MA,02128,25,Founder / Executive Director,ZUMIX,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Peter,Suchcicki,Leesburg,VA,20175,100,Air traffic controller,FAA,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Bartolomeu,Teixeira,Milton,MA,02186,50,Operation Manager,Northeastern university,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Maria,Teixeira,Milton,MA,02186,50,Certified unit coordinator,Bwh,3/30/21 Deposit Report,Yes
+2021-03-30,"Barros, John F.",Yanni,Tsipis,WESTWOOD,MA,02090,750,Real Estate,WS Asset Management,3/30/21 Deposit Report,No
+2021-03-30,"Barros, John F.",Natalio,Xavier,Dorchester,MA,02124,100,Engineer,Boston Medical center,3/30/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Jose,Amado,Dorchester,MA,02125,1000,Bus Driver,Bus Driver,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",William,Banfield,Boston,MA,02130,250,Berklee College of Music,Professor,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",William,Banfield,Boston,MA,02130,250,Berklee College of Music,Professor,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",William,Banfield,Boston,MA,02130,250,Berklee College of Music,Professor,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",William,Banfield,Boston,MA,02130,250,Berklee College of Music,Professor,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Marcos,Barros,Boston,MA,02119,1000,Hancock St,Barber,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Manuel,Brea,Dorchester,MA,02124,1000,Maintenance,Maintenance,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Ricardo,Bryant,Dorchester,MA,02125,500,Information Requested,Information Requested,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Julio,Burgo,Central Falls,RI,02863,1000,Providence Metallizing ,Environmental Services,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Carlos,Castillo,Dorchester,MA,02122,1000,Self-Employed,Carlos Castillo,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Flor,Castillo,Dorchester,MA,02122,1000,Self-Employed,Flor Castillo,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Antonio,Chicha,Dorchester,MA,02122,1000,Chicha Construction,Contractor,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Mark,Conrad,Milton,MA,02186,1000,Information Requested,Information Requested,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Erkrys,DaSilva,Dorchester,MA,02125,1000,Self Employed,Erkrys DaSliva,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Onilda,DaSilva,Quincy,MA,02169,1000,Real Estate Broker,Real Estate Broker,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Aida,DePina,Dorchester,MA,02125,1000,Mass General Hospital,Environmental Services,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Luciano,DePina,Bridgewater,MA,02324,1000,Luciano Electrical & Contracting Services LLC,Owner,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Manuel,Depina,Dorchester,MA,02125,1000,Boston Water & Sewer,"",3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Aires,Do Canto,Weymouth,MA,02188,150,Brigham and Women's Hospital,Network System Adminstrator,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Florangel,Echavarria,Dorchester,MA,02124,1000,Boston Public School,Lunch Monitor,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Jose P,Fidaglo,Roxbury,MA,02119,400,Self Employed,Jose P. Fidaglo,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Joceline,Fidalgo,Dorchester,MA,02125,900,Not Employed,Not Employed,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Joyceanna,Fidalgo,Dorchester,MA,02125,900,Boston Children's Hosptial,Practice Administrator,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Sabina,Fidalgo,Randolph,MA,02368,900,Nova Medical,Assembly,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Thomas,Foley,Boston,MA,02124,1000,Information Requested,Information Requested,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Abrigal,Forrester,Hyde Park,MA,02136,1000,Teen Empowerment,Executive Director,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Eugenia,Goncalves,Milton,MA,02186,1000,Boston Public School,Teacher,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Conan,Harris,Hyde Park,MA,02136,500,Self Employed,Conan Harris,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Ana,Hernandez,Dorchester,MA,02121,1000,Homemaker,Not Employed,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Margaret,Leonard,Dorchester,MA,02125,150,Retired,Not Employed,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Maria,Lopes-Chicha,Dorchester,MA,02122,1000,Unicco,Environmental Services,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Aleida,Miranda,Randolph,MA,02386,900,Brigham and Women's Hospital,Gift Coordinator,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Georgina,Neate,Hyde Park,MA,02136,1000,Information Requested,Information Requested,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Carina,Pina,Mattapan,MA,02126,1000,Plymouth Rock Insurance Co,"",3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Jose M,Pina,Dorchester,MA,02125,1000,Mass General Hospital,Environmental Services,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Vadilson,Pina,Boston,MA,02126,1000,Amazon Delivery,Owner,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Louis,Pinheiro,East Weymouth,MA,02189,500,Carlos Plumbing,Owner,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Maria,Pinheiro,Dorchester,MA,02122,500,Carlos Plumbing,Owner,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Trevor,Poff,Boston,MA,02186-4650,1000,Information Requested,Information Requested,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Jeff,Ravelo,Somerville,MA,02145,1000,Jay Elite Llc,Jay Elite Llc,3/31/21 Deposit Report,No
+2021-03-31,"Barros, John F.",Jose Antonio,Silva Pina,Boston,MA,02125,1000,Self-Employed,Maintenance,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Antonio,Silveira,Dorchester,MA,02125,1000,Retired,Not Employed,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Porfirio,Silveira,Mattapan,MA,02126,1000,Crown Pizza,Manager,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Francisca,Spinola Miranda Silva,Dorchester,MA,02125,1000,Mass General Hospital,Environmental Services,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Egidio,Teixeira,Roxbury,MA,02119,1000,Ideal's Subshop,Owner,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Gildo,Teixeira,Roxbury,MA,02119,1000,Information Requested,Information Requested,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Justin,Teixeira,Roxbury,MA,02119,1000,JetBlue,JetBlue,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Michael,Vaughan,Boston,MA,02127,500,Founder & President,Nauset Strategies,3/31/21 Deposit Report,Yes
+2021-03-31,"Barros, John F.",Gregory,Watson,Falmouth,MA,02540,100,Schumscher Center for a New Economics,Director for Policy and Systems Design,3/31/21 Deposit Report,No
