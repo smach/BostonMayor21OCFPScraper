@@ -17111,6 +17111,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-05,"Campbell, Andrea Joy",Susan,Whitehead,Boston,MA,02116-6355,500,Retired,None,4/5/21 Deposit Report,No
 2021-04-05,"Campbell, Andrea Joy",Mindy,Wright,Dorchester Center,MA,02124-4632,25,Chief Program Officer,The Upward Project,4/5/21 Deposit Report,No
 2021-04-05,"Campbell, Andrea Joy",Shiyu,Wu,Dorchester,MA,02124-3805,500,Accountant,Jack Wu & Associates LLC,4/5/21 Deposit Report,No
+2021-04-06,"Campbell, Andrea Joy",Daniel,Durgin,Boston,MA,02109-1350,750,Lineman,Eversource,4/6/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Kathryn,Allen,Worcester,MA,01602-2750,5,Social Worker,Reliant Medical Group,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Oliver,Ames,Dedham,MA,02026-4054,500,Attorney,"Casner & Edwards, LLP",4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Austin,Baird,Boston,MA,02130-2645,5,Senior Technical Support Specialist,"Bluebeam, Inc.",4/12/21 Deposit Report,No
@@ -17162,6 +17163,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-12,"Campbell, Andrea Joy",Christina,Lewis,Needham,MA,02492-4703,300,Attorney,Goodwin Procter LLP,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Diana,Lloyd,Sharon,MA,02067-2753,250,Attorney,"Choate, Hall & Stewart LLP",4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Anne-Marie,Maman,Princeton,NJ,08540-3476,25,Not Employed,None,4/12/21 Deposit Report,No
+2021-04-12,"Campbell, Andrea Joy",Alrieda,Marsh,Roslindale,MA,02131-3827,100,Retired,None,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Tracy,Matthews,Newton,MA,02459-1310,100,Not Employed,None,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Sam,Mawn-Mahlau,Winchester,MA,01890-3933,100,Attorney,"Davis, Malm & D'Agostine, P.C.",4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Kevin,McCluskey,Hingham,MA,02043-1105,100,"Director, Public Affairs",MWRA,4/12/21 Deposit Report,No
@@ -17181,6 +17183,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-12,"Campbell, Andrea Joy",Sharma,Ross,Dorchester Center,MA,02124-2126,20,Paralegal,Ropes & Gray,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Suzanne,Salamon,Brookline,MA,02445-5707,100,Physician,Beth Israel Deaconess Medical Center,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Andrew,Schapiro,Chicago,IL,60614-8368,250,Attorney,"Quinn Emanuel Urquhart & Sullivan, LLP",4/12/21 Deposit Report,No
+2021-04-12,"Campbell, Andrea Joy",Janytt L,Scott,Dorchester Center,MA,02124-4427,25,Not Employed,None,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Charlotte,Simpson,Boston,MA,02116-1269,100,Not Employed,None,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Maxwell,Solet,Cambridge,MA,02138-3409,200,Not Employed,None,4/12/21 Deposit Report,No
 2021-04-12,"Campbell, Andrea Joy",Jared,Staley,Boston,MA,02109-1035,25,Temp,Beacon Hill Staffing Group,4/12/21 Deposit Report,No
@@ -17318,6 +17321,10 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-19,"Campbell, Andrea Joy",Gregory,Youman,Newton,MA,02458-2713,100,Attorney,K&L Gates LLP,4/19/21 Deposit Report,No
 2021-04-19,"Campbell, Andrea Joy",Wayne,Ysaguirre,Boston,MA,02119-1422,25,Founding Executive Director,The Care Institute,4/19/21 Deposit Report,No
 2021-04-19,"Campbell, Andrea Joy",Lisa,Zankman Burke,Boston,MA,02130-2027,250,Not Employed,None,4/19/21 Deposit Report,No
+2021-04-20,"Campbell, Andrea Joy",Marta,Bergamaschi,Boston,MA,02116-2218,500,Investor Relations Manager,Rollo Capital,4/20/21 Deposit Report,No
+2021-04-23,"Campbell, Andrea Joy",James M,Connors,Boston,MA,02116-5456,200,Consultant,James M. Connors,4/23/21 Deposit Report,No
+2021-04-23,"Campbell, Andrea Joy",Charles,Gifford,Chestnut Hill,MA,02467-1311,1000,Private Equity Investor,"New Heritage Capital, LLC",4/23/21 Deposit Report,No
+2021-04-23,"Campbell, Andrea Joy",Cynthia W,Gorton,Boston,MA,02110-3394,100,Retired,None,4/23/21 Deposit Report,No
 2021-04-26,"Campbell, Andrea Joy",Norman,Abbott,Concord,MA,01742-3724,25,Assistant Regional Director,Anti-Defamation League,4/26/21 Deposit Report,No
 2021-04-26,"Campbell, Andrea Joy",Adriana,Acypreste,Allston,MA,02134-3320,5,Consultant,Adriana Acypreste,4/26/21 Deposit Report,No
 2021-04-26,"Campbell, Andrea Joy",Jonathan,Aibel,Concord,MA,01742-2937,72,Software Engineer,Commonwealth Financial Network,4/26/21 Deposit Report,No
@@ -17449,6 +17456,169 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-26,"Campbell, Andrea Joy",Brace,Young,Newton,MA,02465-2419,1000,Not Employed,None,4/26/21 Deposit Report,No
 2021-04-26,"Campbell, Andrea Joy",Andrew,Youngman,Newton,MA,02465-2955,1000,C.E.O.,Citizens Disability LLC,4/26/21 Deposit Report,No
 2021-04-26,"Campbell, Andrea Joy",Joseph,Ziehler,New York,NY,10003-4319,250,Not Employed,None,4/26/21 Deposit Report,No
+2021-04-28,"Campbell, Andrea Joy","",Massachusetts Association of Community Health PAC (80676),Boston,MA,02112-0630,100,"","",4/28/21 Deposit Report,No
+2021-04-28,"Campbell, Andrea Joy",Helen,Strieder,Jamaica Plain,MA,02130-4025,1000,Not Employed,None,4/28/21 Deposit Report,No
+2021-04-29,"Campbell, Andrea Joy",Jonathan,Davis,Chestnut Hill,MA,02467-2907,300,C.E.O.,The Davis Companies,4/29/21 Deposit Report,No
+2021-04-29,"Campbell, Andrea Joy",Stephen T,Davis,Boston,MA,02118-2774,350,Co-President,The Davis Companie,4/29/21 Deposit Report,No
+2021-04-29,"Campbell, Andrea Joy",Thomas J,DeSimone,Swampscott,MA,01907-3406,1000,Partner,W/S Development Associates LLC,4/29/21 Deposit Report,No
+2021-04-29,"Campbell, Andrea Joy",William F,Kennedy,Dorchester,MA,02124-5852,200,Attorney,Nutter McClennan & Fish,4/29/21 Deposit Report,No
+2021-04-29,"Campbell, Andrea Joy",John B,MacLeod,Lincoln,MA,01773-5104,300,Software Engineer/Technologist,John B.  MacLeod,4/29/21 Deposit Report,No
+2021-04-29,"Campbell, Andrea Joy",Isabelle T,Rubin Davis,Boston,MA,02118-2774,350,Art Director,Isenberg Projects,4/29/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Joyce,Amico,Dorchester,MA,02121-3411,750,Consultant,CJ Consulting,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Bernard,Asirifi,Gahanna,OH,43230-4554,500,Attorney,Scotts Miracle Gro,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Maggie,Austen,Dorchester,MA,02124-4684,10,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Janice,Bacon,Dorchester Center,MA,02124-1920,25,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Margaret,Bane,Boston,MA,02116-5743,500,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Michelle,Banks,San Francisco,CA,94123-1016,500,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Tara,Bansal,Dix Hills,NY,11746-5610,10,Investor,Breakthrough Energy,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Chris,Beaton,Boston,MA,02114-2293,25,Sales,Higher Logic,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Susanne,Beck,New York,NY,10025-0019,100,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Catharine,Bellinger,Washington,DC,20009-1386,50,Nonprofit Administrator,IDEA Public Schools,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Devin,Bolger,Manchester,NH,03101-1521,25,Attorney,"Devine, Millimet & Branch, PA",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Timothy,Bonito,West Springfield,MA,01089-4551,500,Event Production,NV Concepts,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Ann,Bookman,Boston,MA,02116-1726,100,Faculty,University of Massachusetts Boston,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Chad,Boulay,South Boston,MA,02127-5415,300,Real Estate,CREF,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",John,Boyan,San Antonio,TX,78209-6148,250,Student,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Rodger,Brown,Sherborn,MA,01770-1302,250,Managing Director,Preservation of Affordable Housing,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Sherri-Ann,Burnett Bowie,Somerville,MA,02144-1110,100,Physician,Massachusetts General Hospital,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Elena,Caple,West Hollywood,CA,90046-6212,50,Account Director,Sunshine Sachs,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Charles,Cercone,Lake View,NY,14085-9453,1000,Attorney,State of New York,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Karen,Chacon,Marion,MA,02738-1192,100,Executive Director,Latino STEM Alliance,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Karen,Charles,Boston,MA,02122-1713,125,Manager,Commonwealth of Massachusetts,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Bhargavi,Chevva,Quincy,MA,02169-5387,10,Finance,Breakthrough Energy,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jon,Cieslak,San Diego,CA,92110-1525,100,Attorney,"Bona Law, PC",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Shelby,Cole,Washington,DC,20001-1206,5,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Maria,Conroy,Newton,MA,02465-2514,500,Donor Relations,Tufts University,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Viktoria,Cornelius,Los Angeles,CA,90046-1322,200,"Vice President, Development",Spread the Vote,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Frank,Costa,Lynnfield,MA,01940-1830,500,Entertainment,Big Night Nightlife,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",RoAnn,Costin,Cambridge,MA,02142-1187,500,Finance,RoAnn Costin,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",William,Cowan,Westwood,MA,02090-3041,500,Attorney/Lobbyist,General Electric,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Erin,Cox,Los Angeles,CA,90027-1306,1000,Attorney,"Munger, Tolles & Olson LLP",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Thomas,Crohan,Norwell,MA,02061-2542,100,Counsel,John Hancock,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Billy,Curtis,Boston,MA,02118-3700,3,Marketing Analyst,Thought Industries,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Daniel,Dain,Needham,MA,02492-4429,50,Attorney,Dain Torpy Le Ray Wiest & Garner PC,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Anthony,DeCotis,Middleton,MA,01949-1926,1000,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Michelle,Dhanda,Dorchester Center,MA,02124-5729,100,Attorney,Michelle Dhanda,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Margaret,Di Pesa,Scituate,MA,02066-1530,50,Fundraising Coordinator,Ben Downing for Governor,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Theresa,Dolan,Dorchester Center,MA,02124-5767,25,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Megan,Donovan,Boston,MA,02130-3245,10,Social Worker,Dana-Farber Cancer Institute,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jennifer,Doran,Boston,MA,02115-1125,250,Attorney,Hinckley Allen,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Mark,Dufton,Ogunquit,ME,03907-3244,100,Real Estate,Gordon Brothers,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Nicole,Dumas,Jamaica Plain,MA,02130-4635,25,Major Gift Officer,BLSA,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Daryl,Eli,Shirley,MA,01464-2343,25,Instructor,Job Corps,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Adler,Eliacin,Boston,MA,02119-1430,100,Executive Director,Haitian Chamber of Commerce of Greater Boston,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Megan,Evans,Brookline,MA,02445-5908,500,Physician,Tufts Medical Center,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Debra,Farrar-Parkman,Dorchester Center,MA,02124-1609,150,Development Director,East Boston Neighborhood Health Center,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Elissa,Fenster,Newton,MA,02458-2338,100,Interior Designer,Elissa Fenster,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Nadia,Fenton-Rahim,Mattapan,MA,02126-2706,50,Marketing Coordinator,Harvard Graduate School of Education,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Rodney,Frias,Hudson,MA,01749-1793,500,Owner,S & F Concrete Contractors,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Linda,Gallant,Wakefield,MA,01880-2608,25,Professor,Emerson College,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Robyn,Glover,Needham Hgts,MA,02494-1809,300,Psychologist,Robyn Glover,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Tanya,Greene,Simi Valley,CA,93065-0507,1000,Attorney,McGuireWoods LLP,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Sarah,Grucza,Boston,MA,02113-2548,20,Communications Specialist,Harvard Kennedy School,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jacqueline,Haley,Mattapan,MA,02126-1524,50,Director of External Affairs,Museum of African American History,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Pete,Hall,East Boston,MA,02128-1502,100,Communications,Emerson College,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Dewayne,Harrell,Plymouth,MA,02360-4099,150,Supervisor,UPS,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Robert E,Harrington,Roslindale,MA,02131-1517,1000,Police Officer,City of Boston,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Lydia,Hausle,Dorchester Center,MA,02124-3682,25,Urban Planner,Toole Design Group,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Mary,Herlihy,Newton Center,MA,02459-1136,1000,Physician,Mary Herlihy,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Dana,Hershman,Boston,MA,02127-3341,25,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Linda,Hickman,Boston,MA,02118-3836,100,Homemaker,At Home,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Bernard,Hicks,Dorchester,MA,02124-3711,50,Barber,Nu Image Barbershop,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Amanda,Hills,Washington,DC,20005-5186,36,Political Coordinator,End Citizens United,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Matt,Hills,Newton Centre,MA,02459-1312,500,Managing Director,LLM Capital Partners,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Meredith,Hills,Washington,DC,20009-3261,50,Associate,Advance CTE,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jennifer,Huntington,Auburndale,MA,02466-2624,100,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Tahir,Hussain,Allston,MA,02134-4529,7,Administrator,City of Boston,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Stephanie,Irving,Dorchester Center,MA,02124-2324,40,Teacher,Uncommon Schools,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Peter,Isham,Norton,MA,02766-2334,25,Teacher,Boston Public Schools,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Sherry,Jackman,Los Angeles,CA,90067-3200,50,Environmental Attorney,Greenberg Glusker LLP,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Melania,Jankowski,South Boston,MA,02127-4660,10,Law Clerk,Federation of State Medical Boards,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jane,Kelley,Boston,MA,02127-2401,25,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Peter,Kelly,West Newton,MA,02465-1035,50,Nonprofit Administrator,BLSA,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Ellen,King,Boston,MA,02132-3230,10,Contact Tracer,Partners in Health,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jeffrey,Kushner,Brookline,MA,02445-5726,250,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Ronald H,Lammy,Swampscott,MA,01907-1758,25,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",John,Larivee,Boston,MA,02110-3396,100,Criminal Justice Services,Community Resources for Justice,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Justin,Lauture,Dorchester,MA,02125-2828,100,Assistant Communications Planner,Mediahub,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Joseph,Lavoie Jr,Somerville,MA,02143-3408,100,Sales Manager,AnchorOps,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Robert,Leikind,Newton,MA,02458-2121,50,Regional Director,American Jewish Committee,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Erica,Liepmann,La Canada Flintridge,CA,91011-3810,25,Co-Founder,Ready to Launch,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Erica,Liepmann,La Canada Flintridge,CA,91011-3810,15,Co-Founder,Ready to Launch,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Sharon,Liszanckie,Brookline,MA,02445-6841,50,Executive Director,Boston Prep,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Roger,Lowenstein,Cambridge,MA,02138-3502,100,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Nancy J,Ludwig,Charlestown,MA,02129-3315,250,Architect,"ICON Architecture, Inc.",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Mahmood,Malihi,Boston,MA,02108-1317,500,Real Estate,Leggat McCall Properties,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Douglas,Manz,Southborough,MA,01772-1994,250,Development Director,"The HYM Investment Group, LLC",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Joseph,Mastromatteo,Worcester,MA,01602-1217,1000,Construction Management,Big Night Entertainment Group,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Danna,Mauch,Cambridge,MA,02140-2606,250,Health Policy Executive,Massachusetts Association for Mental Health Inc.,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Matthew,McLaughlin,Washington,DC,20009-4569,25,Strategist,Anne Lewis Strategies,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Amy,McNamee,Boston,MA,02127-3917,100,Attorney,Grimaldi Law,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Fiona,Merullo,Studio City,CA,91602-3194,25,Media Buyer,A24 Films,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Beverly,Merz,Boston,MA,02118-3411,25,Editor,Beverly Merz,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Marisa,Michelson,Medfield,MA,02052-2215,250,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Christopher,Mills,Norwell,MA,02061-1126,10,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Benjamin,Moll,Boston,MA,02116-5216,250,Real Estate,Arx Urban,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jonathan,Napoli,Boston,MA,02119-2086,500,Director of Cultivation,"Good Health, Inc.",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Kyle,Neill,Boston,MA,02118-1148,25,Assistant,Boston City Council,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Peter,Nordblom,Holderness,NH,03245-5129,250,Real Estate,Nordblom Company,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Catherine,Oh,Oakdale,CT,06370-1713,1000,Writer,Catherine Oh,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Marjorie,OMalley,Charlestown,MA,02129-3715,50,Fundraiser,Massachusetts College of Art & Design,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Bernice,Osborne,Dorchester,MA,02122-2303,100,Real Estate Broker,Bernice Osborne,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Elizabeth,Owens,Boston,MA,02108-3422,250,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Daniel,Passacantilli,Jamaica Plain,MA,02130-2442,1000,President,Blue Front Telecom Group,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Elizabeth,Pauley,Dorchester,MA,02125-4548,100,Program Director,The Boston Foundation,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Pablo,Pena,Jamaica Plain,MA,02130-1219,25,Software Engineer,"LiveData, Inc",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Yvette,Philip,Mattapan,MA,02126-1328,25,C.F.O.,Brooke Charter School,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jud,Pierce,Arlington,MA,02474-1204,50,Attorney,Pierce Pierce & Napolitano,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Justine,Pouravelis,Charlestown,MA,02129-3423,400,Television Producer,NESN,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Justine,Pouravelis,Charlestown,MA,02129-3423,250,Television Producer,NESN,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Nora,Princiotti,Boston,MA,02114-4519,100,Media,Spotify,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Lisette,Pylant,Andover,MA,01810-5604,50,Events Coordinator,Boston Athenaeum,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Laurie,Radwin,Roslindale,MA,02131-4215,150,Nurse Principal Investigator,Laurie Radwin,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jessica,Rankin,Rossmoor,CA,90720-4347,250,Attorney,Southern California Edison,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Liza,Rebold,Brooklyn,NY,11249-3285,25,Finance Associate,Ray McGuire for Mayor,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Robin,Reed,Boston,MA,02122-1729,100,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Edith,Rees,Boston,MA,02131-3331,50,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Elyse,Ressler,Boston,MA,02210-3421,1000,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Josef,Rettman,Windermere,FL,34786-7601,1000,President,NEI General Contracting,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Teresa,Rodriguez,Jamaica Plain,MA,02130-2706,25,Educator,Winsor School,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Ora,Rosenbaum,Atlanta,GA,30318-6189,50,Politics & Philanthropy Associate,Office of Susie Tompkins Buell,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Dana,Rowan,Boston,MA,02116-2751,50,Real Estate,The Exeter Companies,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Peter,Sanborn,Boston,MA,02118-3349,250,Consultant,"Community Opportunities Group, Inc.",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jon,Schulman,Springfield,OR,97477-1595,250,Environmental Engineer,Stantec Consulting Inc.,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Aaron,Schultz,Weymouth,MA,02188-2802,20,Medical Researcher,Massachusetts General Hospital,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Amanda,Seider,Milton,MA,02186-1126,100,Nonprofit Manager,Teach for America,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Neal,Shalom,Boston,MA,02108-2800,1000,Real Estate Development,Waterstone Properties Group,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Stephanie,Shapiro Berkson,Boston,MA,02118-3290,100,Lecturer,University of Illinois Chicago,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Raynya,Simmons,Milton,MA,02186-5217,100,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Sharon,Sinnott,Hyde Park,MA,02136-3622,500,Professor,Babson College,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",John,Smith,Dorchester,MA,02124-1236,100,Manager,Fair Housing Center of Greater Boston,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Martin,Solomon,Brookline,MA,02446-3936,200,Physician,BWPO,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Christopher,Standring,Boston,MA,02114-2823,25,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Anthony K,Stankiewicz,Andover,MA,01810-4607,100,Chief of staff,Codman Health Center,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jill,Stansky,Sudbury,MA,01776-1147,100,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Norman,Stein,Brookline,MA,02446-6772,250,Principal,Development Solutions,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jennifer,Strong,New York,NY,10128-3458,500,Nurse Practitioner,Bariatric Associates,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",James,Swartz,Park City,UT,84060-5456,1000,Investor,Accel Managment,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Chloe,Swenson,Minneapolis,MN,55405-3162,25,Public Relations,Weber Shandwick,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Peter,Tobani,Dorchester,MA,02125-1888,250,Attorney,Liberty Mutual Group,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Tony,Tolbert,Los Angeles,CA,90016-5824,250,Admissions Officer,UCLA School of Law,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Arthur,Ullian,Newton,MA,02458-2332,1000,Owner,Boston Land Company,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Steve,Van Ness,Watertown,MA,02472-1813,300,Architect,CREF,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Rose,Wallace,Saint Charles,IL,60174-3564,50,Fundraiser,Lauren Underwood for Congress Committee,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Kathleen,Walsh,Boston,MA,02118-2129,200,Healthcare Executive,Boston Medical Center,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Jocelyn,Walton,Oak Bluffs,MA,02557-0369,150,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Wendy,Warring,Boston,MA,02118-3700,250,C.E.O.,NEHI,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Shannon,Webster,Ocean Park,ME,04063,500,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Katie,Wetterer,Boston,MA,02113-1548,10,Manager,"Wayfair, Inc.",4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",James,White,Boston,MA,02124-3315,25,Administrator,Boston Police Department,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Paul,White,Dennis,MA,02638-1611,1000,Not Employed,None,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Amanda,Wibben,Boston,MA,02127-7872,50,Process Development Associate,Broad Institute,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Domonique,Williams,Washington,DC,20011-3260,100,Deputy Director,City of Boston,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Leslie,Williams,Arlington,VA,22202-4414,500,Sales,Risk Cooperative,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Mari,Young,Los Angeles,CA,90048-2715,500,Production Assistant,Los Angeles Media Fund,4/30/21 Deposit Report,No
+2021-04-30,"Campbell, Andrea Joy",Lisa,Zankman Burke,Boston,MA,02130-2027,250,Not Employed,None,4/30/21 Deposit Report,No
 2020-02-04,"Essaibi George, Annissa","",Painters District Council #35 PAC,Roslindale,MA,02131,500,"","",2/4/20 Deposit Report,Yes
 2020-03-05,"Essaibi George, Annissa","",Boston Police Patrolmens Assoc. Pol Action Comm.,Dorchester,MA,02122,500,"","",3/5/20 Deposit Report,Yes
 2020-03-05,"Essaibi George, Annissa",William,Kennedy,Dorchester,MA,02124,200,Attorney,"Nutter, McClennen & Fish, Llp",3/5/20 Deposit Report,Yes
