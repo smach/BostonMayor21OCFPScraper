@@ -5565,3 +5565,6 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15618	"Essaibi George, Annissa"	"5/25/2021"	"Zachrison"	"Eric E"	"1 Ludlow St ,"	"Boston"	"MA"	"02129-1855"	500.0000	"Owner"	"Context LLC"	""	"0"	5/25/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"5/25/2021"	"Zigmont"	"Elizabeth B"	"31 Longwood Ave , Apt 4"	"Brookline"	"MA"	"02446-5263"	2000.0000	"Assistant Director at the Early Childhood Learning"	"Boston University"	""	"0"	5/25/21 Deposit Report		1	Check
 201	Individual	15618	"Essaibi George, Annissa"	"5/25/2021"	"Ziobro"	"Zachary"	"166 F St , Apt 2"	"Boston"	"MA"	"02127-2237"	1000.0000	"Server"	"Loco Taqueria"	""	"0"	5/25/21 Deposit Report		1	Check
+202	Committee	15618	"Essaibi George, Annissa"	"5/27/2021"	"ActBlue"	""	"PO Box 441146 ,"	"West Somerville"	"MA"	"02144-0031"	-4.5100	""	""	""	"0"	5/27/21 Deposit Report		1	Check
+220	Aggregated Unitemized Receipts	15618	"Essaibi George, Annissa"	"5/27/2021"	"Aggregated Unitemized Receipts"	""	""	""	""	""	14.0000	""	""	""	"0"	5/27/21 Deposit Report	Aggregated Unitemized Receipts	0	
+201	Individual	15618	"Essaibi George, Annissa"	"5/27/2021"	"Lesly"	"Michael D"	"2 Puritan Ave ,"	"Dorchester"	"MA"	"02121-3512"	100.0000	"Union Pipefitter"	"Corporate Mechanical"	""	"0"	5/27/21 Deposit Report		3	Credit Card
