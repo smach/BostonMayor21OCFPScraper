@@ -2259,7 +2259,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Holland"	"Paul"	"34 Lakeview Ave"	"Braintree"	"MA"	"02184"	1000.0000	"Executive"	"The Holland Companies"	""	"0"	4/30/21 Deposit Report		1	Check
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Hwang"	"Andreas"	"276 Cornell St"	"Roslindale"	"MA"	"02131"	200.0000	"Principal"	"Aponte Development"	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Ibarra"	"Mickey"	"1101 17th Street NW Suite 607"	"Washington"	"DC"	"20036"	250.0000	"Public Affairs Consultant"	"Ibarra Strategy Group"	""	"0"	4/30/21 Deposit Report		3	Credit Card
-201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Inello"	"Robert"	"200 Lynnway"	"Revere"	"MA"	"02151"	1000.0000	"Owner"	"Inello Electric"	""	"0"	4/30/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Inello, Jr"	"Robert"	"727 Revere Beach Parkway"	"Revere"	"MA"	"02151"	1000.0000	"Sales"	"Inello Electric"	""	"0"	4/30/21 Deposit Report		1	Check
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Inello"	"Robert"	"200 Lynnway"	"Revere"	"MA"	"02151"	1000.0000	"Owner"	"Inello Electric"	""	"0"	4/30/21 Deposit Report		1	Check
 202	Committee	16919	"Santiago, Jon"	"4/30/2021"	"Jack  Lewis Committee"	""	"PO Box 373"	"Ashland"	"MA"	"01721"	100.0000	""	""	""	"16324"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Jairam"	"Vikram"	"360 State St Apt 1709"	"New Haven"	"CT"	"06510"	100.0000	""	""	""	"0"	4/30/21 Deposit Report		3	Credit Card
@@ -2315,8 +2315,8 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Nickerson"	"Rebecca"	"75 Glen Road Unit B-5"	"Brookline"	"MA"	""	20.0000	""	""	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Nicosia"	"Anna"	"520 Harrison Avenue #502"	"Boston"	"MA"	"02118"	1000.0000	"Producer"	"Connelly Partners"	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Nicosia"	"Giampaolo"	"6525 Del Playa Drive"	"Goleta"	"CA"	"93117"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	4/30/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Nicosia, Jr"	"Mario"	"650 West Avenue Unit 120"	"Miami"	"FL"	"33139"	1000.0000	"Professional Tennis Player"	"Mario Nicosia, Jr"	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Nicosia"	"Mario"	"530 Harrison Ave"	"Boston"	"MA"	"02118"	1000.0000	"Principal"	"GTI Properties"	""	"0"	4/30/21 Deposit Report		1	Check
-201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Nicosia"	"Mario"	"650 West Avenue Unit 120"	"Miami"	"FL"	"33139"	1000.0000	"Professional Tennis Player"	"GTI Properties"	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"O'Sullivan"	"Paul"	"18 Laurelwood Dr"	"Norwell"	"MA"	"02018"	200.0000	"Consultant"	"Paul J O'Sullivan"	""	"0"	4/30/21 Deposit Report		1	Check
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"OConnor"	"Joseph"	"23 Race Rock Rd"	"Waterford"	"CT"	"06385"	100.0000	"Manager"	"COJE"	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Ortega"	"Danielle"	"1825 Wordsworth St."	"Ferndale"	"MI"	"48220"	50.0000	""	""	""	"0"	4/30/21 Deposit Report		3	Credit Card

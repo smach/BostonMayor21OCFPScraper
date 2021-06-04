@@ -11616,7 +11616,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-19,"Wu, Michelle",Nina,Sayles,Boston,MA,02135,5,Program Assistant,Harvard University,4/19/21 Deposit Report,Yes
 2021-04-19,"Wu, Michelle",Anthony,Scattaglia,Astoria,NY,11102,10,Non ProfIT Development,Queens Community House,4/19/21 Deposit Report,No
 2021-04-19,"Wu, Michelle",David,Schulenberg,Dorchester,MA,02125,5,Professor,Wagner College,4/19/21 Deposit Report,Yes
-2021-04-19,"Wu, Michelle",John,Scollins,Boxford,MA,01921,100,Not Employed,Not Employed,4/19/21 Deposit Report,No
+2021-04-19,"Wu, Michelle",John,Scollins (Actblue Issued Refund on 5/17/2021 Deposit Report),Boxford,MA,01921,100,Not Employed,Not Employed,4/19/21 Deposit Report,No
 2021-04-19,"Wu, Michelle",John,Scollins,Boxford,MA,01921,100,Not Employed,Not Employed,4/19/21 Deposit Report,No
 2021-04-19,"Wu, Michelle",Christian,Scorzoni,Amesbury,MA,01913,200,Counsel,Cosgrove Scorzoni & Kiley,4/19/21 Deposit Report,No
 2021-04-19,"Wu, Michelle",Kate,Shannon,Boston,MA,02124,20,EdITor,America'S Test Kitchen,4/19/21 Deposit Report,Yes
@@ -11826,7 +11826,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-26,"Wu, Michelle",Ann-Marie,Keltner,Jamaica Plain,MA,02130,100,Teacher,Park Street School,4/26/21 Deposit Report,Yes
 2021-04-26,"Wu, Michelle",Donna,Kenny,Charlestown,MA,02129,50,Not Employed,Not Employed,4/26/21 Deposit Report,Yes
 2021-04-26,"Wu, Michelle",Zoe,Kern,Boston,MA,02130,25,Teacher,Brookline Public Schools,4/26/21 Deposit Report,Yes
-2021-04-26,"Wu, Michelle",Euijin,Kim,Boston,MA,02134,10,Analyst,Analysis Group,4/26/21 Deposit Report,Yes
+2021-04-26,"Wu, Michelle",Euijin,Kim (Actblue Issued Refund on 5/17/2021 Deposit Report),Boston,MA,02134,10,Analyst,Analysis Group,4/26/21 Deposit Report,Yes
 2021-04-26,"Wu, Michelle",Hyungwoo,Kim,Boston,MA,02134,10,Lawyer,Commonwealth of Massachusetts,4/26/21 Deposit Report,Yes
 2021-04-26,"Wu, Michelle",Vivian,Kimball,Jamaica Plain,MA,02130,10,Environmental Scientist,VHB,4/26/21 Deposit Report,Yes
 2021-04-26,"Wu, Michelle",Ruth,Klepper,West Roxbury,MA,02132,10,Not Employed,Not Employed,4/26/21 Deposit Report,Yes
@@ -12374,6 +12374,1086 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-30,"Wu, Michelle",Rong,Zhang,Quincy,MA,02171,1000,Rong Zhang Acup,Manger,4/30/21 Deposit Report,No
 2021-04-30,"Wu, Michelle",Chan,Zhou,Shrewsbury,MA,01545,5,AP,UMMS,4/30/21 Deposit Report,No
 2021-04-30,"Wu, Michelle",Zara A,Zsido,Boston,MA,02118,25,"","",4/30/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Rosie,Abriam,Rockville,MD,20850,50,CxO,The Leader Project,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",James,Alexander,Boston,MA,02118,100,Architect,Finegold Alexander Architects,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Herbert,Ang,Lexington,MA,02421,100,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",David,Baler,Medfield,MA,02052,35,Not employed,Not employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Christina,Barry,Leominster,MA,01453,10,Community Manager,American Cancer Society,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Louise,Baxter,BOSTON,MA,02127,25,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Shane,Beck,Boston,MA,02113,3,Consultant,IBM,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Areya,Behrouzian,Washington,DC,20010,25,Digital Producer,U.S. Senate,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Stefan,Berteau,Boston,MA,02116,4,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Jesse,Biroscak,Roslindale,MA,02131,200,Product Manager,Modis,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Gaelan,Boss,Roslindale,MA,02131,10,Controller,True Fit Corporation,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Colette,Boudreau,Boston,MA,02131,10,Administrative Asst.,MIT,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Robert,Bowen,Reading,MA,01867,1000,Real Estate Manager,Eastport Real Estate Services,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Raquel,Breternitz,Somerville,MA,02143-1713,20.02,Head of Design,Aperture Health,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Ronald,Bridge,Boston,MA,02116,3,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Stephanie L.,Brown,Boston,MA,02116,1000,Lawyer,Markun zusman Freniere Compton,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Antonio,Caban,Brookline,MA,02446-2630,20.94,Communication,Comm of Mass,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Philip,Chao,Cabin John,MD,20818,500,Investment Advisor,Experiential Wealth,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Jehan,Chu,Hong Kong,"",00000,1000,Investor,Kenetic,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Henry,Cohen,Roslindale,MA,02131,25,Marketer,ASG,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Alessandra,Collias,Boston,MA,02118,35,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Spencer,Crawford,Boston,MA,02118,10,Policy Associate,J-PAL North America,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Kevin,Creighan,Washington,DC,20003,35,Union Officer,AFA-CWA,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Elaine,Cronin,Boston,MA,02114,5,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Irene,Daly,West Roxbury,MA,02132,10,Senior Program Manager,Mass General Brigham Incorporated,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Renee,DeKona,Roslindale,MA,02131,20,Photographer,Self,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",John,Doench,Boston,MA,02130,50,Scientist,Broad Institute,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Barbara,Donnelly,Dorchester,MA,02125,10,Office Manager,REsurety,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Claire,Dunivan,Somerville,MA,02143,5,Not employed,Not employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Pat,Falco,BOSTON,MA,02127,20.94,Artist,Self,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Emily,Feldhake,Chicago,IL,60647,35,Quality Improvement,Youth Guidance,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Matthew,Flannery,Highland Park,NJ,08904,10,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Jared,Flippen,Brookline,MA,02446,3,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Michael,Frisoli,Westwood,MA,02090,1000,Broker,Newmark,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Glen,Fukushima,Washington,DC,20037,1000,Senior Fellow,Center for American Progress,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Gregory,Fung,Boston,MA,02119,100,Sales,HubSpot,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Anthony,Galace,Chula Vista,CA,91914,25,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Grant,Gebetsberger,Tulsa,OK,74136,500,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Roy,Golan,Brookline,MA,02446,3,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Margarer,Green,Brookline,MA,02446,25,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Rebecca,Griffin,Boston,MA,02113,25,Teacher enrichment,Self,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Irene,Gruber,Sudbury,MA,01776,1000,Real Estate Mgmt,Atlantic Management,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Justin,Hardy,Belmont,MA,02478,35,Editor,Cambridge Associates,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Lydia,Hausle,Boston,MA,02124,25,Urban Planner,Toole Design Group,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Thomas,Hinchliffe,Jamaica Plain,MA,02130,25,Geographic Information Systems Specialist,ATI Systems,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Qichao,Hu,Woburn,MA,01801,1000,CEO,SES,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Chip,Huhta,Boston,MA,02118,50,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Danielle,Ibrahim,Allston,MA,02134,10,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",John,Iledan,Lawrence Township,NJ,08648,3,Office Assistant,Boston University,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Graham,Jenkins,Gardena,CA,90248,25,Risk Management Consultant,Ernst & Young,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Mark,Katz,Roslindale,MA,02131,50,Retired,None,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Sandra,Kautz,Boston,MA,02131,35,Not employed,Not employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Jake,Keller,Gaithersburg,MD,20878,4.2,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Timothy,Kelly,Mansfield,MA,02048,1000,Treasurer,J. Calnan & Associates Inc.,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Joan,Korb,Boston,MA,02108,200,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Katherine,Landesman,Medford,MA,02155,10,Analyst,AIR Worldwide,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Christopher,Lay,Somerville,MA,02144,250,Electrical Engineer,Analog Devices Inc.,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Jason,Lee,Monrovia,CA,91016,25,Editor,Bored pup,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Mingju,Lee,Hoffman Estates,IL,60192,100,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Nicholas,Lepham,Washington,DC,20001,50,Supervision Policy,Consumer Financial Protection Bureau,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Sherry,Lichtenberg,Washington,DC,20005,50,Deputy Director,National Regulatory Research Institute,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Casey,Liston,Winter Park,FL,32789,3,Assistant Investigator,MA-AGO,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",James,Magee,Dorchester,MA,02125,20,Accountant,C3 ACO,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Jose,Masso,Hyde Park,MA,02136,25,Executive,Massachusetts Port Authority,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Joseph,McDonald,Westwood,MA,02090,1000,Broker,Newmark,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Tyler,McGrail,Norwell,MA,02061,250,Broker,Newmark,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Madalene,Mielke,Washington,DC,20002,250,President & CEO,APAICS,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Amit,Mistry,Bethesda,MD,20814,25,Data Director,Alliance for Youth Action,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Craig,Nelson,Charlestown,MA,02129,1,Market Research,Kantar,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Abhijit,Nobis,Bow,NH,03304,250,engineer,Nobis Group,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Frank,Pao (refund of $200 Issued On 5/5/2021),Boston,MA,02110,200,Solar Technology,SPD Lab,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Peter,Papesch,Boston,MA,02115,50,Architect-Developer & Educator,Papesch Associates,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Jane,Park,Cambridge,MA,02139,5,Dogwalker,Above and Beyond Pet Services,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Miren,Parkinson,Boston,MA,02124,35,Not employed,Not employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Saul,Perlera,East Boston,MA,02128,50,Real Estate Broker,Perlera Real Estate Inc.,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Conor,Pewarski,Boston,MA,02131,100,Banker,East Boston Savings,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Stan,Phillips,Roslindale,MA,02132,10,Carpenter,Retired,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Patricia,Pierce,Brookline,MA,02446,3,Nurse,Partners health care,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Virginia,Pratt,Jamaica Plain,MA,02130,10,Social Worker,Ethos,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Leah,Randolph,Dorchester,MA,02121,100,Therapist,Self,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Indira,Rao,Maynard ,MA,01754,4,not employed,Not employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Anthony,Reyes,Washington,DC,20002,10,Staff,Senate,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Divya,Samu,Cincinnati,OH,45243,10,Media Planner,Warren for President,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",William,Sanna,Boston,MA,02124,10,Simulation Educator,Northeastern University,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Sharon Tomiko,Santos,Seattle,WA,98118,50,Legislator,WA State House of Representatives,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Arnold,Sapenter,Boston,MA,02118,10,Consultant,Arnold Sapenter Consulting,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Haley,Schermerhorn,Norwell,MA,02061,250,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Daniel,Seitz,Portland,OR,97201,25,Software engineer,EBay,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Kevin,Shanley,Chicago,IL,60616,5,Emergency Manager,Self ,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Mary,Sherman,Boston,MA,02114,10,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",William,Singleton,Boston,MA,02120,100,Fim maker/Landlord,Self ,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Chuck,Snekvik (Refunded by Actblue 5/10/2021),Jamaica Plain,MA,02130,25,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Chuck,Snekvik,Jamaica Plain,MA,02130,25,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Patrick,Snyder,Boston,MA,02132,4,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Raymond,Soohoo,Boston,MA,02119,5,Project Manager,Commonwealth of MA,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Clayton,Spivey,Anaheim,CA,92802,2,Educator,Orange Coast College,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",John,Stewart,Barnstable,MA,02601,2.7,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",John,Sullivan,Belmont,MA,02478,1000,Real estate,Atlantic Management,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Simon,Tam,New York,NY,11201,50,CTO,Yang for New York Inc.,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Stephen,Thiel,Amesbury,MA,01913,25,Community Relations,SNHU,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Matthew,Thomas,Boston,MA,02128,4,Emergency department technician,Tufts Medical Center,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Clarence,Tong,Alexandria,VA,22314,100,Senior Manager,Environmental Defense Fund,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Evan,Turissini,Brighton,MA,02135,3,Graphic Designer,SpeakEasy Stage Company,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",David,Vittorini,Hyde Park,MA,02136,25,Chief of Staff,City of Boston,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Stephanie,Wang,boston,MA,02125,50,Chinese Medical Interpreter,BIDMC,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Michelle,Wassenaar,Boston,MA,02136,5,Not employed,Not employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",David,Weimer,Allston,MA,02134,25,Librarian,Harvard University,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Andrew,Wiley,Jamaica Plain,MA,02130,36.88,Finance,DentaQuest,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Miguel,Williams,Roslindale,MA,02131,25,Scientist,Takeda Pharmaceuticals,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Alexander,Williamson,Marlborough,MA,01752,10,Senior Wind Performance Specialist,Enel Green Power North America,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Ling-Mei,Wong,NEWTON,MA,02465,3,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Bob,Wu,Lihue,HI,96766,35,Partner,Vermilion Ventures,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Jacquelin,Yessian,Boston,MA,02116,200,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",George,Yip,Center Lovell,ME,02118,100,Not Employed,Not Employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",Rick,Yoder,Roslindale,MA,02131,35,Electrician,Self - employed,5/3/21 Deposit Report,Yes
+2021-05-03,"Wu, Michelle",James,Yoh,Bala Cynwyd,PA,19004,100,President,DiaVac Biotech Company,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Wenchi,Yu,Alexandria,VA,22305,1000,Not Employed,Not Employed,5/3/21 Deposit Report,No
+2021-05-03,"Wu, Michelle",Joseph,Zink,Boston,MA,02116,1000,Real Estate,Atlantic Management,5/3/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Rosie,Abriam,Rockville,MD,20850,250,CxO,The Leader Project,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Christopher,Ahnallen,Jamaica Plain,MA,02130,20.21,Psychologist,Brigham and Women’s Hospital,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Jaya,Aiyer,Cambridge,MA,02139,25,Community Organizer,Fenway Community Development Corporation,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Andre,Alguero,Roslindale,MA,02131,5,Software development,Digitas,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",John,Amabile,Vineyard Haven,MA,02568,100,Attorney,Self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",John,Amabile,Vineyard Haven,MA,02568,100,attorney,self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Meghan,Anderson,Cambridge,MA,02141-2210,25,VP,HubSpot,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Prisca,Bae,New York,NY,10010,500,Consultant,GP Strategies,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Austin,Baird,Boston,MA,02130,5,Sr. Technical Support Specialist,Bluebeam Inc.,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Tara,Bansal,Boston,MA,02118,5,VC,Breakthrough Energy Ventures,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Henrietta,Barnes,Jamaica Plain,MA,02130,50,Not employed,Not employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Haley,Barrar,West Roxbury,MA,02132,10,Accountant,National Development,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",James,Bell,Southampton,MA,01073,250,Physician,Self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Bryan,Bigelow,East Boston,MA,02128,20.21,Teacher,Boston Public Schools,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Suzanne,Birdsell,Boston,MA,02120,5,Planner,Nelson Nygaard,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Jerry,Boyd,West Roxbury,MA,02132,4,Disability Examiner,SSA,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Ronald,Bridge,Boston,MA,02116,3,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Zachary,Capalbo,Stoneham,MA,02180,100,Software Engineer,Gentuity LLC,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Daniela,Cardenas,Somerville,MA,02143,5,Project Manager,Bright Horizons,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Shelby,Carpenter,Somerville,MA,02143-4304,5,Program Coordinator,Tufts University,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Robin,Chase,Cambridge,MA,02139,250,Executive,Self employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Jacqueline,Chau,Medford,MA,02155,500,Billing & Accounts Specialist,Boston University,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Jennifer,Chen,Naperville,IL,60563,100,Consultant,Alight Solutions,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Timothy,Chen,Los Altos,CA,94024,100,Semiconductors,VIA Technologies,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Elizabeth,Cormack,Boston,MA,02116,25,Senior UX Designer,Sonos,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Peter,Crowley,salem,MA,01970,5,Programmer,Henry Elliott,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Alexandra,DeCollibus,Southborough,MA,01772,5,Yoga teacher,Self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Abby,Detweiler,Roslindale,MA,02131,50,Grant Administrator,MassBay Community College,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Cailin,Doran,Denver,CO,80249,5,Marketing Manager,Theatre Aspen,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Murdo M,Dowds Jr,Boxborough,MA,01719,10,Psychologist,Self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Wes,Drew,Boston,MA,02122,10,Software Engineer,Wayfair,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Mai,Du,Boston,MA,02124,250,Educator,Wah Lum Kung Fu and Tai Cbi Academy,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Samantha,DuBrown,Waltham,MA,02452,38,HR Professional,MIT,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Sebastian,Ebarb,Boston,MA,02131,5,Designer,Boston,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Omar,Elkoton,Quincy,MA,02169,10,Customer Service Representative 1,Maximus,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Linnea,Erickson,Quincy,MA,02170,50,Contact Tracer,Partners in Health,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Fred,Fairfield,Canton,MA,02021,100,Developer,Fairfield Real EState Development Corp.,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Michelle,Fang,Los Angeles,CA,90005,250,Front desk staff,Soulcycle,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Eric,Feigl-Ding,Arlington,VA,22209,5,Epidemiologist,Federation of American Scientists,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Lloyd,Feng,New York,NY,10033,5,Program Associate,Committee of 100,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Fiona,Fitzgerald,Boston,MA,02132,10,Paralegal,Spolin Law PC,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Lee Ann,Frigulietti,Hillsborough,NH,03244,20.21,Service Coordination-Housing,Beacon Communities,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Sean,Galletta,Watertown,MA,02472,25,Tech,athenahealth,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Jennifer,Galley,Snohomish,WA,98290,5,Software Engineer,Microsoft,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Nick,Gazerro,Norwood,MA,02062,3,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Olivia,Ghiz,Medway,MA,02053,25,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Richard,Glovsky,Boston,MA,02199,250,Lawyer,Locke Lord LLP,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Dora,Golding,Jamaica Plain,MA,02130,25,teacher,Concord-Carlisle Regional High School,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Gregory,Goodfellow,Somerville,MA,02144,10,Scientific Services,PerkinElmer,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Harrison,Greene,Somerville,MA,02144,25,Mechanical Engineer,MagiQ Technologies Inc.,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Richard,Gricius,Chicago,IL,60618-7314,20.21,Graphics & Web Designer,Self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Sarah,Grucza,Boston,MA,02113,50,Communications Specialist,Ash Center Harvard Kennedy School,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Bryan,Hansen,Boston,MA,02108,10,Lawyer,Self,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Kendall,Harcourt,Brookline,MA,02445,5,Clinical Research Coordinator,Beth Israel Deaconess Medical Center,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Claudia,Harris,Roslindale,MA,02131,50,Social Worker,Self,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",James,Hendrick,Wakefield,MA,01880,25,Engineer,Self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Elsa,Hill,Boston,MA,02116,50,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Elsa,Hill,Boston,MA,02116,100,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Chrissy,Hu,Kuala Lumpur,"",59100,250,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Hong,Huang,Braintree,MA,02184,25,Chef Engineer,C&W services,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Toan,Huynh,Brighton,MA,02135,100,Recruiter,Beacon Hill Staffing,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Randall,Imai,Watertown,MA,02472,25,Architect,Imai Keller Moore Architects,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Shreyas Amol,Jethwani,Ocala,FL,34474,3,Strategist,Self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Kevin,Joyce,Charlestown,MA,02129,200,Attorney,Self,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Louisa,Kasdon,Cohasset,MA,02025,10,Non profit exec,The Food Voice,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Peter,Kelsey,Cambridge,MA,02138,10,therapist,self,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Vivian,Kimball,Jamaica Plain,MA,02130,3,Project Manager,VHB,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",John,Knox,Athens,GA,30605,500,Professor,Univ. of Georgia,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Seth,Kroll,Jamaica Plain,MA,02130,50,Communications professional,Harvard university,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Daphne,Kwok,Annandale,VA,22003,1000,VP,AARP,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Mary,Lally,Quincy,MA,02170,10,Legal secretary,Wilson elser,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Nathan,Lamb,Malden,MA,02148,10,Communications director,Somerville Cambridge elder services.,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Tran,Le,MA,MA,02493,1000,Entrepreneur,Pho Le LLC,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Samantha,Lee,Brooklyn,NY,11215,250,Attorney,National Advocates for Pregnant Women,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Charles,Lim,Menlo Park,CA,94025,100,Physician,Kaiser Permanente,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Cindy,Lu,Jamaica Plain,MA,02130,10,Not employed,Not employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Tom,Macdonald,Roslindale,MA,02131,10,Educator,Gilbert Albert Community Center,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Ian,Mackenzie,Boston,MA,02132,50.94,Consultant,im-learning,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Benjamin,Mauer,Jamaica Plain,MA,02130,7,Product Designer,ActBlue Technical Services,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Gabrielle,Mccaffrey,Philadelphia,PA,19134,10,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",John,McCartin,Boston,MA,02135,7,Student,N/a,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Henry,McDonald,Weymouth,MA,02188,10,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Brian,McFadden,Jamaica Plain,MA,02130,25,Cartoonist,Self,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Michelle,McGee,Charlestown,MA,02129,200,lawyer/lobbyist,Kearney Donovan & McGee,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Evan,Mehler,Boston,MA,02130,10,Budget Manager,Boston Symphony Orchestra,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Anmol,Mehra,Boston,MA,02116,250,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",James,Michel,Hyde Park,MA,02136,250,Not employed,Not employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Gabriella,Mora,Boston,MA,02215,20.21,Independent Consultant,Self-Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Preston,Mueller,Cambridge,MA,02138,25,Software Engineer,Apple,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",David,Mugar,Boston,MA,02116,1000,Businessman,Self,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Thomas,Mullen,Roslindale,MA,02131,100,Speech Pathologist,City of Boston,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",David,Murphy,Allston,MA,02134,10,Operations Analyst,RBS Citizens NA,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",MarkVic,Naniong,Dorchester Center,MA,02124,100,Scientist,Beam Therapeutics,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Lee,Nave,Brighton,MA,02135,10,Nonprofit,Citizens for Juvenile Justice,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Steve,Nelson,Boston,MA,02128,20.94,Program Manager,MIT,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Taylor,Nelson,West Des Moines,IA,50266,1,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Jim,Newman,Hollywood,CA,90028,100,Attorney,CPS Security Solutions Inc.,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Hanhminh,Nguyen,Medford,MA,02155,25,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Henry,Nguyen,Dorchester,MA,02125,200,Engineering,MGB,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Khang,Nguyen,Bost,MA,02122,500,Engineer,U.S DOT,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Erin,O'Brien,Arlington,MA,02474,3,Student,Simmons university,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Kate,O'Dowd,Concord,NH,03301,35,Math Content Specialist,Independent Contractor,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Michael,O'Shea,Niles,IL,60714,5,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Harold,Pachios,Cape Elizabeth,ME,04107,100,Lawyer,Preti,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Sally,Park,Wellesley Hls,MA,02481-6129,250,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Amy,Poor,Boston,MA,02118,5,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Glenn,Poppe,Oakland,CA,94619,100,Management,Prosocial Inc.,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Kavitha,Prakash,Lexington,MA,02420,25,HMFP,Physician,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Ellen,Quinn,Boston,MA,02131,10,Public Servant,Commonwealth of MA,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Alison,Quirk,Gloucester,MA,01930,100,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Joan,Raffa,Boston,MA,02113,10,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Sophie,Rapaport,Cambridge,MA,02138,50,Not employed,Not employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Franklin,Redd,Boston,MA,02119,3,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Liam,Rice,Chestnut Hill,MA,02467,3,Student Affairs Professional,Pine Manor College,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Michael,Roberts,Medford,MA,02155,10,Software Engineer,Salsify,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Maria,Robinson,Framingham,MA,01701,50,State Representative,Commonwealth of Massachusetts,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Roselynn,Rodríguez,Jamaica Plain,MA,02130,20,Teacher,City of Boston,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Steve,Rondeau,Lowell,MA,01851,25,Software engineer,Cisco Systems Inc.,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Tess,Ruderman,Somerville,MA,02143,10,Intern,EDR Group,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Mary,Ryan,Boston,MA,02114,10,Development director,Mass general,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Rose,Sadler,Cambridge,MA,02140,25,Program Associate,Nonprofit Organization,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Caterina,Scaramelli,Jamaica Plain,MA,02130,100,Professor,Boston University,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Nancy,Schlacter,Roslindale,MA,02131,10,Not Employed,Not Employed,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Jodi,Schwedelson,Cambridge,MA,02140,5,Events Assistant,MIT,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Amy,Shan,Madison,SD,57042,50,Manager of Strategy and Analytics,Boston Public Schools,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Benjamin,Siegel,Jamaica Plain,MA,02130,5,Professor,Boston University,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Chuck,Snekvik,Jamaica Plain,MA,02130,-25,"","",5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Emma,Tavolieri,Newton,MA,02458,35,Admin Asst,Harvard University,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Corinne,Thomas,Northampton,MA,01060,5,Teacher,Holyoke Public Schools,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Robert,Thorpe,Cambridge,MA,02139,25,Software Engineer,Intersystems,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Alice,Ting,Boston,MA,02116,1000,Real Estate,Mugar Enterprises Inc.,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Jessica,Tou,Princeton,NJ,08542,20,Employee,J&J,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Nghia,Trinh,Manchester,CT,06040-8637,10,Warehouse,DMS,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Alyssa,Trinidad,Brooklyn,NY,11217,25,Associate,Federal Reserve Bank of New York,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Margaret,Van Gelder,Newton,MA,02465,5,Program Manager,MA Department of Developmental Services,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Kyle,Vinning,Jamaica Plain,MA,02130,25,Dentist-Scientist,Harvard University,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Feng,wang,Los altos,CA,94022,25,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Linda,Weidman,Washington,DC,20016,250,Attroney,Marriott International,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Robin,Weinberger,Boston,MA,02116,10,Sales,Self,5/10/21 Deposit Report,Yes
+2021-05-10,"Wu, Michelle",Andrew,Wiley,Somerville,MA,02144,10,Research Assistant,Tufts University,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Timothy,Wirth,Washington,DC,20016,1000,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Rebecca,Wolfson,Somerville,MA,02143,25,Nonprofit Management Transportation,Boston Cyclists Union,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Hau,Wu,Hoboken,NJ,07030,65,Engineer,Memoral Sloan Kettering,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Jeremy,Yang,Dublin,CA,94568,100,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Helen,Ye,New York,NY,10025,5,PR agent,Ogilvy,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Clifton,Yin,Washington,DC,20001,25,Senior Energy and Sustainability Analyst,ICF,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Harris,Zhao,Malden,MA,02148,50,Manager,Takeda,5/10/21 Deposit Report,No
+2021-05-10,"Wu, Michelle",Shuang,Zhou,Princeton,NJ,08540-7817,3,Not Employed,Not Employed,5/10/21 Deposit Report,No
+2021-05-11,"Wu, Michelle",Margaret,Ackerman,Boston,MA,02116,100,Retired,Retired,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",Kenneth,Barron,Weston,MA,02493,100,Caru Associates,General Manager ,5/11/21 Deposit Report,No
+2021-05-11,"Wu, Michelle",Olga,Batyuk,Attleboro,MA,02703,200, Massachusetts College of Art and Design,Fundraising Events Coordinator ,5/11/21 Deposit Report,No
+2021-05-11,"Wu, Michelle",Isabelle,Davis,Boston,MA,02118,350,Isenberg Projects,Art Director ,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",Jonathan,Davis,Chestnut Hill,MA,02467,300,The Davis Company,CEO ,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",Stephen,Davis,Boston,MA,02118,350,The Davis Company,Realtor,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",Rosalie,Epstein,Waltham,MA,02452,20,Psychiatrist,Self,5/11/21 Deposit Report,No
+2021-05-11,"Wu, Michelle",Frieda,Garcia,Boston,MA,02116,30,Self,Activist,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",Charles,Gifford,Concord,MA,01742,1000,Not Employed,Not Employed ,5/11/21 Deposit Report,No
+2021-05-11,"Wu, Michelle",Maurice,Gillen,Charlestown,MA,02129,25,Retired,Retired,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",John,MacLeod,Lincoln,MA,01773,300,John B. MacLeod,Software Engineer/Technologist,5/11/21 Deposit Report,No
+2021-05-11,"Wu, Michelle","",Previously deposited 4/30/21,"",MA,"",525,"","",5/11/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Charles,Adams,Philadelphia,PA,19204,1000,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Samuel,Adams,Los Angeles,CA,90007,1000,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Andrew,Aloisi,Bostonboston,MA,02109,500,Lawyer,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Rebecca,Arellano,Boston,MA,02135,100,Assistant,City of Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Arlene S,Ash,Boston,MA,02115,200,Health care statistics,UMass medical school,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Eugene,Atwood,Boston,MA,02131,50,Engineer,Paytronix Systems Inc,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jonathan,Bacdayan,Dartmouth,MA,02747,10,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Priscilla,Ballou,Roslindale,MA,02131,10,Retired,Retired,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kathleen,Banks,Boston,MA,02131,15,Research assistant,Boston University,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Firmino,Barbosa (refund Issued 6/4/2021 of $250),Dorchester,MA,02125,250,electrician,progressive electrical system,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Amy,Barden,Springfield,MA,01101,500,Director,The Hartford,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Paul,Barden,Boston,MA,02118,500,Management,Insurance,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Matthew,Barison,Boston,MA,02128,100,Lawyer,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jacqueline,Barnes,Boston,MA,02134,5,Designer,Cella,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Louise,Baxter,Boston,MA,02127,10,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Louise,Baxter,Boston,MA,02127,5,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Deb,Beatty Mel,Boston,MA,02131,25,Communications Director,Boston Building Resources,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Michael,Bellefeuille,Boston,MA,02130,10,Architect,Johnson Roberts Associates,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Cherokee,Belval,Boston,MA,02134,5,Advocacy Associate,ActBlue,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John R,Benson,Charlestown,MA,02129,3,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John R,Benson,Charlestown,MA,02129,3,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Lea,Benson,Salem,MA,01970,25,SPED Teacher,SWAMPSCOTT,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Katrina,Bergeon,Litchfield,NH,03052,3,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Stefan,Berteau,Boston,MA,02116,10,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Debra,Bertrand,West Roxbury,MA,02132,100,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Bruce,Bickerstaff,Boston,MA,02120,5,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Rebecca,Bishop,Roxbury,MA,02119,10,Communications Director,International School of Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",David,Blair,Roslindale,MA,02131,25,Architect,FLANSBURGH,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Deborah,Block,Jamaica Plain,MA,02130,3,Psychologist,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Celeste,Bocchicchio-Chaudhri,Boston,MA,02131,10,Library Assistant,Waltham Public Library,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Karen,Boiko,Brighton,MA,02135,25,instructor,MIT,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John,Bookston,Boston,MA,02115,3,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Samuel,Boswell,Somerville,MA,02143,10,Software Developer,Liberty Mutual,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Anita,Botti,Washington,DC,02568,100,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Joshua,Bowman,Newton,MA,02459,50,Lawyer,Sherin and Lodgen LLP,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Joseph,Boyd Vigil,West Roxbury,MA,02132-1405,3,Director of IT,Facing History and Ourselves,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Hannah,Bristol,Richmond,VA,23221,10,Engagement director,Biden for president,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jason,Brown,Boston,MA,02132,50,Engineer,Veterans Health Administration,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ethel,Bullitt,Boston,MA,02118,25,Psychiatrist,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Gene,Buonaccorsi,Somerville,MA,02143,10,Director of Marketing,Mast Landing Brewing Company,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Michael,Burke,Brookline,MA,02446,20.21,Administrative Assistant,New England Conservatory,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Pauline Ho,Bynum,Brookline,MA,02445,100,Realtor ,Hammond residential real estate,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Joseph,Byrne,Newton,MA,02460,10,Development Manager,First Literacy,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Joseph,Byrne,Newton,MA,02460,10,Development Manager,First Literacy,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Virginia,Byron,Jamaica Plain,MA,02130,10,Psychologist/ business owner,Brookline psychological services,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Matthew,Cadwallader,Boston,MA,02135,7,Filmmaker,Self-employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Patrick,Cahn,Somerville,MA,02144-3116,25,Teacher,Temple Beth Shalom,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Giancarlo,Calvo,Summit,NJ,07901,2.79,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Arturo,Campos,Somerville,MA,02144,5,Software engineer,Solo.io,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Robert,Cant,Cambridge,MA,02139,5,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Brian,Carlson,Boston,MA,02132,10,Hospital Administrator,Old Derby Animal Hospital,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Carmen,Chan,Boston,MA,02131,3,Non-profit,Rosie's Place,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Grace,Chan,Boston,MA,02111,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Michelle,Chan,Durham Nc,NC,27701,1000,Staff Assistant,Duke,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Sze,Chan,New York,NY,10011,10,Translator,Self,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Leigh,Chandler,Boston,MA,02125,10,Yw boston,Marketing manager,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",H,Chang,Cambridge,MA,02138,3,project manager,xandr,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Hsiu-Lan,Chang,Brookline,MA,02445,1000,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Chris,Chanyasulkit,Brookline,MA,02445,25,Human Services Specialist,Town of Brookline,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Pravin,Chaturvedi,Andover,MA,01810,500,Scientist,Self,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Andy,Chau,Boston,MA,02125,10,Higher Ed Admin,Berklee College of Music,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Janice,Checchio,Boston,MA,02124,10,Creative Director,Boston University,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Bor-Rong,Chen,Saratoga,CA,95070,25,Engineer,Apple,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Nancy,Chen,Naperville,IL,60563,100,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Cassandra,Chin,Roslindale,MA,02131,25,community specialist,City Year,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Luke,Chung,Mclean,VA,22102,100,Software,FMS Inc.,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Laura,Clark,Boston,MA,02125,4,admin assistant,Park Square Building,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Mary,Clark,Roslindale,MA,02131,25,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Nathanael,Clauser,Somerville,MA,02145,5,Attorney,Fish & Richardson P.C.,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Ken,Cluskey,Washington Dc,DC,20008,100,Economist,BLS,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Anna,Clutterbuck-Cook,Roslindale,MA,02131-1706,10,Librarian,Massachusetts Historical Society,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Thomas,Cohan,West Roxbury,MA,02132,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Julia,Cohen,Brookline,MA,02445,3,Fundraising,Biden for President,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",James,Cole,Roslindale,MA,02131,20.21,Education,Neighborhood Villages,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Susan,Collings,Boston,MA,02118,100,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Erina,Colombo,Somerville,MA,02143,5,Fundraiser,City Year Boston,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Philip,Coonley,Winchester,MA,01890,25,Retired,none,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Faye,Crosby,Santa Cruz,CA,95064,6,Professor,U C Santa Cruz,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Emma,Crowley,Hyannis,MA,02601,5,Finance,MLM Strategies,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Kelly,Curley,Dorchester,MA,02124-5219,10,paralegal,Seyfarth Shaw LP,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Ed,Dailey,Newton,MA,02459,100,Lawyer,self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Vivian,Daly,Dedham,MA,02026,10,Program Manager,CLEAResult,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Zack,Declerck,Boston,MA,02130,6,Photojournalist,Partners In Health,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Nicole,Desharnais,Boston,MA,02130,25,Attorney,Outside GC LLC,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jeff,Dietrich,Charlestown,MA,02129,10,Urban Planner,Howard Stein Hudson,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Roberta,Dillon,West Roxbury,MA,02132,50,Nurse,Boston VNA,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Alyssa,Dipasquale,Brookline,MA,02446,10,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Evan,Donahue,Boston,MA,02116,10,Fundraising,ActBlue,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Laurie,Doyle,Boston,MA,02114,25,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Elias,Duncan,Boston,MA,02108,10,Digital,Ossoff,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Patrick,Durham,Weymouth,MA,02190,25,General Foreman,City of Boston parks,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Nicole,Eigbrett,Somerville,MA,02143,5,Director of Community Organizing,Community Action Agency of Somerville,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Muhammad,Eltahir,Lexington,MA,02421,4,Associate Consultant,Bain and Company,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Valerie,Enriquez,Boston,MA,02124,5,Information Specialist,Health Advances,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Katherine,Eshel,Allston,MA,02134,25,Program Manager,City of Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Stephanie,Fabro,Walnut,CA,91789,5,Program Director,Boston Chinatown Neighborhood Center,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Fred,Fairfield,Canton,MA,02021,25,Developer,Fairfield Real EState Development Corp.,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Isabel,Farrington,Cambridge,MA,02140,15,Producer,Blue State,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Kelly,Ferguson,Oakland,CA,94607,25,Nonprofit fundraising,SEO Scholars,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Michael,Ferrante,Boston,MA,02124,50,Engineer,Maxar Space Solutions,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Richard,Ferrante,Allston,MA,02134,4,software engineer,RDF Software Group,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jackson,Ferrell,Boston,MA,02116,10,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Vincent,Fieg,Roslindale,MA,02131,21.31,Marketing Manager,DREAM Collaborative,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Emma,Finder,Los Angeles,CA,90048,3,Assistant,Dylan Clark Productions,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Virginia,Fisher,Somerville,MA,02143,20,data scientist,Foundation Medicine,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jay,Fiske,Winchester,MA,01890,250,Sales,Powerhouse Dynamics LLC,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Adam,Fofana,Bowie,MD,20720,6,Software Licensing Specialist,University of Maryland College Park - Division of Information Technology,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Michael,Fonte,Silver Spring,MD,20910,250,political analyst,Taiwan Democratic Progressive Party Mission,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Marianna,Foos,Boston,MA,02135,10,Scientist,bluebird bio,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Stephenie,Foster,Washington,DC,20007,50,Partner,Smash Strategies,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Theresa,Foster,Boston,MA,02128,25,Pharmacist,Industry,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Sarah,Freeman,Jamaica Plain,MA,02130,36,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Austin,Frizzell,Boston,MA,02130,10,Database Administrator,BSA of Greater Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Tyler,Gabrielski,Brighton,MA,02135,3,Administrative Assistant,Boston University,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Rose,Gallogly,Boston,MA,02131-2703,25,Religious Educator,Theodore Parker Church,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Dori,Galton,Roslindale,MA,02131,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Emily,Gardel,Jamaica Plain,MA,02130,10,Patent Agent,Wolf Greenfield & Sacks,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Heleln,Garretson,West Roxbury,MA,02132,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Mark,Gavin,Boston ,MA,02135,50.94,Administrative,Harvard Business School,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Judy,Gaynor,Chicago,IL,60611,100,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Roe,Gibson,Boston,MA,02119,3,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Matthew,Gifford,Brookline,MA,02467,10,Contracts Coordinator,Clinton Health Access Initiative,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John,Gilmore,Roslindale,MA,02131,3,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Maxine,Goldberg,Boston,MA,02118,100,Not employed,Not employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Neil,Golden,Boston,MA,02199,25,Attorney,Gilmartin Magence,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Nicholas,Golden,Haverhill,MA,01835,5,Journalist,CNHI Newspaper Holdings,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",John,Goodwin,Jamaica Plain,MA,02130,10,Driver,Motivate LLC,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Margaret M.,Grady,Washington,DC,20008,50,Consultant,Margaret M. Grady Consulting LLC,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Patrick,Greenwell,Watertown,MA,02472,5,DevOps Manager,Vericast,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Barbara,Hakim,Jamaica Plain,MA,02130,100,Realtor,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Julie,Hall,Charlestown,MA,02129,20,Founder/Managing Partner,Communitas Global,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Marcus,Hamblin,Roxbury Crossing,MA,02120,5,Designer,Gensler,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",A,Hamel,Charlestown,MA,02129,10,Technical Project Manager,Shark Ninja,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Blair,Haney,Cambridge,MA,02141,3,Student,Student,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Johannah,Haney,Boston,MA,02130,25,Writer,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Charlotte,Harris,Cambridge,MA,02139,10,Consultant,Koya Leadership Partners,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Nisa,Harrison,Dorchester,LA,02122,15,Teacher,Bps,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Cassidy,Hart,Long Beach,CA,90803,4,Graphic Designer,MuteSix,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Frederick,Heil,Boston,MA,02135,25,IT Director,MERGE,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Trina,Heinisch,Jamaica Plain,MA,02130,10,Social worker,Boston public schools,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Christopher,Herlihy,Boston,MA,02113,10,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Rebecca,Herst,Boston,MA,02130,100,Higher ed,Unassuming Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kathleen,Hirsch,Jamaica Plain,MA,02130,100,Professor,Boston College,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Matt,Hodgson,Boston,MA,02127,25,Engineer,RedBeard Tech,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Molly,Holder,Boston,MA,02130,500,Director of Product Management,Spotify,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Marah,Holland,Boston,MA,02130,10,Transportation Planner,MAPC,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jennifer,Holleran,Lincoln,MA,01773,150,Philanthrop,Startup:education,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Aidan,Horgan,Fitchburg,MA,01420,5,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Miles,Howard,Boston,MA,02130,10,Writer,Self-Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Lynda,Jackson,West Roxbury,MA,02132,5,Manager Public Policy & Communications,Mass Assoc of Health Plans,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Vriti,Jain,Washington,DC,20010,10,Research,DSCC,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",David,Jerome,Boston,MA,02132,25,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Beya,Jimenez,Dorchester,MA,02124,10,Director,GBCC,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Emma,Johnson,Cambridge,MA,02139,10,Area Director,MIT,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Julien,Julien,Arlington,VA,22206,25,Press Secretary,House of Reps,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",James,Jumper,Jamaica Plain,MA,02130,25,Manager tech support,Power Advocate a Verisk company,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Christopher,Kabacinski,Boston,MA,02116,25,Administrator,Harvard University,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Cameron,Kackley,Boston,MA,02128,25,Project manager,Sungage Financial,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",S A,Kamiya,Jamaica Plain,MA,02130,10,Teacher  Trainer,Medford Public Schools,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",David,Katz,East Boston,MA,02128,10,Sales,Building engines,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",David,Katz,East Boston,MA,02128,10,Director,Jobcase,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Sean,Kavanagh,Dorchester,MA,02122,10,Hairstylist,Trephin salon,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Geoffrey,Kearney,Pine Bluff,AR,71601,35,Attorney,Self employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jake,Keller,Gaithersburg,MD,20878,3.25,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Nathaniel,Kelley,Newton,MA,02458,10,HR Manager,Simon-Kucher and Partners,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Kat,Kennedy,Boston,MA,02131,50,Legal technology Specialist,Ropes & Gray,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kat,Kennedy,Boston,MA,02131,25,Legal technology Specialist,Ropes & Gray,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Tarik,Ketin,Boston,MA,02127,5,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Walter,Kikuchi,Allston,MA,02134,20,Domestic Violence Survivor Advocate,The Network/La Red,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Euijin,Kim,Boston,MA,02134,-10,"","",5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Mary,Kinsella,Holliston,MA,01746,5,Not employed,Not employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Savannah,Kinzer,Boston Ma,MA,02120,3,Not employed,Not employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Richard,Kiusalas,West Barnstable,MA,02668,3,Not employed,Not employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Cara,Kupferman,New City,NY,10956,5,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Darryl,Lahey,Boston,MA,02118,25,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Timothy,Lanning,Malden,MA,02148,100,Legal assistant,Wolf greenfield,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Brendan,Larkin-Connolly,Worcester,MA,01609,50,Economic consultant,DHinfrastructure,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Brenden,Layte,Jamaica Plain,MA,02130,3,Editor,National Geographic Learning,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Christopher,Leaverton,Plymouth,MA,02360,5,Comms Assistant,Leadership Conference,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Alec,Lebovitz,Brookline,MA,02446,10,Government Affairs Specialist,Conference of Boston Teaching Hospitals,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Bridget,Lee,Jamaica Plain,MA,02130,15,Physician,MetroWest Emergency Physicians,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Brendan,Lefebvre,Billerica,MA,01821,10,Software engineer,Medtronic,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Stephanie,Leung,Los Angeles,CA,90016,10,Manager,Riot games,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Kristin,Lewis,Boston,MA,02127,10,Not Employed,not employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jeff,Li,Boston,MA,02120,50,Scientist,Verve,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Na,Li,Potomac,MD,20854,100,Statistician,Emergent BioSolutions,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Adlinna,Liang,Short Hills,NJ,07078,20,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Mou,Lin,High Bridge,NJ,08829,50,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Greg,Liszt,Cambridge,MA,02139,10,Teacher,Berklee,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Wei,Liu,Chandler,AZ,85226,25,analyst,cavalry,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Michael,Lonetto,Somerville,AK,02144,25,IT Manager,Novartis,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Patricia M,Lorsch,Cambridge,MA,02140,100,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Thomas,Macdonald,Boston,MA,02135,10,Editor,Narcity Media,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Penny,Mack,Boston,MA,02134,15,Organizer,Montana Democrats,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jenny,Mackintosh,Brighton,MA,02135,15,Producer,Upstatement,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Julia,Maclaughlin,Boston,MA,02116,25,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Nathan,Maggio,New York City,NY,10001,5,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Margaret,Mainzer,West Roxbury,MA,02132,250,Executive director,Back Bay Association,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Claire,Makley,Boca Raton,FL,33486,5,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Ann Eldridge,Malone,Jamaica Plain,MA,02130,10,Clinical Faculty,University of Massachusetts Boston Nursing Program,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Laura,Mariani,Jamaica Plain,MA,02130,7,Search Consultant,Isaacson Miller,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Stephen,Martino,Brookline,MA,02445,5,Restaurant marketing,Cushman Concepts,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Kristin,Mccarthy,South Boston,MA,02127,20,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",David,Mcferrin,Boston,MA,02130,10,Musician,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ellen,Mclean,Boston,MA,02131,3,Not employed,Not employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Charles,Mcvay,Shaftsbury,VT,05262,125,Actuary,John Hancock Financial Services,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jordan,Meehan,Boston,MA,02134,25,Policy Coordinator,MA Commission on LGBTQ Youth,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Laura,Melle,Boston,MA,02118,25,Deputy Director Real Estate Administration,BPDA,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Eric,Mendoza,Boston,MA,02124,20,Teacher,Archdiocese of Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Cecilia,Mercado,Burlington,MA,01803,25,Programmer,Raytheon,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Esther,Messing,Boston,MA,02116,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Maxence,Metayer,Roxbury,MA,02119,5,Academic & Career Advisor,JVS,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Nicolas,Minutillo,Boston,MA,02118-1088,25,Software engineer,Google,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jay,Mohanka,Shrewsbury,MA,01545,5,Sales Development Representative,Netscout,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Robert,Monahan,South Boston,MA,02127,25,Non profit,Julies,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ana,Morales,Lawrence,MA,01843,10,Policy Manager,PPAF,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Adrienne,Mosey,Jamaica Plain,MA,02130,25,Social worker,North Suffolk Mental Health Association,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ann,Moy,Boston,MA,02118,200,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Amanda,Munoz,Boston,MA,02130,5,software engineer,privy,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Dave,Munson,Charlestown,MA,02129,25,Physician,Boston health care for the homeless program,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Bethany,Murray,Belmont,MA,02478,5,IT Service Manager,Harvard University,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Lisa,Murray,Boston,MA,02120,5,Epidemiologist,Ma dph,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Samuel,Myers (refund Issued 6/4/2021 of $250),Cambridge,MA,02138,1000,Physician,Harvard University,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Adam,Myerson,Dorchester,MA,02124,10,Cycling Coach,Cycle-Smart Inc.,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Emma,Nash,Brookline,MA,02446,10,Waitress,Shiki,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Robert,Neer,Brookline,MA,02446,100,Associate Professor,Hult International Business School,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Andrew,Nelson,New Bedford,MA,02740,20.94,Small business owner,Self employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Luis,Ng Tari,Nashua,NH,03062,25,NLP Engineer,WK,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Casey,Ngo-Miller,Boston,MA,02132,20.21,Deputy Superintendent,Public Schools of Brookline,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Xiaoxi,Niu,Selkirk,NY,12158,25,Research Assistant,Harvard University,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Stephanie,Northway,Somerville,MA,02145,100,Software Engineer,Divert Inc,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jared,Novack,Newton,MA,02459,10,Owner,Upstatement,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kerry,Nugent-Wells,Boston,MA,02134,25,Teacher,Coho school,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Chris,O'Connell,Boston,MA,02120,5,IT Engineer,Goodwin Procter LLP,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Dylan,O'Leary,Everett,MA,02149,5,Prime shopper,Whole Foods Market,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Robert,O'Neill,Brighton,MA,02135,20.21,Fraud investigator,Tripadvisor,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Bradley,Oremland,Rockville,MD,20852,5,Upper School Teacher,Bullis School,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Lisa,Owens,Boston,MA,02128,50,Executive Director,City Life/Vida Urbana,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Lisa,Owens,Boston,MA,02128,50,Executive Director,City Life/Vida Urbana,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Emlen,Page,Jamaica Plain,MA,02130,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Arka,Pain,Jamaica Plain,MA,02130,25,Program Manager,Metro Housing|Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Patricia,Palmer,Boston,MA,02110,10,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Roberta,Paris,Boston,MA,02116,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Grace,Park,Brea,CA,92821,70,Research Fellow,Johns Hopkins,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jong,Park,Evansville,WI,53536,10,Systems Engineer,University of Wisconsin-Madison,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Shayna,Parker,Brighton,MA,02135,5,OperationS & Public Policy Specialist,Children's League of MA,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Emily,Patrick,West Roxbury,MA,02132,25,Development,BCDS,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Renee,Pelletier,Boston,MA,02134,3,Student,Boston University School of Medicine,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ivana,PéRez-Redondo,Chelsea,MA,02150,10,Teacher,Boston Public Schools,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Justin,Perilli,Hyde Park,MA,02136,10,Biotech Supervisor,Takeda,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Allison,Perlman,Roslindale,MA,02131,3,Project manager,City of Boston,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Netanya,Perluss,Los Angeles,CA,90024,10,Not employed,Not employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Vimala,Phongsavanh,Arlington,VA,22204,25,Director of Programs and Community Engagement,Asian Pacific American Institute for Congressional Studies (APAICS),5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Stanley,Poon,Mansfield,MA,02048,25,Engineer,US Navy,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Dave,Porter,Brookline,MA,02445,20,Software,Apple,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Brian,Putnam,Hyde Park,MA,02136,25,Not employed,Not employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John A.,Quatrale,Boston,MA,02135,100,Art Administrator,Unbound Visual Arts,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Lori,Queen,Chestnut Hill,MA,02467,5,Administrative assistant,Liberty mutual,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Marchelle,Raynor,Roxbury,MA,02119,10,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kenneth,Reich,Boston,MA,02115,25,lawyer,self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Sue,Reid,Jamaica Plain,MA,02130,250,Climate finance advocate,New Venture Fund,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Daniel,Relihan,Boston,MA,02115,1000,Quantitative Analyst,Intex Solutions,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Andrew,Reovan,Boston,MA,02114,10,Research,SR Inc,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",David,Reppucci,Lowell,MA,01852,100,Lawyer,Self,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Robert,Richards,West Roxbury,MA,02132,100,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Elliot,Richardson,Cumberland Forside,ME,04110,10,Maine Data Director,NextGen America,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Ashley,Rine,Brighton,MA,02135,5,Desktop Support Technician,Optum Analytics,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jane,Ritt,Boston,MA,02115,100,Project Manager,Simmons University,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jennifer,Roberts Keddy,Boston,MA,02131,10,Teacher,Boston Public Schools,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jennifer,Roberts Keddy,Boston,MA,02131,10,Teacher,Boston Public Schools,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Gain,Robinson,Cambridge,MA,02139,5,Scientist,Merck & Co. Inc.,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jonathan,Rodrigues,Mattapan,MA,02126,25,Organizer,AFT,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Carlos,Rojas,Boston,MA,02115,10,Consultant,YouthBuild USA,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Laura,Rood,Boston,MA,02110,25,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Monica,Rosales,Charlestown,MA,02129,15,Success Manager,Alyce,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Timothy,Rothfuss,West Lebanon,NH,03784,50,Information Systems,Dartmouth-Hitchcock Medical Center,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jackie,Rothmeier,Naples,FL,34110,3,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Bisera,Rozic,Chicago,IL,60626,25,Unemployed,N/A,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Ari,Rubenstein,Boston,MA,02119,15,nonprofit communications,Corporate Accountability,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jessica,Rushing,Pembroke,MA,02359,50,Director of Communications,ODMP Inc,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Benjamin,Rutberg,Holliston,MA,01746,10,Field Organizer,The Markey Committee,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Benjamin,Rutberg,Holliston,MA,01746,3,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Antoinette,Santos,Boston,MA,02127,5,Consultant,IBM,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Anthony,Scattaglia,Astoria,NY,11102,10,Non profit development,Queens Community House,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Mike,Schiano,Boston,MA,02113,10,Public Relations,Denterlein,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",David,Schulenberg,Dorchester,MA,02125,5,professor,Wagner College,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Pasqua,Scibelli,Boston,MA,02113,25,Attorney,CPCS,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John,Scollins,Boxford,MA,01921,-100,"","",5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Alexander,Serra,Dorchester,MA,02125,10,File Clerk,Morrison Mahoney LLP,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Juyoung,Shin,New York,NY,10128,10,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Phyllis,Simon,Reston,VA,20191-2627,25,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Meghan,Singh,Boston,MA,02119,25,School Psychologist,Cambridge Public Schools,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",K.C.,Skeldon,Wakefield,MA,01880,10,Copywriter,Hasbro,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Ben,Skross,Boston,MA,02215,10,Student Employee,Boston University,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kelly,Skyrm,Boyertown,PA,19512-8338,5,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Cyril,Slemaker,Charlestown,MA,02129,15,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jeremy,Smith,Boston,MA,02131,2.4,Communications Specialist,MARE,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Zivah,Solomon,Cambridge,MA,02139,10,Associate,ActBlue,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Lee,Sova-Claypool,Charlestown,MA,02129,10,Digital,Warren Democrats,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kit,Spy,Arlington,MA,02476,5,communication associate,Health Resources in Action,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Diana,Starke,Roslindale,MA,02131,10,Admin,Walker & Dunlop,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ann,Steinberg,Boston,MA,02120,3,Not employed,Not employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jake,Stepansky,Cambridge,MA,02138,15,Operations Manager,Forklift Danceworks,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",David,Stern,Cambridge,MA,02138,10,Data Scientist,ActBlue,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Bradley,Stone,Boston,MA,02130,10,musician,self employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jae,Storozum,Cambridge,MA,02140,10,Scientist,Charles River Analytics,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Karthik,Subramanian,Wilmington,MA,01887,25,Managing Director,Company One Theatre,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Cassidy,Sulaiman,Brighton,MA,02135,3,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Michael,Sullivan,West Roxbury,MA,02132,10,Database Analyst,Quest Diagnostics,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",William,Suprey,South Boston,MA,02127,100,Not employed,Not employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Laurie,Swett,Auburndale,MA,02466,1000,Not employed,Not employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Lindsey,Swett,Boston,MA,02116,750,Business Owner,Niche Plant Shop,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ross,Szeliga,Providence,RI,02903,2,Financial coordinator,Access dental care,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Shoji,Takahashi,Arlington,MA,02474,5,Intellectual Property,Whitehead Institute for Biomedical Research,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Pratap,Talwar,Boston,MA,02210,100,Planner,TDG,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Andrew,Taverrite,Washington,DC,20001,20,Communications,PPFA,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Jessica,Taylor,West Springfield,MA,01089,4,Data Coordinator,New Hampshire Democratic Party,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Samuel,Tharp,Boston,MA,02116,3,CEO,Fretish llc,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Erica,Thomson-Moseley,Dorchester,MA,02125,10,Assistant Property Manager,Winn Residential,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Tyler,Thurston,Boston,MA,02125,10,Digital Content Manager,State Street,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Josh,Tingley,Jamaica Plain,MA,02130,20.21,Project Coordinator,Room to Grow,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Tony,Tjan,Brookline,MA,02446,1000,Managing Director,Cue Ball Capital,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Charlotte,Troyanowski,Jamaica Plain,MA,02130,5,office worker,Northeastern,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jaclyn,Tsiang,Allston,MA,02134,10,Software Engineer,VmWARE,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Nancy,Tsung,Brookline,MA,02446,25,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Judith,Tuck,Boston,MA,02116,50,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Bonnie,Tusmith,Hyde Park,MA,02136,3,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Kevin,Tuttle,Boston,MA,02114,50,Software Engineer,InsightSquared,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Dexter,Viator,Worcester,MA,01604,3,Community Engagement Coordinator,Worcester County Food Bank,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",John,Vitagliano,Winthrop,MA,02152,20.94,Consultant,Self,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John,Vitagliano,Winthrop,MA,02152,100,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",John,Vitagliano,Winthrop,MA,02152,100,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Renata,Von Tscharner,Cambridge,MA,02138,20,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",John,Wadlington,Boston,MA,02116,10,Anesthesiologist,BIDMC,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Julia,Wallerce,Boston,MA,02109,5,Manager,ITDP,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Caitlin,Walsh,Mattapan,MA,02126,20,Admin,GLAD,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Anthony,Wang,Irvine,CA,92620,50,Attorney,O'Melveny,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Karen,Weber,Roslindale,MA,02131,18,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",David,Webster,Roslindale,MA,02131,50,Occupational Therapist,VA Boston HCS,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Nicholas,Welter,Cambridge,MA,02139,5,Marketing Director,LeveragePoint,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Olivia,Whitaker,Boston,MA,02115,10,Intern,NBC Sports Network,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Melanie,Wigmanich,Boston,MA,02129,10,Insurance Executive,Liftman Insurance,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Ian,Wilder,Cambridge,MA,02139,3,Retail,REI,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Matthew,Wilding,Roslindale,MA,02131,20.21,Self employed,Me,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Adam,Williams,Jamaica Plain,MA,02130,25,Librarian,Boston College,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jonathan,Williams,Carlisle,MA,01741,5,Sales,Capital Formation Group Inc.,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Josette,Williams,Boston,MA,02121,25,Program Manager,Boston Public Schools,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Elizabeth,Williamson,North Easton,MA,02356,10,Medical Education Coordinator,Beth Israel Deaconess Medical Center,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Danielle,Wong,Cambridge,MA,02138,30,Manager,THP,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",William,Wong,Sacramento,CA,95822,250,Consultant,Self,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Fiona,Wood,Cambridge,MA,02139,5,software developer,Invicro,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Shane,Woolley,Somerville,MA,02143,6.17,Council aide,City of Cambridge MA,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",John,Zhang,Lincoln,MA,01773,1000,Physician,Newton Center Medical Associates,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Xiaoqing,Zheng,Niskayuna,NY,12309,50,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",David,Zhou,Dorchester,MA,02125,5,Graduate research assistant,Massachusetts Institute of Technology,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Jane,Zhou,West Roxbury,MA,02132,2.4,Not Employed,Not Employed,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Shuang,Zhou,Princeton,NJ,08540-7817,3,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Shuang,Zhou,Princeton,NJ,08540-7817,3,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Shuang,Zhou,Princeton,NJ,08540-7817,3,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Shuang,Zhou,Princeton,NJ,08540-7817,3,Not Employed,Not Employed,5/17/21 Deposit Report,No
+2021-05-17,"Wu, Michelle",Barry,Zuckerman,Boston,MA,02118,20.21,physician,boston univ.,5/17/21 Deposit Report,Yes
+2021-05-17,"Wu, Michelle",Barry,Zuckerman,Boston,MA,02118,2.4,physician,boston univ.,5/17/21 Deposit Report,Yes
+2021-05-18,"Wu, Michelle",Diana,Hsieh,Santa Monica,CA,90405,200,HappyCow,Editor,5/18/21 Deposit Report,No
+2021-05-18,"Wu, Michelle",Ann,Kelleher,Charlestown,MA,02129,50,Retired,Retired,5/18/21 Deposit Report,Yes
+2021-05-18,"Wu, Michelle","",Massachusetts Brick Layers People's Committee,Charlestown,MA,02129,500,"","",5/18/21 Deposit Report,Yes
+2021-05-18,"Wu, Michelle",Kathleen,Miskiewicz,Boston,MA,02118,100,Not Employed,Not Employed,5/18/21 Deposit Report,Yes
+2021-05-18,"Wu, Michelle",Janet,Slovin,Boston,MA,02199,100,Not Employed,Not Employed,5/18/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Abdillahi,Abdirahman,Roxbury,MA,02119,5,Self,Self,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Jin Liu,Abrams,Albany,NY,12210,5,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Rosie,Abriam,Rockville,MD,20850,500,CXO,The Leader Project,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Robert,Allison,Brighton,MA,02135,20.21,Financial Assistant,MIT,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",John,Amabile,Vineyard Haven,MA,02568,50,Attorney,Self,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Melida,Arredondo,Roslindale,MA,02131,10,Executive Director,Arredondo Family Foundation,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Sichao,Bai,Potomac,MD,20854,100,Professional,Montgomery,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",John,Baimas,Cambridge,MA,02141,3,Federal Outreach Manager,Actblue,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Andrew,Balmer,Chicago,IL,60615-3070,20.21,Software Developer,Bose,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Hannah,Banks,Newton,MA,02459,50,Architect,Self,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Zach,Bauer,Boston,MA,02128,10,Software Engineer,Genospace,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Larry,Bell,Boston,MA,02115,500,Berklee College of Music,Professor,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Melissa,Beltran,Boston,MA,02119,10,Peer Support Specialist,Boston Public Health Commission,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",John Reid,Benson,Charlestown,MA,02129,10,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Nicholas,Brancolini,Redondo Beach,CA,90278,20,Attorney,Kiesel Law LLP,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Troyen,Brennan,Boston,MA,02118,500,MD,CVS,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Alice,Brown,Boston,MA,02129,50,Urban Planner,Boston Harbor Now,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Irene,Bueno,Washington,DC,20008,250,Consultant,Nvg Llc,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Giancarlo,Calvo,Summit,NJ,07901,10,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Heather,Campion,Boston,MA,02215,50,Managing Director,Koya Leadership Partners,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Arturo,Campos,Boston,MA,02114,10,Software Engineer,Solo.Io,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Merry,Chan,San Francisco,CA,94127,25,Lawyer,US Attorneys,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Mimi,Chan,Boston,MA,02118,100,Assistant Vice President,Boston Private Bank,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Annabel,Chang,San Francisco,CA,94105,100,Government Relations,Waymo,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Curtis,Chang,San Jose,CA,95125,25,Consultant,Self,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jeffery,Chang,Cabin John,MD,20818,25,Analyst,Cboe,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Pei-Tei,Chang,Carlsbad,CA,92009,200,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Amy,Chen,Newport Coast,CA,92657,250,Attorney,Ingram Micro,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Joanne,Cheng,Lexington,MA,02421,1000,CFO,Patientping,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Vern,Chin,Waban,MA,02468,500,Business,Self-Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Nike,Ching,Fairfax,VA,22031,25,Reporter,Voice Of America,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Linval,Chung,Chicago,IL,60607,100,Pres.,Reliablecontracting,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Dana Karen,Ciccone,Boston,MA,02129,5,Consultant,Kalleid,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Thomas,Claflin,Concord,MA,01742,100,Investment Manager,Self,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Dylan,Clark,Barre,MA,01005,3,Worker,N/A,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Dylan,Clark,Barre,MA,01005,5,Worker,N/A,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Lauren,Clarke,Saint Charles,IL,60174,10,Graduate Research Assistant,Massachusetts Institute Of Technology,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Carly,Crocker,Jamaica Plain,MA,02130,5,Clinical Research Coordinator,Massachusetts General Hospital,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Kade,Crockford,Dorchester,MA,02125,5,Program Director,Aclu Of Massachusetts,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Billy,Curtis,Boston,MA,02118,3,Marketing Analyst,Thought Industries,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Michael J,Dalterio,Sudbury,MA,01776,3,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Mohammad,Dar,Boston,MA,02130,100,Physician,VA Boston,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Susan,Davidoff,Newton,MA,02458,25,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Michael,Davis,Boston,MA,02118,25,Education,City Year,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Dana,Dealy-Reid,Jamaica Plain,MA,02130,10,Product Manager,O'Reilly Media,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Laura,Debonis,Boston,MA,02108,1000,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Gretchen,Dietz,West Roxbury,MA,02132,25,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Nora,Dowley,Boston,MA,02131,10,Educator,Noble And Greenough School,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Lyndia,Downie,Norton,MA,02766,100,President And Executive Director,Pine Street Inn,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sarah,Edgecomb,Jamaica Plain,MA,02130,100,Attorney,Edgecomb Law Llc,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Jon,Ellertson,Roxbury,MA,02119,10,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",John,Elliott-Higgins,St. Louis,MO,63112,25,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jamie,Engel,Boston,MA,02128,10,Program Director,National Conference On Citizenship,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Angela,Escobar,Brooklyn,NY,11201,10,Attorney,New York University School Of Law,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jesseca,Ferguson,Boston,MA,02210,3,Artist/Educator,School Of Museum Of Fine Arts Boston,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Kelly,Ferguson,Oakland,CA,94607,25,Fundraising,Nonprofit,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Robert,Finneran,Charlestown,MA,02129,200,Consultant,Robert Finneran Consulting Services,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Jared,Flippen,Brookline,MA,02446,10,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sam,Forman,New York,NY,10024,10,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Patrick,Forrester,Allston,MA,02134,25,Graduate Student,Harvard University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Brian,Francis,Roslindale,MA,02131,25,Transportation Planner/Scheduler,MBTA,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Nicole,Freedman,Somerville,MA,02143,150,Government,City Of Newton,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Kaiping,Fu,Acton,MA,01720,15,Accountant,Headwall,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Louisa,Gag,Boston,MA,02131,3,Contractor,Livablestreets,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Megan,Gates,Boston,MA,02118,250,Lawyer,Mintz Levin,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Joshua,Giamichael,Boston,MA,02122,10,HR,C&W Services,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Eitan,Glinert,Medford,MA,02155,50,Entrepreneur,Fire Hose Games,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Diana,Govern,Boston,MA,02108,20,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Diana,Govern,Boston,MA,02108,4,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Allison,Griggs,Abington,MA,02351,3,Associate Producer,Ifactory,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Shravanthy,Gumidyala,Boston,MA,02124,8,Physical Activity Coordinator,Boston Public Schools,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Jennifer,Hagan,Washington,DC,20008,10,Research Assistant,American University ,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jeri,Hamlen,Boston,MA,02116,50,Artist,Self,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Justin,Hardy,Belmont,MA,02478,50,Editor,Cambridge Associates,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Christopher,Hart,Hyde Park,MA,02136,25,Consultant,Consultant,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Joshua,Hartshorne,Cambridge,MA,02142,100,Professor,Boston College,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Hoon,Heo,Longmeadow,MA,01106,25,Executive Director,Mhtkd,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Maia,Heymann,Concord,MA,01742,500,Finance,Commonangels,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Yung Luy,Hing,San Jose,CA,95135,100,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Alison,Hoi,Somerville,MA,02144,6,Analyst,Tufts Health Plan,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Molly,Hopkins,Boston,MA,02131,5,Mental Health Clinician,Brookline Community Mental Health,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Caroline,Huang,Belmont,MA,02478,200,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Boihue,Huynh,Charlestown,MA,02129,100,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Madeline,Jacobson,Brighton,MA,02135,3,Marketing,Isenberg Projects,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Edward,Jager,Boston,MA,02110,100,Jager and Smith ,Attorney ,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Molly,Jagoda,West Roxbury,MA,02132,25,Teacher,Self-Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Daniel,Johnson,Roslindale,MA,02131-3617,100,Nonprofit Director,Mass Poetry,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Dorothea M,Jones,Roxbury,MA,02119,50,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Patrick,Jones,Duxbury,MA,02332,250,Lawyer,Jones Kelleher Llp,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Evan,Judd,Boston,MA,02132,50,Scientist,Novartis,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",John,Juszkiewicz,Lowell,MA,01854,10,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Joanne,Kaliontzis,Boston,MA,02210,25,Graphic Designer/Artist,Self Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Katie,Kalvoda,Laguna Hills,CA,92653,500,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Akira,Kamiya,Jamaica Plain,MA,02130-3220,12,Handy Man,Self,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Leah,Kang,Chapel Hill,NC,27516,25,Staff Attorney,Aclu Of North Carolina,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jason,Katz-Brown,Point Richmond,CA,94801,500,Software Engineer,Airbnb Inc.,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sean,Kavanagh,Dorchester,MA,02122,10,Hairstylist,Trephin Salon,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Cheryl,Kelly,Hyde Park,MA,02136,3,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",William,Kessler,West Roxbury,MA,02132,5,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Hyungwoo,Kim,Boston,MA,02134,10,Lawyer,Commonwealth Of Massachusetts,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Christina,Kovach,Brookline,MA,02446,25,Lawyer,Dept Of Revenue,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Allie,Kuo,Tinton Falls,NJ,07712,5,Digital Manager,We Thieves,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Florence,Kwok,Annandale,VA,22003,250,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Karen,Kwok,Boston,MA,02116,100,Physician,Tufts,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Christine,Langhoff,Dorchester,MA,02125,10,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Christie,Lee,Jamaica Plain,MA,02130,4,Intern,OMH,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Hyon,Lee,San Leandro,CA,94577,25,Computer Programmer,LTSE,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jarone,Lee,Boston,MA,02110,150,Physician,Massachusetts General Hospital,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Samantha,Lee,Brooklyn,NY,11215,250,Lawyer,National Advocates For Pregnant Women,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Steven,Lee,West Roxbury,MA,02132,10,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Timothy,Leland,Boston,MA,02110,25,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Patrick,Leow,Chicago,IL,60647,15,Senior Fiscal Policy Analyst,City of Chicago,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Ginger,Lew,Naples,FL,34110,500,Attorney,Three Oaks,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sue,Li,Jamaica Plain,MA,02130,10,Nonprofit,Boston Partners In Education,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Qing,Liao,Acton,MA,01720,100,Scientist,Spire Metering Tech,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Doug,Linney,Alameda,CA,94502,100,Consultant,Next Generation,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sandy,Lish,Charlestown,MA,02129,100,Principal & Co-Founder,The Castle Group,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Xiaole,Liu,Weston,MA,02493-2481,100,Professor,Dana-Farber Cancer Institute ,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Kendall,Loh,Cambridge,MA,02139,5,Software Engineer,Gns Healthcare,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Alex,Loomis,Boston,MA,02118,700,Lawyer,Quinn Emanuel Urquhart & Sullivan Llp,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Maxine,Lu,Oakdale,NY,11769,100,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Janet,Lynch,Haydenville,MA,01039,500,Parent Coach,Self,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jun,Ma,Brookline,MA,02446,25,Professor,Northeastern University,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Tom,Macdonald,Roslindale,MA,02131,5,Educator,Gilbert Albert Community Center,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Greg,Maclennan,Boston,MA,02116,10,Analyst,NPD,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Lauren,Makishima,Jamaica Plain,MA,02130,20,Analytics Manager,Center For Health Information And Analysis,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",James,Maloney,San Francisco,CA,94114,50,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Paulina,Mangubat,Washington,DC,20001,10,Strategist,Authentic Campaigns,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Marilyn,Marion,Dorchester,MA,02121,6,Not Employed,None,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Travis,Marshall,Boston,MA,02131,50,TV Editor,DGA Productions,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Marina,Mccarthy,Bethesda,MD,20814,100,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Cory,Mccray,Baltimore,MD,21206,250,Property Management,Mccray Properties Llc,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",J. Mike,Mchugh,Boston,MA,02118,3,Engineer,Bose,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Thomas,Mcmanus,Boston,MA,02111,20,Owner,None,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Thomas,Mellette,Jamaica Plain,MA,02130,5,Auburn University,Postdoctoral Teaching Fellow,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Caitlin,Mello,Wrentham,MA,02093,3,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Kassandra,Mendes,Boston,MA,02119,5,Marketing Manager,Hubspot,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Leeallen,Meyer,Somerville,MA,02143,10,Paramedic,Cataldo Ambulance Service,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",John,Miner,Boston,MA,02135,5,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Zach,Minton,Roslindale,MA,02131,25,IT,Harvard University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Mary,Mooshian,Boston,MA,02124,25,Product Marketing Manager,Edx,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Sarah,Mosher,Brighton,MA,02135,10,Research Analyst,Boston University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Nicole,Mushero,Jamaica Plain,MA,02130,10,Physician,Boston Medical Center,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Sondra,Myers,Scranton,PA,18510,50,University of Maryland,Teacher ,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jeanne,Nakagawa,San Francisco,CA,94116,100,Software Sales,Drummond Group,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Samantha,Nelson,Roxbury,MA,02119,25,Executive Director,Boston By Foot,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Cal,Newlon,Boston,MA,02118,3,Consultant,Bain & Company,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Emily,Ng,Medford,MA,02155,25,Student,Tufts University,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Pilar,Ortiz,Boston,MA,02315,10,Director Paid Media,Digital Impulse,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Eunice,Panetta,Manchester,MA,01944-1461,250,Self-Employed,Private Investor,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jen,Parks,Roslindale,MA,02131,5,Assistant Directors,Massachusetts Dph,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Nadia,Parsons,Brighton,MA,02135,3,Artist,Self,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Mark,Pasnik,Boston,MA,02118,25,Professor,Wentworth Institute,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Morrigan,Phillips,Boston,MA,02134,10,Social Worker,Victory Programs,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Anne,Pinkham,Boston,MA,02115,3,Student,Northeastern University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",David,Pogorelc,Boston,MA,02116,500,CEO,Core Investments Inc,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Sophie,Rapaport,Cambridge,MA,02138,50,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Stephanie,Reich,Boston,MA,02115,40,Professor,Berklee College,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",David K,Reppucci,Lowell,MA,01852,25,Attorney,Self,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Alice,Roberts,Roslindale,MA,02131,50,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Patricia,Romeo-Gilbert,Boston,MA,02116,25,Real Estate,Tetlow Realty,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Matthew,Rowley,Roxbury,MA,02119,10,Coach,3Step Sports,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Claudio,Ruiz,Watertown,MA,02472,35,Interpreter/Translator,Self-Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Michael,Ruiz,Boston,MA,02125,25,Engineer,Global Protection Corp,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Michael,Ruiz,Boston,MA,02125,50,Engineer,Global Protection Corp,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",David,Ryan,Roslindale,MA,02131,50,Administrator,Emerson Hospital,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Emma,Ryan,Boston,MA,02135,15,Research Assistant,Tufts University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Kirsten,Ryan,Boston,MA,02135,100,Scientist,Kleinfelder Inc,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Hazel,Ryerson,Allston,MA,02134,10,Architectural Designer,EVB Design,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Colin,Sapp,Boston,MA,02130,25,Assistant Professor,Berklee College Of Music,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Jess,Schnitzer,Boston,MA,02114,10,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Kevin,Shanley,Chicago,IL,60616-5176,25,Law Enforcement,Chicago Police Department,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sam,Shaw-Wilgoski,Dorchester,MA,02125,100,Registered Nurse,Massachusetts General Hospital,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",June,Shih,Alexandria,VA,22304-1837,100,Communications,Nyu Shanghai,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Adam,Shutes,Roslindale,MA,02131,250,Owner,Boston Cheese Cellar,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Michael,Siegel,Somerville,MA,02145-3527,50,Security Engineer,Cimpress Inc,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Michelle,Sirois,Boston,MA,02118,10,Teacher,Boston Public Schools,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Mary,Skelton Roberts,Jamaica Plain,MA,02130,100,Program Director,Pilot House Associates,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Mike,Small,Brighton,MA,02135,6,Computer Programming,Akamai,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Natalie,Smith,Evaston,IL,60201,5,Consultant,Huron Consulting Group,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sarah,Smith,Anaheim,CA,92805,25,Phd Student,UC Irvine,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Marisa,Sotolongo,Jamaica Plain,MA,02130,10,Student,Northeastern University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Tess,Spencer,Boston,MA,02135,3,Cook,Yard House,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Sampath,Srinivas,Palo Alto,CA,94303,100,Engineer,Google,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Cicely,Stetson,Boston,MA,02125,10,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Jeremy,Stoppelman,San Francisco,CA,94118,500,Ceo,Yelp,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Audrey,Stuck-Girard,Allston,MA,02122,7,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Katherine,Suarez,Brookline,MA,02445,10,Graduate Student,Harvard,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Catherine,Sullivan,Boston,MA,02131,5,Director Of Operations,Minds At Work Llc,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Liam,Sullivan,Jamaica Plain,MA,02130,25,Processing Archivist,Harvard University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Sophia,Sun,Boston,MA,02210,50,Attorney,Foley Hoag,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Anirudh,Suvarna,Somerville,MA,02143,5,Research Assistant,Harvard University,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sarah,Swettberg,Cambridge,MA,02138,100,Nurse Practitioner,Cambridge Health Alliance,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Michael,Szkolka,Boston,MA,02125,3,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Ashley,Tan,Cambridge,MA,02139,10,Attorney,Prince Lobel Tye Llp,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Debra,Taylor,Boston,MA,02108,25,Manager,Link,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Susan,Tien,Sunnvyale,CA,94087,25,Consultant,Sts,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Veronica,Topp,Pittsburg,CA,94565,2,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jason,Troutner,Boston,MA,02114,15,CEO,Teal Bio,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",James R,Turner,Kansas City,MO,64114,7,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Kevin,Tuttle,Boston,MA,02114,10,Software Engineer,Insightsquared,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Madeline,Wan,Waltham,MA,02452,50,Program Director,South Cove Community Health Center,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Meichung,Wang,Worcester,MA,01605,100,Information Requested,Information Requested,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Samuel,Warren,Roslindale,MA,02131,25,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Michelle,Wassenaar,Hyde Park,MA,02136,25,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Esther,Weathers,Somerville,MA,02143,5,Diversity,Harvard,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Sylvia,Welsh,Boston,MA,02115,20.94,Librarian,Harvard University,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Brent,Whelan,Allston,MA,02134,50,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Judy,White,West Roxbury,MA,02132,25,Writer,Self,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Caroline,White-Nockleby,Medford,MA,02155,25,Phd Student/Research Assistant,Mit,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Anthony,Willis,Roxbury,MA,02119,250,Police Officer,Boston Police Dept,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Nancy,Wilson,Boston,MA,02132,50,Writier,Cimpress,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Christopher,Wirth,Boulder,CO,80302,1000,Manufacturing,Liberty Puzzles,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Kelsey,Wirth,Cambridge,MA,02138,300,Not Employed,None,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Cleo,Woodcock,Jamaica Plain,MA,02130,3,Restaurant Server,Pam's Kitchen,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Alan,Wright,Roslindale,MA,02131,20,Healthcare Analyst,Bayada Home Health Care Inc,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Darrell,Wright,Brockton,MA,02305,100,Consultant,Concrete Protective Services,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Zhicheng,Xin,Morris Plains,NJ,07950,50,Information Requested,Information Requested,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Jeremy,Yang,Dublin,CA,94568,10,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Kristine,Yang,Boston,MA,02115,5,Not Employed,Not Employed,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",David,Yee,Milton,MA,02186,50,Self Employed,Mdc Management Co.,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Luther,Yee,Brighton,MA,02135,3,Data Analyst,Granite Telecommunications,5/24/21 Deposit Report,Yes
+2021-05-24,"Wu, Michelle",Sam,Yuan,Forest Hills,NY,11375,100,Not Employed,Not Employed,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Joyce,Zhang,W Bloomfield,MI,48322,100,Founder,Alariss Global,5/24/21 Deposit Report,No
+2021-05-24,"Wu, Michelle",Hoyt,Zia,Honolulu,HI,96816,100,Attorney,Hawaiian Airlines,5/24/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jonathan,Abe,Belmony,MA,02478,250,Executive,Sunwealth,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Robert,Ahearne,Ayer,MA,01432,25,Software Engineer,Worldpay,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jonathan,Aibel,Concord,MA,01742,36,Software Engineer,Commonwealth Financial Network,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Kamesh,"Aiyer (refund Issued 6/4/2021 of $1,000)",Cambridge,MA,02139,1000,Consultant,Kashi Software Architects Inc.,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Meade,Atkeson,Boston,MA,02125,20.21,Analyst,FTI Consulting,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Kris,Aubuchon,Boston,MA,02119-3217,3,Designer,Civilized Discourse Construction Kit,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Abby,Austin,Brighton,MA,02135,3,Auditor,KPMG,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Elizabeth,Ayoub,Boston,MA,02110,500,Management Consultant,Accenture,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Sam,Balto,Portland,OR,97211,50,Teacher,Portland Public Schools,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Deb,Beatty Mel,Boston,MA,02131,25,Communications Director,Boston Building Resources,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Beth,Bendavid-Val,West Roxbury,MA,02132,20,Creative Department,Brown Brothers Harriman,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Steven,Benjamin,Boston,MA,02131,25,Teacher,Boston Public Schools,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",John R,Benson,Charlestown,MA,02129,10,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",John Reid,Benson,Charlestown,MA,02129,5,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",John Reid,Benson,Charlestown,MA,02129,3,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Laura,Bethard,Boston,MA,02134,25,Pulications,Nber,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Humza,Bokhari,East Boston,MA,02128,5,Attorney,Goodwin Procter Llp,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jacob,Bor,Roxbury,MA,02119,4,Academic,Boston University,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Elizabeth,Boveroux,Boston,MA,02116,500,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Shawnna,Buttery,Jamaica Plain,MA,02130,10,Scientific Editor,Reed Elsevier/Cell Press,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Lettie,Cabot,Cambridge,MA,02138,250,Teacher,Wayland Public Schools,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jessica,Camhi,Boston,MA,02122,10,Data Coordinator,City Of Boston,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Joseph P,Canavan,So.Boston,MA,02127,50,Retired,None,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Brian,Cartwright,Roslindale Massachusetts,MA,02131,25,Carpenter,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Kahang,Chan,Lake Mary,FL,32746,10,Physician,Team Health,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Sze,Chan,New York,NY,10011,25,Translator,Self,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Eugene,Chang,Brighton,MA,02135,25,Manager,Mem Tea Imports,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Yu-Sheng,Chang,Somerville,MA,02145,100,Software Engineer,Projekt202,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Chuanwen,Chen,Sunnyvale,CA,94087,250,Data Scientist,Waymo,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Steven,Chen,Alameda,CA,94501,100,Physician,Alameda Healthsystem,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Claudine,Cheng,San Francisco,CA,94111,250,Attorney,Self,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Henry,Cohen,Roslindale,MA,02131,10,Marketer,ASG,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Kevin,Creighan,Washington,DC,20003,10,Union Officer,AFA-CWA,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Francis,Crocetti,Chestnut Hill,MA,02467,100,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Sarasvati,De Araujo Bacellar,Providence,RI,02906,100,Stay at home mother,Stay At Home Mother,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Juan,De Los Santos,Dorchester,MA,02124,25,Chief Court Officer ,Trial Court Comm of Mass,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Noah,Delaski,Roslindale,MA,02131,5,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",John,Deronck,Marlborough,MA,01752,5,Social Work,Advocates,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Dan,Dheilly,Boston,MA,02115,20.21,Manager,ECM,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Judith Nelson,Dilday,Dorchester /Center,MA,02124,100,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Kafi,Dixon,Boston,MA,02121,5,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Michael,Dow,Easthampton,MA,01027,100,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Andrew,Dreyfus,Newton Center,MA,02459,200,BCBS of MA,President and CEO ,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Gary,Dunning,Boston,MA,02111,250,Non Profit,Celebrity Series of Boston,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Betsy,Ericksen,Boston,MA,02130,10,Community Organizer,Mothers Out Front,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Fred,Fairfield,Canton,MA,02021,10,Developer,Fairfield Real Estate Development Corp.,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jacqueline,Fein-Zachary,Boston,MA,02116,50,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Theodore,Feldman,Roslindale,MA,02131,10,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jaissa,Feliz,Boston,MA,02136,25,Affordable Housing Developer,Beacon Communities,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Sandra,Ferguson,Cambridge,MA,02139,100,Founder,Soofa,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Judith,Fleming,Boston,MA,02116,100,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jean-Francois,Formela,Brookline,MA,02445,500,Venture Capital,Atlas Venture,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Deborah,Frieze,Jamaica Plain,MA,02130,1000,Author,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",John,Gilmore,Roslindale,MA,02131,10,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Michael,Glasfeld,Boston,MA,02210,1000,Owner,Bay State Cruise Company,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Elizabeth,Graham,Roslindale,MA,02131,50,Product Manager,Pearson,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Rebeccca,Gray,New York,NY,10026,10,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Clifford,Green,Boston,MA,02110,10,Retired,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Hannah,Grove,Canaan,NH,03741,100,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",C Benson,Guthrie,New York,NY,10038,20.21,Teacher,Dept Od Ed Nyc,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Brendan,Halpin,Jamaica Plain,MA,02130,10,Tutor,Wentworth Institute Of Technology,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Margery,Hamlen,Boston,MA,02116,750,Artist,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Tammy,Hammack,Brighton,MA,02135-3033,3,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jia,Han,San Francisco,CA,94110,50,Director Of Operations,App Academy,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Thuy,Hangoc,Lexington,MA,02421,1000,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Christina,Hession,Brighton,MA,02135,10,Accountant,Prague & Company P.C.,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Thomas,Hinchliffe,Jamaica Plain,MA,02130,3,Geographic Information Systems Specialist,ATI Systems,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Peggy,Ho,Wellesley,MA,02482,100,Attorney,Commonwealth Financial Network,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Wendy,Holding,Cambridge,MA,02139,1000,Socially Responsible Investment ,Loring Wolcott & Coolidge,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jennifer,Holleran,Lincoln,MA,01773,100,Philanthrop,Startup:Education,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",John,Hou,San Francisco,CA,94118,100,Attorney,Hou & Villery,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Andrew,Huang,Piedmont,CA,94610,250,Attorney,City Of Oakland,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Micheal,Huguet,Allston,MA,02134,3,Meteorologist,Climacell,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jennifer,Hui,Santa Monica,CA,90402,25,Physician,Kaiser,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Yeong-Chang,Hwang,Bedford,MA,01730,25,Sw Engineer,HPE,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jonna,Iacono,Roslindale,MA,02131-2300,100,Educator,Northeastern University,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Louise,Ing,Honolulu,HI,96814,50,Lawyer,Alston Hunt Floyd & Ing,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Nathan,Jacobs,Boston,MA,02109,10,Patent Agent,Wolf Greenfield & Sacks P.C.,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",H. Parker,James,Boston,MA,02115,100,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Marquise,Jones,Dorchester,MA,02122,50,Teacher,Boston Public Schools,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Paul,Kahn,Arlington,MA,02476,3,Director Of Publications & Creative Media,Thayer Academy,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Sean,Kavanagh,Dorchester,MA,02122,10,Hairstylist,Trephin Salon,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jake,Keller,Gaithersburg,MD,20878,4.5,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jake,Keller,Gaithersburg,MD,20878,2.85,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Vivian,Kimball,Jamaica Plain,MA,02130,10,Environmental Scientist,Vhb,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Laura,Kollett,Roslindale,MA,02131,25,Software Developer,Woodplanet,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Dr. Karen,Korematsu,San Rafael,CA,94912,100,Executive Director,Fred T. Korematsu Institute,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Rebekah,Krieger,Roslindale,MA,02131,25,Conservator,National Park Service,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",David,Kubiak,Boston,MA,02113,100,Civil Engineer,MWRA,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Steven,Kumin,Boston,MA,02199,100,Insurance,Kumin Insurance Group,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Wei-Tai,Kwok,Lafayette,CA,94549,250,Marketing Consultant,Kwok Solar Consulting,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Sharon,Lai,San Francisco,CA,94114,50,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jurvis,Lasalle,Roslindale,MA,02131,10,IT Manager,Boston Childrens Hospital,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Kristen,Leathers,Roslindale,MA,02131,10,Teacher,Boston Public Schools,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Timothy,Leland,Boston,MA,02110,20.21,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",June,Leone,Boston,MA,02130,25,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Michael,Love,Pearland,TX,77584,50,Attorney,The Love Law Group ,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Justin,Lowe,Portola Valley,CA,94028,100,Attorney,California,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Catherine,Lui,San Francisco,CA,94105,50,Attorney,Orrick Herrington & Sutcliffe LLP,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Adam,Lutynski,Boston,MA,02210,100,Lawyer,Clients Security Board ,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle","",MA & Northern NE Laborers' District Council Pol Action Comm,Hopkinton,MA,01748,500,"","",5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle","",MA Bay Transportation Authority Inspectors Union Local 600 Pol Action Comm,South Boston,MA,"",500,"","",5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Robert,Macgilvray,Cambridge,MA,02141,3,Security Officer,Allied Universal,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Kevin,Maguire,Boston,MA,02116,50,Self Employed,Oxbow Urban,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Edward,Malloy Jr,West Roxbury,MA,02132,25,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Dorothy,Marcella,Boston,MA,02128,10,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Dorothy,Marcella,Boston,MA,02128,10,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle","",Maria Robinson Committee,Framingham,MA,01701,100,"","",5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Sarah,Mcclean,Boston,MA,02116,25,Attorney,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Terri-Lynn,Mccormick,Boston,MA,02115,50,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Anne,McDonough,West Roxbury,MA,02132,150,Leidos,Engineer,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Margaret,Mcintosh,Waltham,MA,02453,3,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Ma,Mckee,Boston,MA,02114,500,CEO,Walden Biosciences,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Sara,Mckenna,Pembroke,MA,02359,25,Server,Oysterman Restaurant,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Ellen,Mclean,Boston,MA,02131,3,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Kristina,Mensik,Cambridge,MA,02139,10,Campaigns Director,National Council Incarcerated Women & Girls,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Ann,Merrifield,Boston,MA,02114,500,Retired,Retired,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Lauren,Milgroom,Cambridge,MA,02138,25,Lawyer,Foley Hoag LLP,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Dale,Minami,San Francisco,CA,94416,100,Attorney,Minami Tamaki LLP,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Helen,Moon,Pittsfield,MA,01201,25,Registered Nurse,Fairview Hospital,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Karen,Mori,Oakland,CA,94602,100,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Ning,Mosberger,Boulder,CO,80305,1000,Photographer,Imagesbyning,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Thomas,Mullen,Roslindale,MA,02131,100,Speech Pathologist,City of Boston,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",David,Murphy,Allston,MA,02134,10,Operations Analyst,Rbs Citizens Na,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Steven,Neitlich,Jamaica Plain,MA,02130,10,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jeanne,Ngo,San Marcos,CA,92068,25,PM,Nuvasive,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Tung,Nguyen,San Francisco,CA,94112,1000,Physician,UCSF,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",David,Nichols,Cambridge,MA,02139,50,Consultant,Dhnichols,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Vahid,Nickpour,Andover,MA,01810,100,Self Employed,Nova,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Varun,Nikore,Arlington,VA,22205,250,Consultant,Red Fort Strategies,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Mariel,Novas,Dorchester,MA,02124,20,Educator,Teach for America,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Jacqueline,Nunez,Boston,MA,02125,250,Real Estate Developer,Wondergroup Llc,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",John,O'Connor,Boston,MA,02118-1207,1000,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",David,Osterbrock,Newport,OH,41071,3,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Patricia,Palmer,Boston,MA,02110,25,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Brent,Parrish,Dorchester,MA,02125,10,Nonprofit,Boston University,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Rebecca,Pearson,Concord,MA,01742,1000,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Allison,Perlman,Roslindale,MA,02131,3,Project Manager,City Of Boston,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Allison,Perlman,Roslindale,MA,02131,10,Project Manager,City of Boston,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Marcia,Peters,Jamaica Plain,MA,02130,10,Clinical Instructor,Harvard Law School,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Conor,Pewarski,Boston,MA,02131,100,Banker,EBSB,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Sarah,Pingree,Boston,MA,02118,25,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Cindy Chu,Porter,Malden,MA,02148,10,Public Service,Commonwealth,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Mark,Reczek,Boston,MA,02134,50,Paralegal,Bain & Company,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Kenneth,Reich,Boston,MA,02115,50,Lawyer,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",David K,Reppucci,Lowell,MA,01852,20.21,Attorney,Self,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Ed,Rich,Boston,MA,02127,900,Banker,Ebsb,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Cate,Rioles,Jamaica Plain,MA,02130,25,Self Employed,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Margaret Shean,Ris,Boston,MA,02109,100,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Gabriela,Romanow,Cambridge,MA,02138,200,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Laura,Rood,Boston,MA,02110,25,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Matthew,Rubins,Boston,MA,02110,500,Self-Employed,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Anne,Rutter,Roslindale,MA,02131,25,Social Worker,Self-Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Julian,Saliani,New York,NY,10128,25,Senior Reporting Analyst,Vox Media,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Maris,Salinsky,Roslindale,MA,02131,25,Behavioral Health Clinican,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",John,Santos,Charlton,MA,01507,100,Natures Classroom,Director,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Sharron,Sawyer,Roslindale,MA,02131,10,Software Consultant,Cgi Technologies And Solutions Inc.,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Mike,Schiano,Boston,MA,02113,10,Public Relations,Denterlein,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Daniel,Schlozman,Chilmark,MA,02535,1000,John Hopkins University,Professor,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Leslie,Schulz,Flagstaff,AZ,86004,500,Northern Arizona University,Professor,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Owen,Searls,Belmont,MA,02478,50,Software Engineer,Lovepop,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Kate,Shannon,Boston,MA,02124,10,Editor,America's Test Kitchen,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Noah,Shaw,Ballston Spa,NY,12020,250,Attorney,Foley Hoag Llp,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jeremy,Shaw-Munderback,Boston,MA,02215,10,Instructional Design,Boston University,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Frances,Shedd-Fisher,Brookline,MA,02445,20.21,Not Employed,None,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Arshi,Siddiqui,Washington,DC,20005,500,Akin Gump Strauss Hauer & Feld LLP,Attorney,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Wendy,Skelton,Roslindale,MA,02131,100,Health Care Worker,CCA,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Laura,Smeaton,Roslindale,MA,02131,20,Researcher,Harvard University,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Margaret,Song,San Francisco,CA,94116,100,Attorney,Nortonlifelock,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Larry,Stoodt,Framingham,MA,01701,10,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Jason,Stotik,Walpole,MA,02081,25,Accounting,Dept Of Treasury,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Guy,Stutz,Carlisle,MA,01741-1826,250,Retailer,Stop & Shop,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Raphael,Sulkovitz,Roslindale,MA,02131,10,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Caroline,Sunuwar,Roslindale,MA,02131,3,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Nancy,Swanson,Boston,MA,02132,100,Sales,William Raveis Real Estate,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Cecilia,Sze,Cambridge,MA,02138,1000,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Nien Dak,Sze,Cambridge,MA,02138,1000,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Ross,Szeliga,Providence,RI,02903,2,Financial Coordinator,Access Dental Care,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Pratap,Talwar,Boston,MA,02210,100,Architect/Planner,TDG,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Helen,Tarzwell,Boston,MA,02118,4,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Andrew,Therriault,East Boston,MA,02128,25,Data Scientist,Self-Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Janet,Tiampo,Boston,MA,02114,500,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Susan,Tien,Sunnvyale,CA,94087,100,Consultant,STS,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Josh,Tingley,Jamaica Plain,MA,02130,3,Project Coordinator,Room To Grow,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Cara,Torres,Jamaica Plain,MA,02130,25,Admin Assistant,Charles R Myer & Partners Ltd.,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Bonnie,Tusmith,Hyde Park,MA,02136,3,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Ellen,Van Bever,Cambridge,MA,02138,500,Full Time Mother,None,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Samantha,Vidal,Dorchester,MA,02124,10,Senior Project Manager,Annkissam,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Nithi,Vivatrat,Washington,DC,20007,250,Ceo,Intellei,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Drew,Volpe,Cambridge,MA,02138,1000,Technology,Self,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Laurie Jo,Wallace,Boston,MA,02131,100,Director,Health Resources in Action,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Laurie Jo,Wallace,Boston,MA,02131,100,Manager,Health Resources in Action,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Brian,Walsh,Somerville,MA,02145,25,SVP of Technology,Harrisx,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Anthony,Wan,San Francisco,CA,94107,250,Financial Advisor,Wealthboost Advisors Llc,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Feng,Wang,Los Altos,CA,94022,50,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",John,Wang,San Marino,CA,91108,250,Financial Analyst,Primecap,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Shenghao,Wang,Austin,TX,78750,100,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Talia,Ward,Boston,MA,02130,20.21,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Leslie,Warshaw,Boston,MA,02116-6139,25,Not Employed,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Barnet,Weinstein,Boston,MA,02199,500,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Michael,Weinstein,Jamaica Plain,MA,02130,100,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Wu, Michelle",Reginauld,Williams,Quincy,MA,02171,5,Consultant,Not Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",John,Wong,Smithtown,NY,11787,10,Engineer,Nys,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Michael,Wong,San Francisco,CA,94105,1000,Partner,Self-Employed,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Robert,Wong,Brookline,MA,02446,50,Finance,Stratford Capital Group,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Robert,Wong,Brookline,MA,02446,100,Finance,Stratford Capital Group,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Kate,Worrall,Sharon,MA,02067,10,Lobbyist,Charles Group Consulting,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Clifford,Yin,San Francisco,CA,94112,500,Lawyer,Coblentz Patch Duffy & Bass,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Winona,Zhao,Winchester,MA,01890,1000,Partner,EY,5/28/21 Deposit Report,No
+2021-05-28,"Wu, Michelle",Hoyt,Zia,Honolulu,HI,96816,150,Attorney,Hawaiian Airlines,5/28/21 Deposit Report,No
 2020-02-10,"Campbell, Andrea Joy",Elizabeth,Ghoniem,Winchester,MA,01890,1000,Consulting,Saqqara Consulting,2/10/20 Deposit Report,No
 2020-02-10,"Campbell, Andrea Joy",Maggie,Moore,Boston,MA,02116,1000,Not Employed,Not Employed,2/10/20 Deposit Report,Yes
 2020-02-10,"Campbell, Andrea Joy",Jill,Shah,Boston,MA,02116,1000,Not Employed,Not Employed,2/10/20 Deposit Report,Yes
@@ -17895,6 +18975,8 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-10,"Campbell, Andrea Joy",Nikki,Williams,Portland,ME,04103-3117,100,Policy Associate,University of Southern Maine,5/10/21 Deposit Report,No
 2021-05-10,"Campbell, Andrea Joy",Julie,Wong,Cambridge,MA,02141-1294,25,Manager,Corning,5/10/21 Deposit Report,No
 2021-05-10,"Campbell, Andrea Joy",Julianne,Zimmerman,Wakefield,MA,01880-2131,100,Impact Investor,Reinventure Capital,5/10/21 Deposit Report,No
+2021-05-13,"Campbell, Andrea Joy",Donna M,Finneran,Mattapan,MA,02126-2819,300,Homemaker,At Home,5/13/21 Deposit Report,No
+2021-05-13,"Campbell, Andrea Joy",Thomas M,Finneran,Mattapan,MA,02126-2819,200,Legislative Agent,Finneran Global Strategies,5/13/21 Deposit Report,No
 2021-05-17,"Campbell, Andrea Joy",Jodi,Abbott,Boston,MA,02127-5618,250,Physician,American Medical Association,5/17/21 Deposit Report,No
 2021-05-17,"Campbell, Andrea Joy",Kathryn,Allen,Worcester,MA,01602-2750,5,Social Worker,Reliant Medical Group,5/17/21 Deposit Report,No
 2021-05-17,"Campbell, Andrea Joy",Sean,Barry,Venice,CA,90291-2477,50,Attorney,"Munger, Tolles & Olson LLP",5/17/21 Deposit Report,No
@@ -17964,6 +19046,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-17,"Campbell, Andrea Joy",Rick B,Yoder,Roslindale,MA,02131-3926,35,Not Employed,None,5/17/21 Deposit Report,No
 2021-05-17,"Campbell, Andrea Joy",Mindelynn,Young Godbout,Boston,MA,02114-2812,200,Not Employed,None,5/17/21 Deposit Report,No
 2021-05-17,"Campbell, Andrea Joy",Jordan,Zaslow,Boston,MA,02116-2055,50,Executive Director,Her Bold Move,5/17/21 Deposit Report,No
+2021-05-19,"Campbell, Andrea Joy",Joan A.W.,Kimball,Concord,MA,01742-2452,50,Retired,None,5/19/21 Deposit Report,No
 2021-05-21,"Campbell, Andrea Joy",Jayme,Leschly,Weston,MA,02493-2558,1000,Student,None,5/21/21 Deposit Report,No
 2021-05-21,"Campbell, Andrea Joy",Kayla,Leschly,Weston,MA,02493-2558,1000,Student,None,5/21/21 Deposit Report,No
 2021-05-21,"Campbell, Andrea Joy",Luca,Leschly,Weston,MA,02493-2558,1000,Not Employed,None,5/21/21 Deposit Report,No
@@ -18043,6 +19126,8 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-24,"Campbell, Andrea Joy",Kathleen,Wilkinson,Wakefield,MA,01880-4313,500,Human Resources,"Bluebird Bio, Inc.",5/24/21 Deposit Report,No
 2021-05-24,"Campbell, Andrea Joy",Lisa,Zankman Burke,Boston,MA,02130-2027,250,Not Employed,None,5/24/21 Deposit Report,No
 2021-05-27,"Campbell, Andrea Joy",Anastasia,Lyman,Jamaica Plain,MA,02130-2819,25,Not Employed,None,5/27/21 Deposit Report,No
+2021-05-27,"Campbell, Andrea Joy",Brenden F,McCarthy,Everett,MA,02149-2105,1000,Student,None,5/27/21 Deposit Report,No
+2021-05-27,"Campbell, Andrea Joy",Raymond Y,McCarthy,Everett,MA,02149-2105,1000,Department of Public Works,City of Everett,5/27/21 Deposit Report,No
 2021-05-27,"Campbell, Andrea Joy",Robert A,Moeser,Allston,MA,02134-2423,1000,Not Employed,None,5/27/21 Deposit Report,No
 2021-05-27,"Campbell, Andrea Joy",Janytt L,Scott,Dorchester Center,MA,02124-4427,25,Not Employed,None,5/27/21 Deposit Report,No
 2021-05-27,"Campbell, Andrea Joy",Clayton H,Turnbull,Jamaica Plain,MA,02130-2403,1000,C.E.O.,The Waldwin Group,5/27/21 Deposit Report,No
@@ -22110,7 +23195,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-30,"Santiago, Jon",Paul,Holland,Braintree,MA,02184,1000,Executive,The Holland Companies,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Andreas,Hwang,Roslindale,MA,02131,200,Principal,Aponte Development,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Mickey,Ibarra,Washington,DC,20036,250,Public Affairs Consultant,Ibarra Strategy Group,4/30/21 Deposit Report,No
-2021-04-30,"Santiago, Jon",Robert,Inello,Revere,MA,02151,1000,Owner,Inello Electric,4/30/21 Deposit Report,Yes
+2021-04-30,"Santiago, Jon",Robert,"Inello, Jr",Revere,MA,02151,1000,Sales,Inello Electric,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Robert,Inello,Revere,MA,02151,1000,Owner,Inello Electric,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon","",Jack  Lewis Committee,Ashland,MA,01721,100,"","",4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Vikram,Jairam,New Haven,CT,06510,100,"","",4/30/21 Deposit Report,No
@@ -22166,8 +23251,8 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-30,"Santiago, Jon",Rebecca,Nickerson,Brookline,MA,"",20,"","",4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Anna,Nicosia,Boston,MA,02118,1000,Producer,Connelly Partners,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Giampaolo,Nicosia,Goleta,CA,93117,1000,Not Employed,Not Employed,4/30/21 Deposit Report,No
+2021-04-30,"Santiago, Jon",Mario,"Nicosia, Jr",Miami,FL,33139,1000,Professional Tennis Player,"Mario Nicosia, Jr",4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Mario,Nicosia,Boston,MA,02118,1000,Principal,GTI Properties,4/30/21 Deposit Report,Yes
-2021-04-30,"Santiago, Jon",Mario,Nicosia,Miami,FL,33139,1000,Professional Tennis Player,GTI Properties,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Paul,O'Sullivan,Norwell,MA,02018,200,Consultant,Paul J O'Sullivan,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Joseph,OConnor,Waterford,CT,06385,100,Manager,COJE,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Danielle,Ortega,Ferndale,MI,48220,50,"","",4/30/21 Deposit Report,No
@@ -22244,14 +23329,14 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-02-07,"Barros, John F.",Keila,Barros,Dorchester,MA,02125,1000,Human Resources,Jewish vocational service,2/7/21 Deposit Report,Yes
 2021-02-07,"Barros, John F.",Nelson,Barros,Boston,MA,02119,1000,Administrator,Nelson Mullins,2/7/21 Deposit Report,Yes
 2021-02-07,"Barros, John F.",Titciana,Barros,Dorchester,MA,02125-2634,250,Not Employed,Not Employed,2/7/21 Deposit Report,No
-2021-02-07,"Barros, John F.",Joe,Carrol,Washington,DC,20010,250,Real Estate,Self,2/7/21 Deposit Report,No
+2021-02-07,"Barros, John F.",Joe,Carrol,Washington,DC,20010,250,Principal,Evergreen Urban Real Estate Partners,2/7/21 Deposit Report,No
 2021-02-07,"Barros, John F.",Edson,DaSilve,Quincy,MA,02169,100,Accountant,Augustech LLC,2/7/21 Deposit Report,No
-2021-02-07,"Barros, John F.",Flavio,Debarros,Arlington,MA,02476,100,Photographer,Self,2/7/21 Deposit Report,No
+2021-02-07,"Barros, John F.",Flavio,Debarros,Arlington,MA,02476,100,Photographer,Flavio D Photography,2/7/21 Deposit Report,No
 2021-02-07,"Barros, John F.",Dwan Packnett (via,Drive),Boston,MA,02135,250,Director,Sira Naturals,2/7/21 Deposit Report,Yes
 2021-02-07,"Barros, John F.",MICHAEL,FELDMAN,Newton,MA,02459,1000,Business Owner,Feldman Surveyors,2/7/21 Deposit Report,Yes
 2021-02-07,"Barros, John F.",Gertrudes,Fidalgo-Teixeira,Randolph,MA,02368,500,Teacher,City of Boston,2/7/21 Deposit Report,No
 2021-02-07,"Barros, John F.",rosalind,greenstein,Maynard,MA,01754,1000,Economist,AIER,2/7/21 Deposit Report,No
-2021-02-07,"Barros, John F.",Marianne,Hughes,Dorchester,MA,02124,100,Consultant,Self emplyed,2/7/21 Deposit Report,Yes
+2021-02-07,"Barros, John F.",Marianne,Hughes,Dorchester,MA,02124,100,Principal and Owner,Marianne Hughes & Associates,2/7/21 Deposit Report,Yes
 2021-02-07,"Barros, John F.",James,Kelley,Boston,MA,02110,1000,Attorney,Acucity Law,2/7/21 Deposit Report,Yes
 2021-02-07,"Barros, John F.",Demond,Martin,Newton,MA,02468,1000,Finance,Adage Capital,2/7/21 Deposit Report,No
 2021-02-07,"Barros, John F.",Noemia,Monteiro-Do Canto,Weymouth,MA,02190,125,Case Manager,BIDMC,2/7/21 Deposit Report,No
@@ -22265,7 +23350,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-02-14,"Barros, John F.",patricia,brandes,beverly,MA,01915-5019,200,Not employed,Not employed,2/14/21 Deposit Report,No
 2021-02-14,"Barros, John F.",Herb,Brown,Beverly,MA,01915-5019,200,Not Employed,Not Employed,2/14/21 Deposit Report,No
 2021-02-14,"Barros, John F.",Julian,Castle-Logan,Brockton,MA,02301,500,sales,self,2/14/21 Deposit Report,No
-2021-02-14,"Barros, John F.",Stephen,Crawford,Arlington,MA,02476,500,Communications,Self,2/14/21 Deposit Report,No
+2021-02-14,"Barros, John F.",Stephen,Crawford,Arlington,MA,02476,500,Principal,Crawford Strategies,2/14/21 Deposit Report,No
 2021-02-14,"Barros, John F.",Jeffrey,Feldman,Wayland,MA,01778,1000,Not Employed,Not Employed,2/14/21 Deposit Report,No
 2021-02-14,"Barros, John F.",Joyceanna,Fidalgo,Boston,MA,02125,100,Practice Administrator,Boston Childrens hospital,2/14/21 Deposit Report,Yes
 2021-02-14,"Barros, John F.",Maria Goreth,Fidalgo,Purchase,NY,10577,1000,Speech Coach,Finn Partners,2/14/21 Deposit Report,No
@@ -22682,7 +23767,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-21,"Barros, John F.",Antonio,Teixeira,Randolph,MA,02368,500,Material Handler,Teradyne,3/21/21 Deposit Report,No
 2021-03-21,"Barros, John F.",Duquinha,Thompson,Syracsue,NY,13210,50,Director,Child care solutions,3/21/21 Deposit Report,No
 2021-03-21,"Barros, John F.",Ted,Tye,Boston,MA,02215,250,real estate,National Development,3/21/21 Deposit Report,Yes
-2021-03-24,"Barros, John F.",Thomas,Ravenel,Mt Pleasant,SC,29464,200,Former Actor ,N/A,3/24/21 Deposit Report,No
+2021-03-24,"Barros, John F.",Thomas,Ravenel,Mt Pleasant,SC,29464,200,President,Ravenel Development Corporation,3/24/21 Deposit Report,No
 2021-03-27,"Barros, John F.",Madueno,Alves,Quincy,MA,02169,150,Self Employed,Teresa Vaquez,3/27/21 Deposit Report,No
 2021-03-27,"Barros, John F.",Margarita,Amado,Roxbury ,MA,02119,500,Retired,Not Employed,3/27/21 Deposit Report,Yes
 2021-03-27,"Barros, John F.",Antonio C,Barros,Roxbury,MA,02119,100,Retired,Not Employed,3/27/21 Deposit Report,Yes
@@ -22953,7 +24038,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-05,"Barros, John F.",Lisa,Dasilva,Randolph,MA,02368,150,Principal Revenue Cycle Integration Manager,Boston Children's Hospital,4/5/21 Deposit Report,No
 2021-04-05,"Barros, John F.",Shari,Davis,OAKLAND,CA,94605,50,Executive Director,PBP,4/5/21 Deposit Report,No
 2021-04-05,"Barros, John F.",Bartolomeu,De Barros,Dorchester,MA,02125,25,Not Employed,Not Employed,4/5/21 Deposit Report,Yes
-2021-04-05,"Barros, John F.",Flavio,Debarros,Arlington,MA,02476,100,Photographer,Self,4/5/21 Deposit Report,No
+2021-04-05,"Barros, John F.",Flavio,Debarros,Arlington,MA,02476,100,Photographer,Flavio D Photography ,4/5/21 Deposit Report,No
 2021-04-05,"Barros, John F.",Carmen,Depina,Dorchester,MA,02125,50,Not Employed,Not Employed,4/5/21 Deposit Report,Yes
 2021-04-05,"Barros, John F.",Adam,Desjardins,Stoneham,MA,02180,5,Analyst,Birch Hill Investment Advisors,4/5/21 Deposit Report,No
 2021-04-05,"Barros, John F.",Alexandra,Dias,Pawtucket,RI,02860,100,CAD Processor,FM Global,4/5/21 Deposit Report,No
@@ -22996,7 +24081,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-05,"Barros, John F.",Joshua,Posner,Cambridge,MA,02140,100,Affordable HOusing Developer,Rising Tide Development LLC,4/5/21 Deposit Report,No
 2021-04-05,"Barros, John F.",Edward,Powell,Dorchester,MA,02124,75,Human services,Justice Resource Institute,4/5/21 Deposit Report,Yes
 2021-04-05,"Barros, John F.",Paul L,Rosenberg,W. Newton,MA,02465,100,mgt. consultant,The Bridgespan Group,4/5/21 Deposit Report,No
-2021-04-05,"Barros, John F.",James,Rudser,South Boston,MA,02127,1000,Attorney,self-employed,4/5/21 Deposit Report,Yes
+2021-04-05,"Barros, John F.",James,Rudser,South Boston,MA,02127,1000,Attorney,James Rudser Law Offices,4/5/21 Deposit Report,Yes
 2021-04-05,"Barros, John F.",James,Santos,Boston,MA,02210,1000,Policy Analyst,City of Boston,4/5/21 Deposit Report,Yes
 2021-04-05,"Barros, John F.",Rudina,Seseri,Wellesley,MA,02481-1154,100,Venture capital,Glasswing Ventures,4/5/21 Deposit Report,No
 2021-04-05,"Barros, John F.",Zhubin,Shobe,Watertown,MA,02471,100,Sales,Land Rover,4/5/21 Deposit Report,No
@@ -23047,7 +24132,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-18,"Barros, John F.",Fr.,Ahern,Boston,MA,02124,50,priest,rCAB,4/18/21 Deposit Report,Yes
 2021-04-18,"Barros, John F.",Joan,Ai,New York,NY,10009,100,Not Employed,Not Employed,4/18/21 Deposit Report,No
 2021-04-18,"Barros, John F.",Anne-Marie,Aigner,Watertown,MA,02472,10,Not Employed,Not Employed,4/18/21 Deposit Report,No
-2021-04-18,"Barros, John F.",Chinwe,Ajene-Sagna,Stoughton,MA,02072,250,Real estate,CRS (Self-Employed),4/18/21 Deposit Report,No
+2021-04-18,"Barros, John F.",Chinwe,Ajene-Sagna,Stoughton,MA,02072,250,Managing Partner,Catalyst Realty Solutions,4/18/21 Deposit Report,No
 2021-04-18,"Barros, John F.",Nicholas,Alto,Fort Worth,TX,76111,10,Not Employed,Not Employed,4/18/21 Deposit Report,No
 2021-04-18,"Barros, John F.",Elmer,Alvarez,Boston,MA,02132,250,Lawyer,Choate,4/18/21 Deposit Report,Yes
 2021-04-18,"Barros, John F.",gabrielle,baron,jamiaca plain,MA,02130,100,sales,William Raveis,4/18/21 Deposit Report,Yes
@@ -23303,7 +24388,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-29,"Barros, John F.",Guilhermina,Almeida,Dorchester,MA,02125,50,Not Employed,Retired,4/29/21 Deposit Report,Yes
 2021-04-29,"Barros, John F.",Maria,Andrade,Dorchester,MA,02125,50,Not Employed,Retired,4/29/21 Deposit Report,Yes
 2021-04-29,"Barros, John F.",Lucinda,Dos Santos,Dorchester,MA,02125,100,Not Employed,Retired,4/29/21 Deposit Report,Yes
-2021-04-29,"Barros, John F.",Lucy,Fernandes,Dorchester,MA,02122,1000,Homemaker,self-employed ,4/29/21 Deposit Report,Yes
+2021-04-29,"Barros, John F.",Lucy,Fernandes,Dorchester,MA,02122,1000,Homemaker,Not Employed,4/29/21 Deposit Report,Yes
 2021-04-29,"Barros, John F.",Mandel,Fernandes,Dorchester,MA,02122,1000,Technician,Comcast,4/29/21 Deposit Report,Yes
 2021-04-29,"Barros, John F.",Susan,Fernandes,Stoughton,MA,02072,1000,Social Services,Commonwealth of Massachusetts,4/29/21 Deposit Report,No
 2021-04-29,"Barros, John F.",Mohamed,Lahlou,Melrose,MA,02176,1000,Cashier,Dukin Donuts,4/29/21 Deposit Report,No
