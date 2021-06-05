@@ -2384,3 +2384,251 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Yeracaris MD"	"Youko"	"37 Beresford Rd"	"Chestnut Hill"	"MA"	"02467"	100.0000	""	""	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Young"	"Kathleen"	"120 Beacon St"	"Boston"	"MA"	"02116"	100.0000	"Not Employed"	"Not Employed"	""	"0"	4/30/21 Deposit Report		3	Credit Card
 201	Individual	16919	"Santiago, Jon"	"4/30/2021"	"Zakim"	"Joshua"	"257 Commonwealth Ave Apt 2"	"Boston"	"MA"	"02116"	250.0000	"Executive Director"	"Housing Forward-MA"	""	"0"	4/30/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Argov"	"Jonathan"	"31 Essex St 2"	"Charlestown"	"MA"	"02129"	25.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Ayoub"	"Jane"	"65 East India Row 7F"	"Boston"	"MA"	"02108"	500.0000	"Not Employed"	"Not Employed"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Balakrishna"	"Aditi"	"905 20th Ave South Apt 1216"	"Nashville"	"TN"	"37203"	250.0000	"Physician"	"Vanderbilt University Medical Center"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Cavanaugh"	"Paul"	"7 Ocean View Drive, Unit 706"	"Dorchester"	"MA"	"02125"	25.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Cintron"	"Ileana"	"9736 Myrtle Creek Dr Apt 203"	"Riverview"	"FL"	"33578"	50.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Downey"	"Colin"	"93 Bourne Park Ave"	"Marshfield"	"MA"	"02050"	20.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Fahy"	"Patrick"	"95 Maple Street"	"West Roxbury"	"MA"	"02132"	50.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Fitzpatrick"	"Mary"	"3 Mission St"	"Boston"	"MA"	"02115"	7.0000	"Not Employed"	"Not Employed"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Gertsen"	"Bob"	"23 Boutwell Street"	"Dorchester"	"MA"	"02122"	100.0000	"Consultant"	"Accenture"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Glick"	"Larry"	"1313 Washington Street Apt. 509"	"Boston"	"MA"	"02118"	500.0000	"Partner/Owner"	"Integrity Merchant Solutions"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Gordon"	"Ken"	"1 Short Street"	"Bedford"	"MA"	"01730"	100.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Gordon"	"Ken"	"1 Short Street"	"Bedford"	"MA"	"01730"	200.0000	"Attorney"	"Gordon Law Office"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Green"	"Sylvia"	"16 Harcourt St."	"Boston"	"MA"	"02116"	100.0000	"Not Employed"	"Not Employed"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Haggerty"	"Richard"	"32 Leonard Street"	"Woburn"	"MA"	"01801"	400.0000	"Business Manager"	"Daily Times Chronicle"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Hernandez"	"Edwin"	"511 Oriole Street"	"Marietta"	"GA"	"30067"	10.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Koczela"	"Christopher"	"115 Harvest Lane"	"Bridgewater"	"MA"	"02324"	200.0000	"Principal"	"Fort Point Strategies LLC"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Kornmehl"	"Ernest"	"189 Forest Ave"	"West Newton"	"MA"	"02465"	50.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"LaRochelle"	"Robert"	"18 Old Salt Drive"	"Seabrook"	"NH"	"03874"	500.0000	"Manager"	"Andover Strategic Alliances"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Maynard"	"John"	"113 Sheridan St"	"Jamaica Plain"	"MA"	"02130"	500.0000	"Educator"	"Nonprofit"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Price"	"Michael"	"1180 Washington Street unit 300"	"Boston"	"MA"	"02118"	500.0000	"Real estate"	"Michael Price"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Sloane"	"Barry"	"45 Stonecrest Drive"	"Needham"	"MA"	"02492"	1000.0000	"Banker"	"Century Bank"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Sutich"	"John"	"84 Russell Street"	"Charlestown"	"MA"	"02129"	200.0000	"Government affairs"	"Comcast"	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Swimm"	"Darin"	"34 Tremont Street #4"	"Chelsea"	"MA"	"02150"	25.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/7/2021"	"Waldman"	"Abigail"	"38 Ridge Ave"	"Newton"	"MA"	"02459"	100.0000	""	""	""	"0"	5/7/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Baker"	"Charles"	"179 Clinton Road"	"Brookline"	"MA"	"02445"	1000.0000	"Principal"	"Dewey Square Group"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Bizimungu"	"Remy"	"35 East Cavour St"	"Daly City"	"CA"	"94014"	200.0000	"Not Employed"	"Not Employed"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Brennan"	"Kerry"	"57 Quail Street"	"West Roxbury"	"MA"	"02132"	500.0000	"Headmaster"	"The Roxbury Latin School"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Busch"	"Susan"	"95 Beacon St, Apt 5"	"Boston"	"MA"	"02108"	200.0000	"Business owner"	"Susan Busch"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Callahan"	"William"	"59 Rutland Square"	"Boston"	"MA"	"02118"	100.0000	"Physician"	"Steward Medical Group"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Daviau"	"Duncan"	"581 Springfield St"	"Chicopee"	"MA"	"01013"	100.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/14/2021"	"David M. Rogers Committee"	""	"21 Merchants Row, Ste. 5"	"Boston"	"MA"	"02109"	100.0000	""	""	""	"15483"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Freed"	"Kenneth"	"7 Baldwin Place"	"Boston"	"MA"	"02113"	100.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Glasfeld"	"MIchael"	"200 Seaport Blvd, Ste 50"	"Boston"	"MA"	"02210"	500.0000	"Owner"	"Bay State Cruise Company"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Glimcher"	"Laurie"	"100 Beacon St Unit 3A"	"Boston"	"MA"	"02116"	1000.0000	"Physician"	"Dana-Farber"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Hoben"	"James"	"11 Lilac Lane"	"Yarmouth Port"	"MA"	"02675"	500.0000	"Small Business Owner"	"El Pelon Taqueria"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Kornmehl"	"Ernest"	"189 Forest Ave"	"West Newton"	"MA"	"02465"	5.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Laird"	"Diana"	"21 Cumberland Street Apt 4"	"Boston"	"MA"	"02115"	100.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Lama"	"Joseph"	"116 Bradlee Street Unit-8"	"Boston"	"MA"	"02136"	25.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Levin"	"Boaz"	"2 Lakeshore Center 3rd Fl"	"Bridgewater"	"MA"	"02324"	200.0000	"Attorney"	"Keches Law Group"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Lowe"	"Douglas"	"50 Terminal Street"	"Charlestown"	"MA"	"02129"	25.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"MacDonlad"	"Geoffrey"	"23 Bay State Rd. #8"	"Boston"	"MA"	"02215"	100.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Maloni"	"John"	"70 St. Botolph Street #713"	"Boston"	"MA"	"02116"	50.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Mazzella"	"Joseph"	"201 West Brookline Street"	"Boston"	"MA"	"02118"	1000.0000	"Retired"	"Retired"	""	"0"	5/14/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/14/2021"	"Michael S. Day Committee"	""	"9 Poplar St."	"Stoneham"	"MA"	"02180"	100.0000	""	""	""	"14975"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Nacey"	"Michael"	"770 Boylston St. 26I"	"Boston"	"MA"	"02199"	50.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Packard"	"Connie"	"4975 Washington St #411"	"West Roxbury"	"MA"	"02132"	100.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Patel"	"Ffyona"	"1353 Talbert Ter SE"	"Washington"	"DC"	"20020"	25.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Pierson"	"Morgan"	"567 Tremont St 12A"	"Boston"	"MA"	"02118"	100.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Stringos"	"George"	"5 Robinson Rd."	"Woburn"	"MA"	"01801"	25.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Tronick"	"Ed"	"170 W. Newton St"	"Boston"	"MA"	"02118"	50.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/14/2021"	"Whitnall"	"Matt"	"47 Kennedy St"	"Alexandria"	"VA"	"22305"	100.0000	""	""	""	"0"	5/14/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Borden"	"Anyes"	"342 Commercial St Unit 7"	"Boston"	"MA"	"02109"	25.0000	"Not Employed"	"Not Employed"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Bylsma"	"Tara"	"63 Woodard Rd"	"West Roxbury"	"MA"	"02132"	25.0000	"Physician"	"Boston medical center"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Ciccone"	"Lucia"	"12 Blackwood st #218"	"Boston"	"MA"	"02115"	50.0000	"Not Employed"	"Not Employed"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Enright"	"Kathleen"	"234 W Newton St #3"	"Boston"	"MA"	"02116"	100.0000	"Instructor"	"Bunker Hill Community College"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Enright"	"Kathleen"	"234 W Newton St #3"	"Boston"	"MA"	"02116"	50.0000	"Instructor"	"Bunker Hill Community College"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Enyedy"	"Nancy"	"32 Concord Sq #2"	"Boston"	"MA"	"02118"	250.0000	"Not Employed"	"Not Employed"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Fisher"	"J Kevin"	"15 Dartmouth PLace"	"Boston"	"MA"	"02116"	50.0000	"Mgmt Consultant"	"Dartmouth Research"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Ford"	"Michael"	"130 Maple Street"	"Sherborn"	"MA"	"01770"	500.0000	"Lawyer"	"Ford Law"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Forkner"	"Rebecca"	"16 Durham St"	"Boston"	"MA"	"02115"	250.0000	"Psychologist"	"Self-employed"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Forkner"	"Rebecca"	"16 Durham St"	"Boston"	"MA"	"02115"	107.0000	"Psychologist"	"Rebecca Forkner"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Karp"	"Jeff"	"17 Gloucester Street   Apt 9"	"Boston"	"MA"	"02115"	500.0000	"Executive"	"Laz Parking"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Kornmehl"	"Jake"	"189 Forest Ave"	"West Newton"	"MA"	"02465"	25.0000	"Physician"	"Kornmehl Laser Eye Associates"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Morris"	"Dennis"	"12 Cumberland St #2"	"Boston"	"MA"	"02115"	1000.0000	"Controller"	"Coaster Pedicab"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Pogorelc"	"David"	"699 Boylston Street 10th Floor"	"Boston"	"MA"	"02116"	500.0000	"CEO"	"Core Investments Inc"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Sclar"	"Jeremy"	"33 Boylston St Suite 3000"	"Chestnut Hill"	"MA"	"02467"	500.0000	"Chief Executive Officer"	"WS Development"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Seaver"	"Linda"	"10 Durham St"	"Boston"	"MA"	"02115"	100.0000	"Not Employed"	"Not Employed"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Sherer"	"Jason"	"73 Waverly Street apt 2"	"Roxbury"	"MA"	"02119"	50.0000	"Not Employed"	"Not Employed"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Steele"	"Lee"	"3 Durham Street"	"Boston"	"MA"	"02115"	250.0000	"CFO"	"Tatum LLC"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Steele"	"Lorraine"	"3 durham Street #2"	"Boston"	"MA"	"02115"	250.0000	"Not Employed"	"Not Employed"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Tirone"	"Fernando"	"220 Hanover st."	"Boston"	"MA"	"02113"	100.0000	"Security Guard"	"Allied Universal"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Tramuto"	"Donato"	"20 Rutledge Street Unit 707"	"Nashville"	"TN"	"37210"	500.0000	"CEO/Chairman"	"Health evillages"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/21/2021"	"Woody"	"Katherine"	"7500 Brasilia Pl"	"Dulles"	"VA"	"20189"	20.0000	"Foreign Service Officer"	"USDA"	""	"0"	5/21/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"Aaron Michlewitz Committee"	""	"14 W Broadway #307"	"Boston"	"MA"	"02127"	100.0000	""	""	""	"14902"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Abate"	"Tina"	"357 Commercial St #513"	"Boston"	"MA"	"02109"	200.0000	"Retired"	"Retired"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Abichaker"	"Checrallah"	"151 Stratford St"	"West Roxbury"	"MA"	"02132"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Abichaker"	"David"	"123 Wren St"	"West Roxbury"	"MA"	"02132"	200.0000	"Program Director"	"Haemonetics"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Abramo"	"Dominic"	"57 Woodcrest Dr"	"Melrose"	"MA"	"02176"	1000.0000	"Carpenter"	"ABV Construction"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Abramo"	"Michelle"	"41 Woodcrest Dr"	"Melrose"	"MA"	"02176"	1000.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Acone"	"Ryan"	"269 Webster Street Apt 2"	"East Boston"	"MA"	"02128"	200.0000	"Real Estate Professional"	"Self Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+220	Aggregated Unitemized Receipts	16919	"Santiago, Jon"	"5/28/2021"	"Aggregated Unitemized Receipts"	""	""	""	""	""	50.0000	""	""	""	"0"	5/28/21 Deposit Report	Aggregated Unitemized Receipts	0	
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Alessi"	"Nicole"	"127 Nahatan St"	"Westwood"	"MA"	"02090"	500.0000	"Sales"	"Herb Chambers"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Alexander"	"James"	"257 Northampton St #703"	"Boston"	"MA"	"02118"	200.0000	"Architect"	"Finegold Alexander Architects"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Alexander"	"James"	"257 Northampton St #703"	"Boston"	"MA"	"02118"	100.0000	"Architect"	"Finegold Alexander Architects"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Aluia"	"Jason"	"126 Prince St #10"	"Boston"	"MA"	"02113"	200.0000	"Vice President"	"Mass. Association of Health Plans"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Arshad"	"Fahad"	"248 Mill St"	"Burlington"	"MA"	"01803"	500.0000	"General Manager"	"Herb Chambers Corporation"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Bell"	"Paul"	"35 Dale Street"	"Chestnut Hill"	"MA"	"02467"	1000.0000	"General Counsel"	"Groma LLC"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Beney"	"Daniel"	"4 Durham St #3"	"Boston"	"MA"	"02115"	100.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Bevilacqua"	"Michael"	"148 River St"	"Middleton"	"MA"	"01949"	200.0000	"Investigator"	"Suffolk County Sheriff's Department"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Birtles"	"Scott"	"217 Alpine Estates Dr"	"Cransotn"	"RI"	"02921"	1000.0000	"General Manager"	"Herb Chambers"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Bonenfant"	"Julie"	"621 East 1st St D4"	"S. Boston"	"MA"	"02127"	100.0000	"RN"	"BIDMC"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Boscardin"	"Richard"	"33 Prichard St"	"Fitchburg"	"MA"	"01420"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Boudreau"	"Todd"	"10 Walnut Street #A"	"Boston"	"MA"	"02108"	250.0000	"Attorney"	"MoFo"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Bova"	"Anthony"	"7 Nordic Way"	"Melrose"	"MA"	"02176"	1000.0000	"Owner"	"AVB Construction"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Bova"	"Kristen"	"7 Nordic Way"	"Melrose"	"MA"	"02176"	1000.0000	"Chiropractor"	"ICPA"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Bradlee"	"Barbara"	"34 Bond Street"	"Reading"	"MA"	"01867"	25.0000	"Interior Designer"	"self"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Breen"	"Chris"	"10 Putnam Street"	"Charlestown"	"MA"	"02129"	21.2200	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Breen"	"Paul"	"10 Putnam St"	"Charlestown"	"MA"	"02129"	21.2100	"laborer"	"port"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Brockmann"	"Jeremy"	"1772 NH Route 119"	"Rindge"	"NH"	"03461"	250.0000	"VP"	"Regional Home Care"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Cahill"	"Daniel"	"20 Bellaire Ave"	"Lynn"	"MA"	"01901"	500.0000	"State Representative"	"Commonwealth of Massachusetts"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Capano"	"Peter"	"101 Allen St"	"Lynn"	"MA"	"01902"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Carabott"	"Cabot"	"125 Tolman Avenue"	"Leominster"	"MA"	"01453"	250.0000	"President/Owner"	"Regional Home Care"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Carregal"	"John"	"404 Commercial St #1"	"Boston"	"MA"	"02109"	125.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Carregal, Jr."	"Joseph"	"404 Commercial St #1"	"Boston"	"MA"	"02109"	150.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Carregal, Sr"	"Johanna"	"19 Park St #3"	"Charlestown"	"MA"	"02129"	250.0000	"Homemaker"	"Homemaker"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Carregal, Sr"	"Joseph"	"19 Park St #3"	"Charlestown"	"MA"	"02129"	250.0000	"Real Estate"	"DJ Management "	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Cassidy"	"Gerard"	"68 Wooodard Ave"	"Brockton"	"MA"	"02301"	500.0000	"State Representative"	"Commonwealth of Massachusetts"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Chambers"	"Herbert"	"220 Boylston St #1209"	"Boston"	"MA"	"02116"	1000.0000	"President"	"Herb Chambers Companies"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Colon"	"Frances"	"3520 13th St. NW"	"Washington"	"DC"	"20010"	200.0000	"Consulting"	"Self"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Cook"	"Michael"	"12 Country Club Ln"	"Foxboro"	"MA"	"02035"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Cook"	"Sheila"	"12 Country Club Ln"	"Foxboro"	"MA"	"02035"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Correia"	"Joseph"	"458 Main Street"	"Wilmington"	"MA"	"01887"	1000.0000	"Business Owner"	"Boston Building Wraps"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Cortes"	"Lorraine"	"2323 Lodovick Ave"	"Bronx"	"NY"	"10469"	250.0000	"Public Service"	"NYC DFTA"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Costigan"	"James"	"16 Nathan Pratt Drive"	"Concord"	"MA"	"01742"	40.0000	"Health Care & Life Sciences Legal Secretary/Assistant"	"Epstein Becker & Green P.C."	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Croad"	"Melissa"	"20 Riverview Ave"	"Stow"	"MA"	"01775"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Curtis"	"Michael"	"19 Hale St"	"Haverhill"	"MA"	"01830"	1000.0000	"Partner"	"G&C Concrete Construction, Inc."	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"D'Amore"	"Paul"	"1340 S Ocean Blvd. Unit 702"	"Pompano Beach	"	"FL"	"33062"	250.0000	"Retired"	"Retired"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Dailey"	"Alexandra"	"9 Chisholm Rd"	"Roslindale"	"MA"	"02131-4519"	50.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Davis"	"Jeffrey"	"74 Garland St"	"Everett"	"MA"	"02149"	1000.0000	"General Manager"	"Herb Chambers"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Davis"	"Jonathan"	"78 Fernwood Rd"	"Chestnut Hill"	"MA"	"02467"	300.0000	"CEO"	"The Davis Companies"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Davis"	"Stephen"	"316 Shawmut Ave #2"	"Boston"	"MA"	"02118"	350.0000	"Vice President"	"Davis Companies"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Davis"	"Stephen"	"316 Shawmut Ave #2"	"Boston"	"MA"	"02118"	350.0000	"Art Director"	"Isenberg Projects"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Delgreco"	"Cheryl"	"65 Commercial Wharf"	"Boston"	"MA"	"02110"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Dellorusso"	"Robert"	"24 Fleet St Unit 2A"	"Boston"	"MA"	"02113"	500.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Depasquale"	"Frank"	"44 Prince St, Apt 100"	"Boston"	"MA"	"02113"	1000.0000	"Owner"	"Depasquale Ventures"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Dever"	"Brian"	"114 Pembroke St"	"Boston"	"MA"	"02118"	500.0000	"Attorney"	"Keches Law Group"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Dever"	"Brian"	"114 Pembroke St"	"Boston"	"MA"	"02118"	100.0000	"Attorney"	"Keches Law Group"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Dinges"	"Jason"	"690 Tremont St Apt 1"	"Boston"	"MA"	"02118"	250.0000	"Attorney"	"McCarthy Legal Services LLC"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"DiPaola"	"Damien"	"1 Lathrop Pl #2"	"Boston"	"MA"	"02113"	1000.0000	"Owner"	"Damienos"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"DiSipio"	"Joe"	"21 Wormwood Street Unit 619"	"Boston"	"MA"	"02210"	500.0000	"Real estate development"	"Self employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Donohue"	"John"	"40 Goden St"	"Belmont"	"MA"	"02478"	500.0000	"President"	"Arbella Insurance Group"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Drake"	"Angelo"	"99 Kneeland St"	"Boston"	"MA"	"02111"	1000.0000	"Partner"	"Groma"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Drake"	"Kavita"	"99 Kneeland Street #1004"	"Boston"	"MA"	"02111"	1000.0000	"Operations specialist"	"MGH"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Driscoll"	"Rebeca"	"625 Adam St"	"Milton"	"MA"	"02186"	250.0000	"Homemaker"	"Homemaker"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Duchesneau"	"James"	"304 Old Farms Rd"	"South Glastonbury"	"CT"	"06703"	1000.0000	"CFO"	"Herb Chambers Co."	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Fernandes"	"Dylan"	"410 Woods Hole Road"	"Falmouth"	"MA"	"02543"	100.0000	"State Representative"	"MA House of Representatives"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Finley"	"Conor"	"33 Park Pl"	"Durham"	"CT"	"06442"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Finneran"	"Donna"	"7 Countryside Dr"	"Mattapan"	"MA"	"02126"	300.0000	"Homemaker"	"Homemaker"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Finneran"	"Thomas"	"7 Countryside Dr"	"Mattapan"	"MA"	"02126"	200.0000	"Princpal"	"Finneran Global Advisors"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Fishman"	"Grant"	"872 Massachusetts Ave Apt 810"	"Cambridge"	"MA"	"02139"	1000.0000	"Property Manager"	"Groma"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Fitzpatrick"	"Mary"	"3 Mission St"	"Boston"	"MA"	"02115"	5.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Gennetti"	"Nicolas"	"45 Rosemont Dr"	"North Andover"	"MA"	"01845"	500.0000	"Manager of Operations"	"The Herb Chambers Co."	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Gertsen"	"Bob"	"23 Boutwell Street"	"Dorchester"	"MA"	"02122"	25.0000	"Talent Acquisition Consultant"	"Accenture"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Giannino"	"Jessica"	"14 Sigourney St."	"Revere"	"MA"	"02151"	200.0000	"State representative"	"Commonwealth of Massachusetts"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Gilardi"	"Toni"	"133 Fulton St #4"	"Boston"	"MA"	"02109"	200.0000	"Real Estate Broker"	"Elite Boston Landmark"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Gill"	"Pranav"	"21 Tulip Way"	"Medway"	"MA"	"02053"	1000.0000	"General Manager"	"Herb Chambers"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Gomes"	"Bradford"	"53 Juniper Hill Dr"	"Raynham"	"MA"	"02767"	1000.0000	"Director of Operations"	"Herb Chambers Companies"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Granara"	"Edward"	"41 Fairview Ave"	"Malden"	"MA"	"02148"	250.0000	"Owner"	"Mobile Insulation"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Granara"	"James"	"13 Doonan St"	"Medford"	"MA"	"02155"	200.0000	"Owner"	"Baystate Plastering	"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Green"	"Sylvia"	"16 Harcourt St."	"Boston"	"MA"	"02116"	25.0000	"Not employed"	"Not employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Gruninger"	"Mary Jane"	"23 Cumberland St"	"Boston"	"MA"	"02115"	250.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Gubala"	"Jay"	"57 Shirley Rd"	"Raynham"	"MA"	"02767"	500.0000	"E-Commerce General Manager"	"Herb Chambers Companies"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hajjar"	"Michael"	"151 Park St"	"West Roxbury"	"MA"	"02132"	200.0000	"Director of Sales"	"Siemens Corp"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hall"	"Elizabeth"	"2 Clarendon Street"	"Boston"	"MA"	"02116"	25.0000	"Not employed"	"Not employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Halloran"	"Daniel"	"4 Hill St"	"Stoneham"	"MA"	"02180"	200.0000	"Owner"	"Halloran Construction"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hayes"	"Julie"	"50 W Braodway #325"	"Boston"	"MA"	"02127-1144"	10.0000	"Customer Success Manager"	"Evergage"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hershberg"	"Judith"	"241 Perkins St #B702"	"Jamaica Plain"	"MA"	"02130"	200.0000	"Physical Therapist"	"Judith Hershberg"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hetzel"	"Derek"	"1282 Boylston St #618"	"Boston"	"MA"	"02115"	400.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hoeman"	"Christopher"	"135 Lake St"	"Middleton"	"MA"	"01949"	200.0000	"CRNA"	"Salem Peabody Anesthesia"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hunter"	"Barbara"	"203 W. Newton St. Apt. 2"	"Boston"	"MA"	"02116"	200.0000	"interior designer"	"self-employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hymovitz"	"Marc"	"357 Commercial St #205"	"Boston"	"MA"	"02109"	200.0000	"Director of Government Relations"	"American Cancer Society"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Hynes"	"John"	"947 East Broadway"	"South Boston"	"MA"	"02127"	250.0000	"Real Estate"	"BGI"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"James K. Hawkins Committee"	""	"485 Locust Street"	"Attleboro"	"MA"	"02703"	100.0000	""	""	""	"16878"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Jaspon"	"Adam"	"16 Train Street Unit 3"	"Dorchester"	"MA"	"02122"	200.0000	"Real Estate"	"Centerline Development & Services"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Jaspon"	"Adam"	"16 Train Street Unit 3"	"Dorchester"	"MA"	"02122"	800.0000	"Real Estate"	"Centerline Development & Services"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"Jerald Parisella Committee"	""	"P.O. Box 3344"	"Beverly"	"MA"	"01915"	100.0000	""	""	""	"15015"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Karol"	"Stephen"	"10 Bayberry Hill Road"	"Attleboro"	"MA"	"02703"	200.0000	"President"	"The Karol Group Inc."	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Kassis"	"Henriette"	"3 Newburg St"	"Boston"	"MA"	"02131"	50.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Kelcourse"	"James"	"50 Monroe St"	"Amesbury"	"MA"	"01913"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"King"	"Sean"	"4301 Thompson Farm"	"Bedford"	"MA"	"01730"	500.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Kovacs"	"Ben"	"14 Kettle Hole Road"	"Bolton"	"MA"	"01740"	50.0000	"Real Estate Professional"	"EVO Real Estate Group"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Lanza"	"Maria"	"15 Bartlett Pl #1"	"Boston"	"MA"	"02113"	50.0000	""	""	""	"0"	5/28/21 Deposit Report		6	Cash
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Lawhorne"	"Dennis"	"46 Federal St"	"Reading"	"MA"	"01867"	250.0000	"Principal"	"NCCL Enterprises"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Lees"	"Melissa"	"PO Box 4074"	"Old Lyme"	"CT"	"06371"	1000.0000	"Jewelry Designer"	"Mellissa Lees Jewelry"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Lehman"	"Christopher"	"336 Saratoga St Apt 3"	"Boston"	"MA"	"02128"	50.0000	"Consulting"	"Wayfair"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Lopez"	"Lillian"	"109 Jeffrey Place"	"Smyrna"	"GA"	"30082"	100.0000	"Self-Employed"	"The Dorado Group"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Lyons"	"Paula"	"99 Fulton St , Apt 4-2"	"Boston"	"MA"	"02109"	200.0000	"Attorney"	"Paula Lyons"	""	"0"	5/28/21 Deposit Report		1	Check
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"MA Assoc for Psychiatry Pol Action Comm."	""	"P.O. Box 549154"	"Waltham"	"MA"	"02451"	500.0000	""	""	""	"80294"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"MacLeod"	"John Blackeney"	"202 Lincoln Rd"	"Lincoln"	"MA"	"01773"	300.0000	"Software Engineer/Technologist"	"John B. MacLeod"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Magner"	"Michael"	"36 Hull St #B1"	"Boston"	"MA"	"02113"	300.0000	"Court Officer"	"Commonwealth of Massachusetts"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Marshall"	"Eleanor"	"31 Ibbestson"	"Somerville"	"MA"	"02143"	200.0000	"Receptionist"	"Commonwealth of Massachusetts"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Martin"	"Bill"	"142 Commercial Street"	"Boston"	"MA"	"02109"	100.0000	"Sales"	"OpenText"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Martin"	"Bill"	"142 Commercial Street"	"MA - Boston"	"MA"	"02109"	100.0000	"Sales"	"OpenText"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Martin"	"Patricia"	"169 Clarendon St"	"Fitchburg"	"MA"	"01420"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Martinez"	"James"	"577 Norfolk St"	"Mattapan"	"MA"	"02126"	100.0000	"Firefighter"	"City of Boston"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McAllister"	"Joseph"	"6565 Hammontrtee Dr"	"Hudson"	"OH"	"44236"	1000.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McCormick"	"Terri-Lynn"	"390 Marlborough Street"	"Boston"	"MA"	"02115"	100.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McDaniels"	"Paul"	"6 Watson Pl"	"Winchester"	"MA"	"01890"	1000.0000	"General Manager"	"Flagship Motors of Lynnfield"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McDevitt"	"Brian"	"877 Harrison ave 3"	"Boston"	"MA"	"02118"	25.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McDonnell"	"Catherine"	"63 Atlantic Ave #7E"	"Boston"	"MA"	"02110"	500.0000	"Administrative Assistant"	"The Action Group"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McDonnell"	"John"	"63 Atlantic Ave #7E"	"Boston"	"MA"	"02110"	500.0000	"Managing Director International"	"Fifth Generation"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McGivern"	"Arthur"	"53 Snow Hill St"	"Boston"	"MA"	"02113"	500.0000	"Attorney"	"Goodwin Procter LLP"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McGlynn Jr."	"John J."	"6 Court Lane"	"Ipswich"	"MA"	"01938"	200.0000	"Attorney"	"Self"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McGuire"	"Jeffrey"	"64 Halifax St 1"	"Jamaica Plain"	"MA"	"02130"	100.0000	"Scientist"	"Federal Government"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"McHugh"	"Mike"	"791 Tremont Street Unit E204"	"Boston"	"MA"	"02118"	10.0000	"Engineer"	"Bose"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Michlewitz"	"Harold"	"32 Fleet St, Apt B"	"Boston"	"MA"	"02113"	1000.0000	"Retired"	"Retired"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Miller"	"Stephen"	"28 State St, 4th Fl"	"Boston"	"MA"	"02109"	200.0000	"Attorney"	"McDermott Quilty & Miller"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Mirabella"	"Steven"	"343 Commercial St #407"	"Boston"	"MA"	"02109"	200.0000	"Electrical Contractor"	"Mirabella Electric"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Moore"	"Matthew"	"10 Overlook Ridge Dr #330"	"Malden"	"MA"	"02148"	200.0000	"Real Estate"	"Kinvarra Capital"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Morse"	"Virginia"	"9 Durham St"	"Boston"	"MA"	"02115"	50.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Moynihan"	"Patrick"	"53 High St"	"Natick"	"MA"	"01760"	200.0000	"Attorney"	"Patrick Moynihan & Associates"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Mullen"	"Elizabeth"	"201 Webster St Unit 3"	"Boston"	"MA"	"02128"	200.0000	"Attorney"	"McGlynn & McGlynn"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Navien"	"John"	"32 Garrison Ave #50203"	"Boston"	"MA"	"02109"	350.0000	"Advisor"	"Navien Financial"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Nuzzo"	"Daniel"	"96 Commercial St #1"	"Boston"	"MA"	"02109"	200.0000	"Executive Assistant"	"City of Boston"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"O'Brien"	"Daniel"	"275 Central St"	"Saugus"	"MA"	"01906"	200.0000	"Vice President"	"Brennan Group"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"O'Neil"	"Jane"	"28 Harvard Street"	"Charlestown"	"MA"	"02129"	15.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Ordway"	"Edward"	"152 Governors Rd"	"Quincy"	"MA"	"02169"	200.0000	"Realtor"	"EJO Realty Group"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Paris"	"Roberta"	"118 Huntington Ave Apt 1705"	"Boston"	"MA"	"02116"	50.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"Paul F. Tucker Committee"	""	"72 Washington Square"	"Salem"	"MA"	"01970"	100.0000	""	""	""	"15821"	5/28/21 Deposit Report		1	Check
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"Paul J. Donato Committee"	""	"271 Spring Street"	"Medford"	"MA"	"02155"	100.0000	""	""	""	"13651"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Perry"	"Warren"	"1020 Piedmont Ave Ne unit 913"	"Atlanta"	"GA"	"30309"	250.0000	"Physician"	"Emory Healthcare"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"Pete Capano Committee"	""	"101 Alley St"	"Lynn"	"MA"	"01902"	100.0000	""	""	""	"15977"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Petrigno"	"Mark"	"73 Sewall St."	"Revere"	"MA"	"02151"	300.0000	"Owner"	"The Corner Store"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Posner"	"Norman"	"336 Boylston St"	"Newton"	"MA"	"02459"	500.0000	"CPA"	"Samet"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Pregmon"	"John"	"309 North St #21"	"Boston"	"MA"	"02113"	200.0000	"Attorney"	"MCLE"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Priebatsch"	"Seth"	"144 Lincoln Unit 2"	"Boston"	"MA"	"02111"	1000.0000	"Partner"	"Groma"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Proule"	"Kris"	"215 Princeton St Unit 3"	"Boston"	"MA"	"02128"	200.0000	"Real Estate Developer"	"Volnay Capital"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Quilty"	"Dennis"	"178 Commonwealth Ave"	"Boston"	"MA"	"02116"	200.0000	"Attorney"	"McDermott Quilty & Miller"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Reilly"	"Robert"	"8 Iron Works Way"	"Saugus"	"MA"	"01906"	200.0000	"Retired"	"Retired"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Rivera"	"Francisco"	"PO Box 362066"	"San Juan"	"PR"	"00936"	500.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Ross"	"David"	"7 Teton Ln"	"Medford"	"MA"	"02153"	1000.0000	"President"	"Millennium Companies"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Rothschild"	"Jo Ann"	"191 W Springfield St"	"Boston"	"MA"	"02118"	50.0000	"Artist"	"Self"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Santiago"	"Harry"	"803 Garden Path Dr"	"Round Rock"	"TX"	"78664"	100.0000	"CC"	"AA"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Saris"	"Michael"	"17 Crehore Dr"	"Newton"	"MA"	"02462-1108"	200.0000	"Real estate"	"Sunset realty"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Saroufim"	"Tony"	"100 Westover St"	"West Roxbury"	"MA"	"02132"	150.0000	"Not Employed"	"Not Employed"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Savini"	"Alicia"	"357 Commercial St #205"	"Boston"	"MA"	"02109"	300.0000	"Compliance Specialist"	"Quality Assurance"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Scapicchio"	"Kathleen"	"85 Meredith Circle"	"Milton"	"MA"	"02186"	1000.0000	"Operations"	"JetBlue"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Scimeca"	"Olivia"	"21 Cleveland Pl #5"	"Boston"	"MA"	"02113"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Settana"	"Judith"	"16 Stratford St"	"West Roxbury"	"MA"	"02132"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Shaw"	"Gary"	"118 Pembroke St #1"	"Boston"	"MA"	"02118"	1000.0000	"Vice President"	"MS Walker Wine and Liquor"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Stefanini"	"Kathleen"	"15 Cunningham Dr"	"Framingham"	"MA"	"01701"	250.0000	"Claims Adjuster"	"Gallagher & Bassett"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Succar"	"Tran"	"1744 Centre St"	"West Roxbury"	"MA"	"02132"	250.0000	"Owner"	"Centre Street Gas and Repair"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Sullivan"	"Brian"	""	""	"MA"	""	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Swerling"	"Adam"	"170 Countryside Rd"	"Newton"	"MA"	"02459"	200.0000	"Public adjuster"	"Swerling Milton Winnick"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Toscano"	"Lori"	"80 Prince St"	"Boston"	"MA"	"02113"	500.0000	"Administrative Assistant"	"Commonwealth of Massachusetts"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Trujillo"	"Solomon"	"8400 E Crescent Pkwy, Suite 600"	"Greenwood Village"	"CO"	"80111"	1000.0000	"Founder Chairman & CEO"	"Trujillo Group LLC"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Varano"	"Nicola"	"7 Freeman St"	"Lynnfield"	"MA"	"01940"	1000.0000	"Owner"	"The Varano Group"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Ventola"	"Ralph"	"274 North St"	"Boston"	"MA"	"02113"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Verdi"	"William"	"53 Hill St"	"Boston"	"MA"	"02113"	200.0000	"Account Manager"	"Arrow Electronics"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Vita"	"Richard"	"100 State Street Ste.900"	"Boston"	"MA"	"02109"	1000.0000	"attorney"	"Vita Law Offices P.C."	""	"0"	5/28/21 Deposit Report		3	Credit Card
+202	Committee	16919	"Santiago, Jon"	"5/28/2021"	"Walsh Committee"	""	"170 Lynnfield Street"	"Peabody"	"MA"	"01960"	100.0000	""	""	""	"11118"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Walsh"	"Thomas"	"170 Lynnfield St"	"Peabody"	"MA"	"01960"	200.0000	"State Representative"	"Commonwealth of Massachusetts"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Ward"	"Brendan"	"24 Little Nahant Rd"	"Nahant"	"MA"	"01908"	250.0000	"Attorney"	"Brendan Ward"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Wilbur"	"Brendan"	"5 Fan Pier Boulevard 618"	"Boston"	"MA"	"02210"	500.0000	"Real Estate Developer"	"Self Employed"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Williams"	"Jane"	"7103 Terravita Hillls"	"Houston"	"TX"	"77069"	1.0000	"Accountant"	"Intertek USA Inc"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Wittig"	"Ryan"	"15 Fuller Terrace"	"Swampscott"	"MA"	"01907"	200.0000	"Principal"	"Kinvarra Capital"	""	"0"	5/28/21 Deposit Report		3	Credit Card
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Xaros"	"James"	"197 8th St #507"	"Charlestown"	"MA"	"02129"	1000.0000	"Vice President"	"Herb Chambers Companies"	""	"0"	5/28/21 Deposit Report		1	Check
+201	Individual	16919	"Santiago, Jon"	"5/28/2021"	"Zarrella"	"John"	"371 Wanoosnoc Rd"	"Fitchburg"	"MA"	"01420"	100.0000	""	""	""	"0"	5/28/21 Deposit Report		1	Check
