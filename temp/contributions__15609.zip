@@ -2922,7 +2922,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"5/10/2021"	"Chandler"	"Elizabeth"	"90 Fletcher Street"	"Roslindale"	"MA"	"02131"	250.0000	"Manager"	"YW Boston"	""	"0"	5/10/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/10/2021"	"Charnow"	"Carole"	"96 Sweetwater Ave. #2"	"Bedford"	"MA"	"01730"	25.0000	"President and CEO"	"Boston Children's Museum"	""	"0"	5/10/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/10/2021"	"Chiu"	"Belinda"	"225 Brook Hollow"	"Hanover"	"NH"	"03755"	100.0000	"Coaching"	"Belinda"	""	"0"	5/10/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"5/10/2021"	"Cissel"	"John"	"135 Clarendon Street"	"Boston"	"MA"	"02116"	-100.0000	"Real Estate Development"	"Core Investments"	""	"0"	5/10/21 Deposit Report		5	Other
+201	Individual	15609	"Barros, John F."	"5/10/2021"	"Cissel - refunded by ActBlue"	"John"	"135 Clarendon Street"	"Boston"	"MA"	"02116"	-100.0000	"Real Estate Development"	"Core Investments"	""	"0"	5/10/21 Deposit Report		5	Other
 201	Individual	15609	"Barros, John F."	"5/10/2021"	"Cotter"	"Winifred"	"538 East Fourth St."	"South Boston"	"MA"	"02127"	250.0000	"Police Deparment"	"City of Boston"	""	"0"	5/10/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/10/2021"	"Cramb"	"Nicholas"	"45 Stonehedge Road"	"Lincoln"	"MA"	"01773"	250.0000	"Lawyer"	"Mintz Levin"	""	"0"	5/10/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/10/2021"	"Da Silva"	"Deia"	"98 Intervale Street"	"Quincy"	"MA"	"02169"	25.0000	"Not Employed"	"Not Employed"	""	"0"	5/10/21 Deposit Report		1	Check

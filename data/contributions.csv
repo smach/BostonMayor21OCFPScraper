@@ -22504,7 +22504,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-03,"Santiago, Jon",Nancy,Friedlander,Chestnut Hill,MA,02467,100,"","",3/3/21 Deposit Report,Yes
 2021-03-03,"Santiago, Jon",David,Garfunkel,Somerville,MA,02143,250,Consultant,FSG,3/3/21 Deposit Report,No
 2021-03-03,"Santiago, Jon",Bob,Gertsen,Dorchester,MA,02122,25,"","",3/3/21 Deposit Report,Yes
-2021-03-03,"Santiago, Jon",Brian,Gokey,Boston,MA,02118,250,Real Estate,Self,3/3/21 Deposit Report,Yes
+2021-03-03,"Santiago, Jon",Brian,Gokey,Boston,MA,02118,250,Real Estate,Brian Gokey,3/3/21 Deposit Report,Yes
 2021-03-03,"Santiago, Jon",Sylvia,Green,Boston,MA,02116,50,"","",3/3/21 Deposit Report,Yes
 2021-03-03,"Santiago, Jon",Richard,Haggerty,Woburn,MA,01801,100,"","",3/3/21 Deposit Report,No
 2021-03-03,"Santiago, Jon",Bruce,Haimowitz,Brookline,MA,02446,100,"","",3/3/21 Deposit Report,No
@@ -22594,7 +22594,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-12,"Santiago, Jon",Heather,Gay,Medford,MA,02155,25,"","",3/12/21 Deposit Report,No
 2021-03-12,"Santiago, Jon",Charles,Gendron,Portland,ME,04101,1000,Owner,LIHC Investment Group,3/12/21 Deposit Report,No
 2021-03-12,"Santiago, Jon",Anastasios,Giannopoulos,Westwood,MA,02090,1000,Self Employed,Anastasios Giannopoulos,3/12/21 Deposit Report,No
-2021-03-12,"Santiago, Jon",Jason,Gilbert,Newton,MA,02465,200,Physician,Self,3/12/21 Deposit Report,No
+2021-03-12,"Santiago, Jon",Jason,Gilbert,Newton,MA,02465,200,Physician,Jason Gilbert,3/12/21 Deposit Report,No
 2021-03-12,"Santiago, Jon",Sylvia,Green,Boston,MA,02116,100,Not Employed,Not Employed,3/12/21 Deposit Report,Yes
 2021-03-12,"Santiago, Jon",Daniel,Griffin,Dorchester,MA,02122,100,"","",3/12/21 Deposit Report,Yes
 2021-03-12,"Santiago, Jon",Elizabeth,Hall,Boston,MA,02116,25,"","",3/12/21 Deposit Report,Yes
@@ -22689,7 +22689,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-26,"Santiago, Jon",Geoffrey,Caraboolad,Boston,MA,02135,1000,Owner,Metric Corp,3/26/21 Deposit Report,Yes
 2021-03-26,"Santiago, Jon",Nancy,Caraboolad,Boston,MA,02135,1000,Homemaker,Homemaker,3/26/21 Deposit Report,Yes
 2021-03-26,"Santiago, Jon",Cindy,Chao,Weston,MA,02493,100,"","",3/26/21 Deposit Report,No
-2021-03-26,"Santiago, Jon",Kelley,Clark,Marblehead,MA,01945,1000,"","",3/26/21 Deposit Report,No
+2021-03-26,"Santiago, Jon",Kelley,Clark,Marblehead,MA,01945,1000,Physician Assistant,BMC,3/26/21 Deposit Report,No
 2021-03-26,"Santiago, Jon",Michael,Constantine,Winchester,MA,01890,250,Physician,DFCI,3/26/21 Deposit Report,No
 2021-03-26,"Santiago, Jon",Christine,Crean,Milford,MA,01757,100,"","",3/26/21 Deposit Report,No
 2021-03-26,"Santiago, Jon","",Daniel Joseph Ryan Committee,Charlestown,MA,02129,100,"","",3/26/21 Deposit Report,Yes
@@ -22728,7 +22728,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-26,"Santiago, Jon",Sean,Manning,Milford,MA,01757,300,Engineer,Vanasse Hangen Brustlin,3/26/21 Deposit Report,No
 2021-03-26,"Santiago, Jon",Patrick,McCabe,Boston,MA,02131,100,"","",3/26/21 Deposit Report,Yes
 2021-03-26,"Santiago, Jon",Mike,McHugh,Boston,MA,02118,10,"","",3/26/21 Deposit Report,Yes
-2021-03-26,"Santiago, Jon",Christine,McMahon,Charlestown,MA,02129,250,Consultant,Wharf Partners / Self Employed,3/26/21 Deposit Report,Yes
+2021-03-26,"Santiago, Jon",Christine,McMahon,Charlestown,MA,02129,250,Consultant,Wharf Partners,3/26/21 Deposit Report,Yes
 2021-03-26,"Santiago, Jon",Patricia,Mitchell,Hingham,MA,02043,100,"","",3/26/21 Deposit Report,No
 2021-03-26,"Santiago, Jon",Zouk,Mo,Boston,MA,02129,200,Real Estate,Real Estate,3/26/21 Deposit Report,Yes
 2021-03-26,"Santiago, Jon",James,Mogauro,Woburn,MA,01801,1000,Owner,Custom Homes AV,3/26/21 Deposit Report,No
@@ -22834,7 +22834,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-31,"Santiago, Jon",Jeremy,Leventhal,New York,NY,10021,1000,Finance,Faros Properties,3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Georgia,Ligris,Needham,MA,02492,1000,Self Employed,Georgia Ligris,3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",William,Lombard,West Roxbury,MA,02132,500,Painting Contractor,William Lombard,3/31/21 Deposit Report,Yes
-2021-03-31,"Santiago, Jon",Ted,Lubitz,COHASSET,MA,02025,500,Real Estate,Self Employed,3/31/21 Deposit Report,No
+2021-03-31,"Santiago, Jon",Ted,Lubitz,COHASSET,MA,02025,500,Real Estate,Ted Lubitz,3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Mark,Malatesta,Everett,MA,02149,1000,Restaurant,Coje,3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Jamie,Maloney,Dedham,MA,02026,500,Construction,Dedham Westwood Water,3/31/21 Deposit Report,Yes
 2021-03-31,"Santiago, Jon",Carleen,Mammone,Boston,MA,02114,250,Not Employed,Not Employed,3/31/21 Deposit Report,Yes
@@ -22849,12 +22849,12 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-03-31,"Santiago, Jon",Christy,Mylott,Fitchburg,MA,01420,25,"","",3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Brett,Pagani,Wilmington,MA,01887,1000,Real Estate,Torrington Properties,3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Dan,Paiva,Boston,MA,02127,500,VP of Property Management,Volnay Capital,3/31/21 Deposit Report,Yes
-2021-03-31,"Santiago, Jon",Matthew,Pennino,Brighton,MA,02135,1000,Real estate,Self employed,3/31/21 Deposit Report,Yes
+2021-03-31,"Santiago, Jon",Matthew,Pennino,Brighton,MA,02135,1000,Real estate,Matthew Pennino,3/31/21 Deposit Report,Yes
 2021-03-31,"Santiago, Jon",Laura,Perille,Boston,MA,02130,100,"","",3/31/21 Deposit Report,Yes
 2021-03-31,"Santiago, Jon",Julianna,Pham-Pendleton,San Antonio,TX,78253,20,"","",3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Julianna,Pham-Pendleton,San Antonio,TX,78253,20,"","",3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Peter,Poras,Newton,MA,02458,1000,Real Estate,Chestnut Hill Realty,3/31/21 Deposit Report,No
-2021-03-31,"Santiago, Jon",Kris,Proule,Boston,MA,02128,500,Consultant,Self employees,3/31/21 Deposit Report,Yes
+2021-03-31,"Santiago, Jon",Kris,Proule,Boston,MA,02128,500,Consultant,Kris Proule,3/31/21 Deposit Report,Yes
 2021-03-31,"Santiago, Jon",Jessalyn,Reid,Washington,DC,20001,25,"","",3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Susan,Ricci,Brookline,MA,02445,50,"","",3/31/21 Deposit Report,No
 2021-03-31,"Santiago, Jon",Mercedes,Ridao,Boston,MA,02118,100,"","",3/31/21 Deposit Report,Yes
@@ -22979,7 +22979,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-16,"Santiago, Jon",Sylvia,Green,Boston,MA,02116,50,"","",4/16/21 Deposit Report,Yes
 2021-04-16,"Santiago, Jon",George,Hand,Boston,MA,02118,100,"","",4/16/21 Deposit Report,Yes
 2021-04-16,"Santiago, Jon",Ryan,Hayden,somerville,MA,02144,250,Consultant,Ryan Hayden,4/16/21 Deposit Report,No
-2021-04-16,"Santiago, Jon",Thomas,Joyce,Boston,MA,02114,200,Lobbyist,Joyce & Joyce Counsellors at Law,4/16/21 Deposit Report,Yes
+2021-04-16,"Santiago, Jon",Thomas,Joyce,Boston,MA,02114,200,Attorney,Joyce & Joyce Counsellors at Law,4/16/21 Deposit Report,Yes
 2021-04-16,"Santiago, Jon",Albert,Kramer,Oceanside,CA,92054,500,lawyer,Travelers Marketing,4/16/21 Deposit Report,No
 2021-04-16,"Santiago, Jon",Judy,Linden,Natick,MA,01760,25,"","",4/16/21 Deposit Report,No
 2021-04-16,"Santiago, Jon",Mark,Lippolt,Boston,MA,02116,25,"","",4/16/21 Deposit Report,Yes
@@ -23031,7 +23031,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-23,"Santiago, Jon",Lawrence,Kulig,Newburyport,MA,01950,50,Attorney,Eckert Seamans,4/23/21 Deposit Report,No
 2021-04-23,"Santiago, Jon",Maayan,Leroy-Melamed,Melrose,MA,02176,18,"","",4/23/21 Deposit Report,No
 2021-04-23,"Santiago, Jon",Edward,Marsteiner,Stow,MA,01775,250,Real Estate Investment,National Development,4/23/21 Deposit Report,No
-2021-04-23,"Santiago, Jon",James,Martinez,Mattapan,MA,02126,100,"","",4/23/21 Deposit Report,Yes
+2021-04-23,"Santiago, Jon",James,Martinez,Mattapan,MA,02126,100,Firefighter,City of Boston,4/23/21 Deposit Report,Yes
 2021-04-23,"Santiago, Jon",James,Martinez,Mattapan,MA,02126,100,Firefighter,City of Boston,4/23/21 Deposit Report,Yes
 2021-04-23,"Santiago, Jon",Deborah,Paisner,Boston,MA,02118,50,"","",4/23/21 Deposit Report,Yes
 2021-04-23,"Santiago, Jon",Lisa,Pena,Kansas City,MO,64152,75,"","",4/23/21 Deposit Report,No
@@ -23154,7 +23154,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-30,"Santiago, Jon",James,Elcock,Westwood,MA,02090,500,President,Colliers International,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Bryan,Eliziario,Shrewsbury,MA,01545,500,Construction,Lifetime Contractors,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Nancy,Enyedy,Boston,MA,02118,250,Not Employed,Not Employed,4/30/21 Deposit Report,Yes
-2021-04-30,"Santiago, Jon",Nancy,Enyedy,Boston,MA,02118,25,"","",4/30/21 Deposit Report,Yes
+2021-04-30,"Santiago, Jon",Nancy,Enyedy,Boston,MA,02118,25,Not Employed,Not Employed,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Janet,Espinosa,Gilroy,CA,95020,50,"","",4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Michael,Fallman,Gloucester,MA,01930,500,Attorney,Riemer and Braunstein,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Justin,Ferris,Boston,MA,02127,500,Project manager,Charles River Realty,4/30/21 Deposit Report,Yes
@@ -23184,7 +23184,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-30,"Santiago, Jon",George,Hand,Boston,MA,02108,100,Not Employed,Not Employed,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Garrett,Harker,Boston,MA,02116,200,Owner,Eastern Standard Kitchen & Drinks,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Josh,Harrell,Boston,MA,02127,100,"","",4/30/21 Deposit Report,Yes
-2021-04-30,"Santiago, Jon",John,Harrington,Wakefield,MA,01880,1000,Lawyer,Self,4/30/21 Deposit Report,No
+2021-04-30,"Santiago, Jon",John,Harrington,Wakefield,MA,01880,1000,Lawyer,John Harrington,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Julie,Hayes,South Boston,MA,02127,10,"","",4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Danielle,Heanue,Boston,MA,02210,1000,Consultant,Telecom Insight group,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",James,Hoben,Yarmouth Port,MA,02675,500,Small Business Owner,El Pelon Taqueria,4/30/21 Deposit Report,No
@@ -23246,7 +23246,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-04-30,"Santiago, Jon",Dan,Moon,Boston,MA,02116,500,Retired,Retired,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Samanda,Morales,Lynnfield,MA,01940,200,Associate,Mellon Bank of NY,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Stephanie,Moreen,Grosse Pointe Park,MI,48230,500,Restaurant owner,Lolita Covina & Tequila Bar,4/30/21 Deposit Report,No
-2021-04-30,"Santiago, Jon",Leslie,Musser,South Hamilton,MA,01982,250,Clothing Designer,Self-Employed,4/30/21 Deposit Report,No
+2021-04-30,"Santiago, Jon",Leslie,Musser,South Hamilton,MA,01982,250,Clothing Designer,Leslie Musser,4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",John,Neale,Boston,MA,02118,1000,Real Estate,Sprogis & Neale,4/30/21 Deposit Report,Yes
 2021-04-30,"Santiago, Jon",Rebecca,Nickerson,Brookline,MA,"",20,"","",4/30/21 Deposit Report,No
 2021-04-30,"Santiago, Jon",Anna,Nicosia,Boston,MA,02118,1000,Producer,Connelly Partners,4/30/21 Deposit Report,Yes
@@ -23330,7 +23330,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-07,"Santiago, Jon",Mary,Fitzpatrick,Boston,MA,02115,7,Not Employed,Not Employed,5/7/21 Deposit Report,Yes
 2021-05-07,"Santiago, Jon",Bob,Gertsen,Dorchester,MA,02122,100,Consultant,Accenture,5/7/21 Deposit Report,Yes
 2021-05-07,"Santiago, Jon",Larry,Glick,Boston,MA,02118,500,Partner/Owner,Integrity Merchant Solutions,5/7/21 Deposit Report,Yes
-2021-05-07,"Santiago, Jon",Ken,Gordon,Bedford,MA,01730,100,"","",5/7/21 Deposit Report,No
+2021-05-07,"Santiago, Jon",Ken,Gordon,Bedford,MA,01730,100,Attorney,Gordon Law Office,5/7/21 Deposit Report,No
 2021-05-07,"Santiago, Jon",Ken,Gordon,Bedford,MA,01730,200,Attorney,Gordon Law Office,5/7/21 Deposit Report,No
 2021-05-07,"Santiago, Jon",Sylvia,Green,Boston,MA,02116,100,Not Employed,Not Employed,5/7/21 Deposit Report,Yes
 2021-05-07,"Santiago, Jon",Richard,Haggerty,Woburn,MA,01801,400,Business Manager,Daily Times Chronicle,5/7/21 Deposit Report,No
@@ -23379,7 +23379,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-21,"Santiago, Jon",Nancy,Enyedy,Boston,MA,02118,250,Not Employed,Not Employed,5/21/21 Deposit Report,Yes
 2021-05-21,"Santiago, Jon",J Kevin,Fisher,Boston,MA,02116,50,Mgmt Consultant,Dartmouth Research,5/21/21 Deposit Report,Yes
 2021-05-21,"Santiago, Jon",Michael,Ford,Sherborn,MA,01770,500,Lawyer,Ford Law,5/21/21 Deposit Report,No
-2021-05-21,"Santiago, Jon",Rebecca,Forkner,Boston,MA,02115,250,Psychologist,Self-employed,5/21/21 Deposit Report,Yes
+2021-05-21,"Santiago, Jon",Rebecca,Forkner,Boston,MA,02115,250,Psychologist,Rebecca Forkner,5/21/21 Deposit Report,Yes
 2021-05-21,"Santiago, Jon",Rebecca,Forkner,Boston,MA,02115,107,Psychologist,Rebecca Forkner,5/21/21 Deposit Report,Yes
 2021-05-21,"Santiago, Jon",Jeff,Karp,Boston,MA,02115,500,Executive,Laz Parking,5/21/21 Deposit Report,Yes
 2021-05-21,"Santiago, Jon",Jake,Kornmehl,West Newton,MA,02465,25,Physician,Kornmehl Laser Eye Associates,5/21/21 Deposit Report,No
@@ -23399,7 +23399,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon",David,Abichaker,West Roxbury,MA,02132,200,Program Director,Haemonetics,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Dominic,Abramo,Melrose,MA,02176,1000,Carpenter,ABV Construction,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Michelle,Abramo,Melrose,MA,02176,1000,"","",5/28/21 Deposit Report,No
-2021-05-28,"Santiago, Jon",Ryan,Acone,East Boston,MA,02128,200,Real Estate Professional,Self Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Santiago, Jon",Ryan,Acone,East Boston,MA,02128,200,Real Estate Professional,Ryan Acone,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon","",Aggregated Unitemized Receipts,"","","",50,"","",5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Nicole,Alessi,Westwood,MA,02090,500,Sales,Herb Chambers,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",James,Alexander,Boston,MA,02118,200,Architect,Finegold Alexander Architects,5/28/21 Deposit Report,Yes
@@ -23415,7 +23415,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon",Todd,Boudreau,Boston,MA,02108,250,Attorney,MoFo,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Anthony,Bova,Melrose,MA,02176,1000,Owner,AVB Construction,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Kristen,Bova,Melrose,MA,02176,1000,Chiropractor,ICPA,5/28/21 Deposit Report,No
-2021-05-28,"Santiago, Jon",Barbara,Bradlee,Reading,MA,01867,25,Interior Designer,self,5/28/21 Deposit Report,No
+2021-05-28,"Santiago, Jon",Barbara,Bradlee,Reading,MA,01867,25,Interior Designer,Barbara Bradlee,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Chris,Breen,Charlestown,MA,02129,21.22,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Paul,Breen,Charlestown,MA,02129,21.21,laborer,port,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Jeremy,Brockmann,Rindge,NH,03461,250,VP,Regional Home Care,5/28/21 Deposit Report,No
@@ -23428,7 +23428,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon",Joseph,"Carregal, Sr",Charlestown,MA,02129,250,Real Estate,DJ Management ,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Gerard,Cassidy,Brockton,MA,02301,500,State Representative,Commonwealth of Massachusetts,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Herbert,Chambers,Boston,MA,02116,1000,President,Herb Chambers Companies,5/28/21 Deposit Report,Yes
-2021-05-28,"Santiago, Jon",Frances,Colon,Washington,DC,20010,200,Consulting,Self,5/28/21 Deposit Report,No
+2021-05-28,"Santiago, Jon",Frances,Colon,Washington,DC,20010,200,Consulting,Frances Colon,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Michael,Cook,Foxboro,MA,02035,1000,Not Employed,Not Employed,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Sheila,Cook,Foxboro,MA,02035,1000,Not Employed,Not Employed,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Joseph,Correia,Wilmington,MA,01887,1000,Business Owner,Boston Building Wraps,5/28/21 Deposit Report,No
@@ -23449,7 +23449,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon",Brian,Dever,Boston,MA,02118,100,Attorney,Keches Law Group,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Jason,Dinges,Boston,MA,02118,250,Attorney,McCarthy Legal Services LLC,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Damien,DiPaola,Boston,MA,02113,1000,Owner,Damienos,5/28/21 Deposit Report,Yes
-2021-05-28,"Santiago, Jon",Joe,DiSipio,Boston,MA,02210,500,Real estate development,Self employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Santiago, Jon",Joe,DiSipio,Boston,MA,02210,500,Real estate development,Joe DiSipio,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",John,Donohue,Belmont,MA,02478,500,President,Arbella Insurance Group,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Angelo,Drake,Boston,MA,02111,1000,Partner,Groma,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Kavita,Drake,Boston,MA,02111,1000,Operations specialist,MGH,5/28/21 Deposit Report,Yes
@@ -23479,7 +23479,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon",Judith,Hershberg,Jamaica Plain,MA,02130,200,Physical Therapist,Judith Hershberg,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Derek,Hetzel,Boston,MA,02115,400,"","",5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Christopher,Hoeman,Middleton,MA,01949,200,CRNA,Salem Peabody Anesthesia,5/28/21 Deposit Report,No
-2021-05-28,"Santiago, Jon",Barbara,Hunter,Boston,MA,02116,200,interior designer,self-employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Santiago, Jon",Barbara,Hunter,Boston,MA,02116,200,interior designer,Barbara Hunter,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Marc,Hymovitz,Boston,MA,02109,200,Director of Government Relations,American Cancer Society,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",John,Hynes,South Boston,MA,02127,250,Real Estate,BGI,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon","",James K. Hawkins Committee,Attleboro,MA,02703,100,"","",5/28/21 Deposit Report,No
@@ -23512,7 +23512,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon",Catherine,McDonnell,Boston,MA,02110,500,Administrative Assistant,The Action Group,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",John,McDonnell,Boston,MA,02110,500,Managing Director International,Fifth Generation,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Arthur,McGivern,Boston,MA,02113,500,Attorney,Goodwin Procter LLP,5/28/21 Deposit Report,Yes
-2021-05-28,"Santiago, Jon",John J.,McGlynn Jr.,Ipswich,MA,01938,200,Attorney,Self,5/28/21 Deposit Report,No
+2021-05-28,"Santiago, Jon",John J.,McGlynn Jr.,Ipswich,MA,01938,200,Attorney,McGlynn & McGlynn,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Jeffrey,McGuire,Jamaica Plain,MA,02130,100,Scientist,Federal Government,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Mike,McHugh,Boston,MA,02118,10,Engineer,Bose,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Harold,Michlewitz,Boston,MA,02113,1000,Retired,Retired,5/28/21 Deposit Report,Yes
@@ -23541,7 +23541,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon",Robert,Reilly,Saugus,MA,01906,200,Retired,Retired,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Francisco,Rivera,San Juan,PR,00936,500,"","",5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",David,Ross,Medford,MA,02153,1000,President,Millennium Companies,5/28/21 Deposit Report,No
-2021-05-28,"Santiago, Jon",Jo Ann,Rothschild,Boston,MA,02118,50,Artist,Self,5/28/21 Deposit Report,Yes
+2021-05-28,"Santiago, Jon",Jo Ann,Rothschild,Boston,MA,02118,50,Artist,Jo Ann Rothschild,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Harry,Santiago,Round Rock,TX,78664,100,CC,AA,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Michael,Saris,Newton,MA,02462-1108,200,Real estate,Sunset realty,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Tony,Saroufim,West Roxbury,MA,02132,150,Not Employed,Not Employed,5/28/21 Deposit Report,Yes
@@ -23563,7 +23563,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-28,"Santiago, Jon","",Walsh Committee,Peabody,MA,01960,100,"","",5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Thomas,Walsh,Peabody,MA,01960,200,State Representative,Commonwealth of Massachusetts,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Brendan,Ward,Nahant,MA,01908,250,Attorney,Brendan Ward,5/28/21 Deposit Report,No
-2021-05-28,"Santiago, Jon",Brendan,Wilbur,Boston,MA,02210,500,Real Estate Developer,Self Employed,5/28/21 Deposit Report,Yes
+2021-05-28,"Santiago, Jon",Brendan,Wilbur,Boston,MA,02210,500,Real Estate Developer,Brendan Wilbur,5/28/21 Deposit Report,Yes
 2021-05-28,"Santiago, Jon",Jane,Williams,Houston,TX,77069,1,Accountant,Intertek USA Inc,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",Ryan,Wittig,Swampscott,MA,01907,200,Principal,Kinvarra Capital,5/28/21 Deposit Report,No
 2021-05-28,"Santiago, Jon",James,Xaros,Charlestown,MA,02129,1000,Vice President,Herb Chambers Companies,5/28/21 Deposit Report,Yes
@@ -24706,7 +24706,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-10,"Barros, John F.",Elizabeth,Chandler,Roslindale,MA,02131,250,Manager,YW Boston,5/10/21 Deposit Report,Yes
 2021-05-10,"Barros, John F.",Carole,Charnow,Bedford,MA,01730,25,President and CEO,Boston Children's Museum,5/10/21 Deposit Report,No
 2021-05-10,"Barros, John F.",Belinda,Chiu,Hanover,NH,03755,100,Coaching,Belinda,5/10/21 Deposit Report,No
-2021-05-10,"Barros, John F.",John,Cissel,Boston,MA,02116,-100,Real Estate Development,Core Investments,5/10/21 Deposit Report,Yes
+2021-05-10,"Barros, John F.",John,Cissel - refunded by ActBlue,Boston,MA,02116,-100,Real Estate Development,Core Investments,5/10/21 Deposit Report,Yes
 2021-05-10,"Barros, John F.",Winifred,Cotter,South Boston,MA,02127,250,Police Deparment,City of Boston,5/10/21 Deposit Report,Yes
 2021-05-10,"Barros, John F.",Nicholas,Cramb,Lincoln,MA,01773,250,Lawyer,Mintz Levin,5/10/21 Deposit Report,No
 2021-05-10,"Barros, John F.",Deia,Da Silva,Quincy,MA,02169,25,Not Employed,Not Employed,5/10/21 Deposit Report,No
