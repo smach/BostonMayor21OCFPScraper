@@ -21020,6 +21020,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-06-28,"Campbell, Andrea Joy",Jonathan,Cowin,Quincy,MA,02171-1639,25,Administrative Assistant,MIT Sloan School of Management,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Kate,Crowther,Florence,MA,01062-3617,25,Consultant,Kate Crowther,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Billy,Curtis,Boston,MA,02118-3700,3,Marketing Analyst,Thought Industries,6/28/21 Deposit Report,No
+2021-06-28,"Campbell, Andrea Joy",Janice,Daniels,Daly City,CA,94015-3924,100,Not Employed,None,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Frederick E.,Dashiell Sr.,Boston,MA,02124-4616,250,Attorney,"Dashiell & Associates, P.C.",6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Zack,DeClerck,Jamaica Plain,MA,02130-4959,6,Photo Journalist,Partners In Health,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Charles,Deknatel,Jamaica Plain,MA,02130-2833,25,Not Employed,None,6/28/21 Deposit Report,No
@@ -21063,6 +21064,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-06-28,"Campbell, Andrea Joy",Eric,Marandett,Wellesley,MA,02481-1351,500,Attorney,"Choate Hall & Stewart LLP,",6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Nadine,Marcellus,Mattapan,MA,02126-2803,15,Not Employed,None,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Margaret H,Marshall,Cambridge,MA,02138-4859,500,Senior Counsel,"Choate Hall & Stewart LLP,",6/28/21 Deposit Report,No
+2021-06-28,"Campbell, Andrea Joy","",Massachusetts & Northern New England Laborers' District Council,Hopkinton,MA,01748-2684,500,"","",6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Bob,Massie,Somerville,MA,02145-2720,50,Not Employed,None,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Lauren,Mattison,Chestnut Hill,MA,02467-1466,35,Engineer,University of Massachusetts,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Juliette,Mayers,Norwell,MA,02061-2149,600,"Executive Director, Multicultural Marketing",Blue Cross Blue Shield of Massachusetts,6/28/21 Deposit Report,No
@@ -21116,6 +21118,7 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-06-28,"Campbell, Andrea Joy",Judy,Teitelman,Jamaica Plain,MA,02130-5113,18,Product Manager,"Safety & Gloves, Inc.",6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Terri,Tiffany,Menlo Park,CA,94025-6805,100,Founder/Principal,Sand Hill PR Partners,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Anup,Vidyarthy,Bedford,MA,01730-2519,500,Chief Technology Officer,Acuity Link Corp.,6/28/21 Deposit Report,No
+2021-06-28,"Campbell, Andrea Joy",Dorothy M,Walsh,Newport,RI,02840-2033,50,Retired,None,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Maureen,Walsh,Cherry Hill,NJ,08034-2712,10,Forestry,AmeriCorps,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Ben,Weir,Glastonbury,CT,06033-4018,50,Teacher,Glastonbury Public Schools,6/28/21 Deposit Report,No
 2021-06-28,"Campbell, Andrea Joy",Michael,Whelan,Melrose,MA,02176-4044,100,Assistant Director,Commonwealth of Massachusetts,6/28/21 Deposit Report,No
@@ -23800,19 +23803,311 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-06-29,"Essaibi George, Annissa",Taryn,Warren,Boston,MA,02109-4603,200,Real Estate,Synergy Service,6/29/21 Deposit Report,No
 2021-06-29,"Essaibi George, Annissa",Melissa,Weimer,Boston,MA,02114-4437,1000,Not Employed,Not Employed,6/29/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa","",ActBlue,West Somerville,MA,02144-0031,-191.8,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Daniel J,Adams,Roslindale,MA,02131-4113,100,"","",6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa","",Aggregated Unitemized Receipts,"","","",200,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa","",Aggregated Unitemized Receipts,"","","",50,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa","",Aggregated Unitemized Receipts,"","","",250,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa","",Aggregated Unitemized Receipts,"","","",200,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kevin J,Ahearn,Boston,MA,02116-4310,500,Real Estate,Otis & Ahearn,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Ernest J,Alfano,Boston,MA,02127-3243,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Barry M,Allen,Boston,MA,02127-1681,500,Owner,B&B Contracting,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Jonathan,Alva,Dorchester,MA,02125-1171,250,Territory Sales Manager,Altria Sales & Distribution,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Eric J,Battite,Roslindale,MA,02131-2314,500,Restauranteur,	Sugar Bakery,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",George,Beaulieu,Whitman,MA,02382-1340,500,Not employed,Not employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Phillip,Brangiforte,East Boston,MA,02128-1578,250,Headmaster,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Raymond,Butler,Dorchester,MA,02122-2531,1000,Owner,The Banshee,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kathleen,Cahill,Dorchester,MA,02124-5820,500,Teacher,BPS,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John F,Callahan,Needham,MA,02492-1229,500,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Jammie,Carty,Canton,MA,02021-2605,250,Librarian,Dean S Luce Elementary,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Daniela,Cassano,Dedham,MA,02026-3019,1000,Administrative Assistant,Northern Lights Development,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John,Caufield,West Roxbury,MA,02132-6010,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Timothy A,Chaves,East Taunton,MA,02718-5124,250,Transporter,US Army,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kevin J,Chiles,Revere,MA,02151-1832,1000,Owner,	Madison Printing,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Matthew G,Citro,Chelsea,MA,02150-1136,1000,Addiction Rehabilitation,The Chelsea Project,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Patrick,Clark,Weston,MA,02493-1339,1000,Financial Planner,Commonwealth Financial Group,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kevin,Clougher,Waltham,MA,02453-8209,1000,Owner,Limerick Meats & Provisions,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Julie M,Colburn,Walpole,MA,02081-3772,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",April,Connolly,Braintree,MA,02184-5905,125,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Daniel,Connolly,Quincy,MA,02170-1606,1000,Boys Varsity Hockey Coach,Marshfield High School,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Mark,Connolly,Halifax,MA,02338-2207,150,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michael G,Connolly,Marshfield,MA,02050-2058,600,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Sheila M,Connolly,Weymouth,MA,02189-2951,250,Clinical Research Coordinator II,Mass General,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Stephen,Connolly,Franklin,MA,02038-1000,150,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Barbara J,Connors,Roslindale,MA,02131-3506,1000,Retired,Retired,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Christopher K,Conroy,West Roxbury,MA,02132-2330,125,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Sean,Coppney,Dorchester,MA,02124-5303,2000,Firefighter,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Robert,Cordasco,Marshfield,MA,02050-1765,500,Police Officer,Boston Police Department,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Justin,Cremins,Dorchester,MA,02122-2101,500,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Artie W,DePinho,Boston,MA,02131-2543,500,President,Big 6 Entertainment,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Edward,Dervan,West Roxbury,MA,02132-3404,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Scott M,Diamond,Somerville,MA,02144-1218,200,Chiropractor,Diamond Chiropractic,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Anthony R,DiFonzo,Newton,MA,02460-1111,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Amy C,Doherty,Marshfield,MA,02050-3700,75,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Laura,Doherty,Marshfield,MA,02050-2704,500,not employed,not employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Mary V,Doherty,Dorchester,MA,02122-2210,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Doreen A,Dougherty,West Roxbury,MA,02132-7819,200,Assistant Director,Sophia Snow Place,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michael,Doyle,Pembroke,MA,02359-1065,250,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michael T,Duffley,Dorchester,MA,02125-1447,500,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Shannon M,Duffley,Dorchester,MA,02125-1448,1000,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Darren,Duffy,Dorchester,MA,02122-2220,250,Contractor,Glengad Corp,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Joseph,Dunne,Boston,MA,02116-1115,250,Owner,Irish Embassy Pub,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Patrick,Egan,West Roxbury,MA,02132-3807,200,Attorney,	Berman Tabacco,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Robert,Ernst,Waltham,MA,02453-6030,1000,General Contractor,FBN Construction,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",William S,Fairweather,Wakefield,MA,01880-0771,300,Owner,Worlds Greatest Bar,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michael,Fayles,Foxborough,MA,02035-1639,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Frank A,Femino,Dorchester,MA,02124-5246,500,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Antonio,Ferrara,West Roxbury,MA,02132-5003,500,Builder,Hub Development,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Paul E,Finn,Salem,NH,03079-4892,1000,President,	Bank of New England,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Virginia,Fitzgerald,Quincy,MA,02169-5033,1000,HR Director,Thermo Science,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Brian M,Fitzgibbon,South Boston,MA,02127-3929,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Donna,Flaherty,Dorchester,MA,02122-2208,125,"","",6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",patrick,foley,South Boston,MA,02127-5481,125,Firefighter,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Jonathan D,Foster,West Hollywood,CA,90069-3308,1000,President,	Tri Star Sports and Entertainment Group,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John N,Foundas,Natick,MA,01760-1238,500,Police Officer,City of Boston,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",adam,gallagher,Dorchester,MA,02124-5809,100,Firefighter,Boston Fire Dept,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Paula A,Gavin,West Roxbury,MA,02132-2121,500,Teacher,Dexter Southfield,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kristen M,Germano,Andover,MA,01810-2837,1000,Realtor,Abbian Realty,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Allstate,Glass,Holbrook,MA,02343-1463,500,Owner,Allstate Glass,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Joseph M,Glynn,Marshfield,MA,02050-5731,100,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Stephen A,Goldberg,Boston,MA,02132-4420,500,Owner,Goldbergs Deli & Grill,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Simon,Gottlieb,Allston,MA,02134-1245,100,Owner,Stanhope Garage,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Lauren Spatola,Greeley,Milton,MA,02186-2113,1000,Senior Compliance Manager,Eaton Vance,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Stephen W,Greeley,Milton,MA,02186-2113,1000,Assistant General Manager,Buffalo Sabres,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Daniel,Griffin,Dorchester,MA,02122-2015,500,Police Detective,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Edward M,Hartnett,Dorchester,MA,02122-2105,1000,Metal Worker,National Grid,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Nicole L,Hartnett,Dorchester,MA,02122-2105,1000,Retired,Retired,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Donna J,Haufler,Weymouth,MA,02188-1502,1000,Not employed,Not employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",William,Haufler,Weymouth,MA,02188-1502,1000,Retired,Retired,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John P,Hearn III,Ivyland,PA,18974-1649,250,Business Owner,John P Hearn III,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John P,Hearn Jr,West Roxbury,MA,02132-2106,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Brian M,Hearn,West Roxbury,MA,02132-7849,50,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Hector,Hernandez,Boston,MA,02118-1544,500,HR Director,Reebok,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Johanna,Hernandez,Jamaica Plain,MA,02130-3412,1000,PCA Mass,Mass PCA - North Shore,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Bernard E,Hicks Jr,Hyde Park,MA,02136-3801,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Patrick,Higgins,Andover,MA,01810-4243,250,VP America Sales,NICE Actimize,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Mitch,Hilton,Boston,MA,02120-2831,25,Not Employed,Not Employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Robrt A,Indresano,Winthrop,MA,02152-1912,1000,Attorney,Law Office of Robert A INdresano,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Heather M,Jack,Ashland,MA,01721-1353,1000,Homemaker,At home,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Philip C,Jack,Ashland,MA,01721-1353,1000,Attorney,"Wise & Jack, LLC",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michael J,Janedy,Somerville,MA,02143-1505,125,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Andreas G,Kaplan,Roslindale,MA,02131-4113,250,Student,Framingham State,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Henry G,Kara,Westwood,MA,02090-2138,1000,Attorney,Kara Law Offices,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Brian,Keith,Roxbury,MA,02119-3351,200,Sales,Sentient Jet Charter,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Breton D,Kelly,Dorchester,MA,02122-2507,250,Owner,	Conor Larkin's Grill & Pub,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Brian C,Kelly,Jamaica Plain,MA,02130-3020,1000,President,"Bostonian Excavation, Inc",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Christine C,Kelly,Jamaica Plain,MA,02130-3020,1000,Sales and Marketing,"Metro Meeting Centers - Boston, LLC",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Dennis F,Keohane,Milton,MA,02186-1217,1000,Property Development,Keohane Company Ltd,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Emily,Keohane,Milton,MA,02186-1217,1000,Clinical Assistant,Boston Childrens Hospital,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Mary E,Keohane,Milton,MA,02186-1217,1000,Physical Therapist,Excella Home Care,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Joseph F,Kintigos Jr,Quincy,MA,02169-3213,200,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Gennady,Korchmar,Brookline,MA,02446-2412,500,Broker,Kenwood Builders LLC,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Boris,Kutikov,Brookline,MA,02446-2412,500,Managing Partner,Kenwood Builders LLC,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Dennis,Layden,Norwell,MA,02061-1834,250,Police Officer,Boston Police Dept,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Thomas P,Lee,Pembroke,MA,02359-3248,125,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Zechen,Li,Brookline,MA,02445-7423,1000,Principal,	Boston Lz,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Andrea,Losordo-Zuker,Brookline,MA,02445-6846,1000,Real Estate,	HDM Homes,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa","",MA & No. New England Laborers' District Council Political League,Hopkinton,MA,01748-2684,500,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Daniel,MacDonald,Westwood,MA,02090-2008,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John E,Magazzu Jr,North Reading,MA,01864-1700,1000,Owner,	Remax Renaissance,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Kimberly,Mahoney,Reading,MA,01867-2110,200,Lobbyist,Kimberly Mahoney,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Antonietta,Mario,Winchester,MA,01890-1529,200,Corporate Global Forwarding Project Manager,CH Robinson,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa","",Massachusetts Bricklayers People's Committee,Boston,MA,02129-1405,500,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Nicholas D,Massarelli,Marshfield,MA,02050-4801,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kevin M,Mcanneny,Stoughton,MA,02072-6118,1000,Crew Leader,N-Star Utility,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Brendan,McCarthy,Dorchester,MA,02124-5327,150,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John,McCarthy,Marshfield,MA,02050-4155,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Lori,McCarthy,Braintree,MA,02184-8328,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Katie,McDonough,Milton,MA,02186-3721,1000,Teacher,BPS,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kenneth,McDonough,Milton,MA,02186-3721,1000,Owner,	Hub Ticket Broker,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Michael,McDonough,Kingston,MA,02364-1886,1000,Law enforcement,Town of marshfield,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Patrick E,McDonough,Marshfield,MA,02050-2682,125,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Gemma,McGenra,Quincy,MA,02171-1600,1000,Not employed,Not employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Patrick D,Mehigan,Hingham,MA,02043-2009,250,Owner,	George Best Inc.,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Caitlin Margaret,Morris,Marshfield,MA,02050-5136,1000,Founder & CEO,Spiritfruit,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Stephen D,Morris,Milton,MA,02186-4766,500,Real Estate,	Bone Management,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Tisha L,Murphy,Dorchester,MA,02124-3735,125,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Nancy,Musto,West Roxbury,MA,02132-2121,1000,At home,At home,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michael R,Mylett,Mansfield,MA,02048-1579,200,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",David,Nagle,Boston,MA,02127-2486,500,Not employed,Not employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Paul,Nee II,Marshfield,MA,02050-5611,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Amanda,Neff,Dorchester,MA,02124-5306,500,Admin,	Suffolk County Sheriffs Dept,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Amanda,Neff,Dorchester,MA,02124-5306,500,Admin,	Suffolk County Sheriffs Dept,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Christopher,Neff,Dorchester,MA,02124-5306,1000,Sr Test Tech for sub systems,Excelitas Technologies,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Carol A,Nesti,Quincy,MA,02170-1522,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Patrick T,Newell,Milton,MA,02186-3636,200,Owner,Pat's Pizza,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Vahid,Nickpour,Andover,MA,01810-4827,500,President,	Nova Realty,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Frank,Nogueira,Boston,MA,02113-2526,150,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Lance R,Norwood,Hyde Park,MA,02136-2628,500,Police officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Mary,Noto,Dorchester,MA,02124-5812,1000,At Home,At Home,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michelle A,Noto,Dorchester,MA,02124-5320,1000,Homemaker,At home,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Robert,Noto,Dorchester,MA,02124-5812,500,Fire Fighter,Boston Fire Department,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Mary,O'Brien,West Roxbury,MA,02132-3804,100,Nurse,Children's Hospital,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Scott W,O'Brien,Pembroke,MA,02359-3103,500,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Margaret B,O'Hearn,South Boston,MA,02127-4128,1000,Retired,Retired,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Thomas M,O'Hearn,South Boston,MA,02127-4128,1000,Retired,Retired,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Linda A,Otero,Revere,MA,02151-3831,200,Real Estate,	Century 21 Real Estate,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Edward G,Padden,Dorchester,MA,02122-2012,500,Manager,Neponset Auto Body,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Michael,Paradis,Marshfield,MA,02050-5705,1000,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Jessica M,Parlon,Roslindale,MA,02131-3313,500,Attorney,Jessica M Parlon,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Armando,Petruzziello,Dedham,MA,02026-5505,2000,Electrician,	Armando Petruzziello,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Giorgio,Petruzziello,Dedham,MA,02026-5530,1000,Owner,Petruzziello Properties,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Maria L,Petruzziello,Dedham,MA,02026-2439,1000,Not employed,Not employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Rizziero,Petruzziello,Dedham,MA,02026-2439,1000,Consultant,Rizziero Petruzziello,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Ashley,Politsopoulos,Boston,MA,02131-4917,250,Special Education Teacher,Public School,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",R Scott,Prince,Milton,MA,02186-1105,1000,Coach,Milton Academy,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Dominic C,Rebelo,West Roxbury,MA,02132-3856,150,Financial Advisor,Waddell & Reed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Richard,Redele,Milton,MA,02186-1308,500,Mortgage Banker,Summit Mortgage,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Christy R,Redler,Winchester,MA,01890-2026,200,Business Development Representative,Mimecast,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Mariah C,Redler,Winchester,MA,01890-2026,200,student,Skidmore College,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Jason,Rexinis,South Boston,MA,02127-1886,750,Real Estate Broker,Colliers,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Stephen J,Ridge,Scituate,MA,02066-2814,125,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",John K,Rogers Jr,Weymouth,MA,02190-2842,150,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",James F,Rooney,Boston,MA,02215-4411,200,Owner,Baseball Tavern,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Lloyd S,Rosenthal,Brookline,MA,02446-6008,500,Realtor,	Rise Realty LLC,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Anthony J,Ross,West Roxbury,MA,02132-1211,500,Attorney,Ross Law Office,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",John,Rudicus,Boston,MA,02122-3663,500,Vice President,Sullivan & McLaughlin Companies,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Chris,Ruggiero,Dorchester,MA,02122-1286,1000,Firefighter,Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kofi A,Sakyi,Boston,MA,02125-2179,250,"Assistant Vice President, North America Constructi",Allied World,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Eric T,Schmidt,Westwood,MA,02090-3105,1000,Staff Attorney,Harvard Universtiy,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Maria A,Scippa,Wakefield,MA,01880-1133,1000,Counselor,Justice Resource Institute Inc.,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Lori,Shaw,Boston,MA,02132-1630,5,Not Employed,Not Employed,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Adam B,Siegel,Cambridge,MA,02138-3369,1000,Researcher,	Harvard University,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Pasquale,Straccia,Walpole,MA,02081-2543,500,Lawyer,Law Offices of Pasquale Straccia,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Michael,Sweeney,Quincy,MA,02169-2336,100,Firefighter,BFD,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Stephen,Todesco,Roslindale,MA,02131-4513,100,Firefighter,Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Ioannis Paterakis,Vargas,Quincy,MA,02171-1548,1000,Sales agent,Liberty Mutual,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Kevin E,Waggett,Hingham,MA,02043-3444,100,"","",6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Jason T,Wallace,South Boston,MA,02127-2991,1000,Senior Contract renewals,Digital Guardian,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Peter E,Walsh,Boston,MA,02205-1599,500,Contractor,	City Wide Contracting	,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Frankie,Walshe,Gloucester,MA,01930-1163,1000,Owner,Homebird Designs LLC,6/30/21 Deposit Report,No
 2021-06-30,"Essaibi George, Annissa",Stephanie,Weimer,Cohasset,MA,02025-1810,1000,Finance,Synergy Financial,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Carly M,Wellington,Boston,MA,02128-2093,1000,Grad Student,Northeastern,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Jonathan B,White,Newtonville,MA,02460-2423,500,President,Blue Door Mortgage,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Ryan R,Wilson,Boston,MA,02132-3122,200,Police Officer,City of Boston,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Nicholas A,Yebba,Middleton,MA,01949,1000,Real Estate,Yebba Bros Llc,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Nicole,Yebba,Middleton,MA,01949-1100,1000,Owner,Beauty Secrets,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Mary,Zaluski,East Boston,MA,02128-3418,200,Office Administrator,	Century 21 Mario Real Estate,6/30/21 Deposit Report,No
+2021-06-30,"Essaibi George, Annissa",Matthew,Zuker,Brookline,MA,02445-6846,1000,Real Estate Developer,	New Meadow Development Co,6/30/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa","",Aggregated Unitemized Receipts,"","","",210,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa","",Aggregated Unitemized Receipts,"","","",200,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael E,Ahern,Plymouth,MA,02360,250,Attorney,Law Office of Michael E Ahern,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Erik Thomas,Anderson,Weymouth,MA,02190-1223,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Richard E,Berger Jr,West Roxbury,MA,02132-3529,300,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa","",Boston Firefighters Local 718,Dorchester,MA,02124-5407,500,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael P,Boyle,West Roxbury,MA,02132-3230,150,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Scott R,Boyle,Braintree,MA,02184-1830,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Christopher M,Burke,Dorchester,MA,02124-5218,200,Fire Fighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Shane,Burns,Dorchester,MA,02122-2525,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",David,Busch,Hyde Park,MA,02136-3432,500,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",James E,Cahill,Scituate,MA,02066-4034,250,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Karen,Cahill,South Boston,MA,02127-3054,500,Clerk,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Robert,Cahill,South Boston,MA,02127-3054,500,Retired,Retired,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",John C,Cannistraro,Boston,MA,02118-3836,500,Engineer,JC Cannistrano LLC,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael B,Carey,Stoneham,MA,02180-1122,150,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",James,Cassetta,Swampscott,MA,01907-1139,500,President & CEO,"Work, Inc.",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",John L,Cetrino,Boston,MA,02126-2804,250,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Mario R,Colucci,Dorchester,MA,02125-1988,150,Administration,Boston Fire Department,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael,Connolly,Dorchester,MA,02122-2317,500,Attorney,Ruban and Rudman LLC,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Daniel T,Conroy,South Boston,MA,02127-3420,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Kristopher M,Creighton,Roslindale,MA,02131-3665,200,Technician,Greenwood Emergency Vehicles,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Edward J,Crowley Jr,Dorchester,MA,02122-1230,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Gregory,Curry,Hyde Park,MA,02136-1829,250,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Patrice M,Deangelo,Dorchester,MA,02122-2408,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Cronan,Dempsey,Dorchester,MA,02122-2027,1000,Developer,Cronan Dempsey,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Eric P,Desroches,Holbrook,MA,02343-2152,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Charles,Dibalsi Jr,South Boston,MA,02127-2359,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Edward,Donovan,Dorchester,MA,02124-5016,250,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Jean M,Donovan,Dorchester,MA,02124-5414,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Patrick K,Donovan,South Boston,MA,02127-3207,100,Fire FIghter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Ralph,Dowling,Stoneham,MA,02180-3027,250,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Robert J,Doyle,Pembroke,MA,02359-2404,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",James P,Duffy,West Roxbury,MA,02132-4724,200,Digital Content Manager,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Brendan R C,Ferreira,Dorchester,MA,02122-1933,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Mary E,Finneran,Milton,MA,02186-2919,300,Manager,Robert F White Associates,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",James R,Flanagan,Hingham,MA,02043-4021,500,Owner,Flanagan Insurance,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Shannon,Flood,South Boston,MA,02127-3260,75,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Richard,Fullam,Dorchester,MA,02122-2408,125,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Mark,Garcia,Brighton,MA,02135-1408,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Sean P,Gibbons,Dorchester,MA,02124-5203,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Mitchell J,Gillis,Hyde Park,MA,02136-1904,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Matthew G,Goff,Dorchester,MA,02122-3618,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael J,Gormley,West Roxbury,MA,02132-3428,250,Owner,Gormley Funeral Home,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Gerry,Grealish,Dorchester,MA,02122-3308,200,Owner,Grealish Boxing,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Corrine,Griffin,Dorchester,MA,02122-2015,500,Executive Administrator,IAFF,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",John M,Hall II,Cambridge,MA,02139-4511,1000,Owner,Hall Properties Inc,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Denise M,Heelen,Milton,MA,02186-5318,150,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Leroy,Heyward,Mattapan,MA,02126-1824,250,Letter sent 7/2/21,Letter sent 7/2/21,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Kerryann,Higgins,Dorchester,MA,02122-2637,200,Letter Sent 7/2/21,Letter Sent 7/2/21,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Valerie Anne,Hogan,West Roxbury,MA,02132-3029,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Frederick J,Hollien,Milton,MA,02186-5736,200,Fire Fighter,BFD,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Todd,Joyce,Dorchester,MA,02122-2406,250,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",William F,Kane III,South Boston,MA,02127-2323,250,Retired,Retired,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Colin P,Kelly,Milton,MA,02186-5128,200,Fire Captain,Boston Fire Department,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Gregory G,Kelly,Dorchester,MA,02122-2516,500,FireFighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",John F,Kelly,Dorchester,MA,02122-2519,100,Firefighter,	City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Sean F,Kelly,Marshfield,MA,02050-4732,100,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Steven,Kinney,Dorchester,MA,02122-2107,150,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",David M,Komejko,Boston,MA,02131-4139,250,Firefighter,Boston Fire,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Sheila,Leahy,Plainville,MA,02762-2011,200,Fire Fighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",John F,LeBlanc,Dorchester,MA,02124-5218,200,Chimney Services,John F Leblanc,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Mac Francis,Luciani,West Roxbury,MA,02132-5535,200,Realtor,A Plus Realty Group,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael J,Lydon,West Roxbury,MA,02132-4015,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Daniel,Macauley,Dorchester,MA,02122-2414,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Paul E,Mahoney Jr,Cambridge,MA,02138-4419,100,Not Employed,Not Employed,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Nicole A,Mainey,Boston,MA,02129-2062,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Scott,Malone,West Roxbury,MA,02132-4413,500,Firefighter,Boston Fire Department,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Robert M,Manning,Dorchester,MA,02122-1905,150,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael,Manolakis,Abington,MA,02351-1381,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Glen R,Martin,Wellesley,MA,02481-2443,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",John E,Martin,Hanover,MA,02339-1511,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Marc R,McAndrew,East Sandwich,MA,02537-1048,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",David T,McCann,Raynham,MA,02767-5287,350,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Glenn D,McGillivray,Quincy,MA,02169-8905,500,Fire Lieutenant,City of Bosotn,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Paul,McIrney,Roslindale,MA,02131-2709,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",John J,McManus,West Roxbury,MA,02132-5032,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Kevin F,Meehan,Dorchester,MA,02122-2448,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",William L,Miller,Dorchester,MA,02124-5310,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Nancy,Minucci,South Boston,MA,02127-2323,1000,Retired,Retired,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Ellen,Moore,Boston,MA,02120-1605,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Lek K,Moy,Dorchester,MA,02122-1272,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Keith R,Murphy,Dorchester,MA,02125-2301,200,Fire Fighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Brian,Nee,Dorchester,MA,02124-5806,250,Fire fighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Sean M,O'Brien,Dorchester,MA,02124-5301,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Eamon,O'Leary,South Boston,MA,02127,100,"","",7/6/21 Deposit Report,Yes
+2021-07-06,"Essaibi George, Annissa",John,O'toole,Dorchester,MA,02122-2030,150,Realtor,Olde Towne Re,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Stephen,O'Toole,Boston,MA,02124-5219,250,Electrician,Boston University,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Charles J,Papineau,West Bridgewater,MA,02379-1149,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Richard,Paris,Readville,MA,02136-2046,200,Owner,Paris Flooring,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Manisha N,Patel,Halifax,MA,02338-1640,1000,Executive Director,Cloudberry Creative,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Scott,Perry,Dorchester,MA,02124-5246,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Gerald J,Powers Jr,Dorchester,MA,02124-5319,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Glenn S,Preston,Danvers,MA,01923-3556,200,Firefighter,Boston Fire Dept,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Margaret G,Puglia,South Boston,MA,02127-2368,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Joseph,Quinn,Dorchester,MA,02122-2213,500,Firefighter,COB Fire,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Roger,Rakauskas,West Roxbury,MA,02132-6343,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Ryan J,Roach,West Roxbury,MA,02132-3439,250,Manager,Fight locker LLC,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Stephen T,Ryan,Quincy,MA,02171-1560,500,Retired,Retired,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michelle,Sanders,West Roxbury,MA,02132-3212,250,Teacher,Archdiocese of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Brian M,Sellon,Dorchester,MA,02124-5312,500,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Robert T,Smith,Randolph,MA,02368-5205,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Sharon A,Smith,Norwell,MA,02061-1241,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Paul,Sodergren,Charlestown,MA,02129-2415,400,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Thomas A,Sousa,Allston,MA,02134-4935,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael P,Souza,Dorchester,MA,02124-5805,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Paul,Souza,Dorchester,MA,02124-5805,125,Firefighter,Boston Fire Department,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Edmund M,Street,Quincy,MA,02169-7403,200,Retired,Retired,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",William T,Strumm,Dorchester,MA,02125-1625,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Michael J,Swanke,Dorchester,MA,02125-4129,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Robert L,Tabb,Norwood,MA,02062-1542,300,EVP,Orion Group Holdings,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Matthew,Talbot,Milton,MA,02186-3407,500,Firefighter,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Brian P,Tully,Norfolk,MA,02056-1913,250,State Trooper,Commonwealth of MA,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Benjamin,Upton,Brighton,MA,02135-2144,120,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Bryan,Vandorpe,South Boston,MA,02127-1513,200,Executive Director,Youth Enrichment Services,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Doreen J,Walsh,Milton,MA,02186-4102,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Maria,Weinograd,Newton Center,MA,02459-3308,100,"","",7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Robert F,White,Boston,MA,02210-3419,200,Attorney,Robert White Associates,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Kevin,Williams,Dorchester,MA,02124-5020,200,Fire Fighters,City of Boston,7/6/21 Deposit Report,No
+2021-07-06,"Essaibi George, Annissa",Patirck,Wynne,Dorchester,MA,02125-3334,500,Electrical repair,BFD,7/6/21 Deposit Report,No
 2020-02-28,"Santiago, Jon",Noah,Coolidge,Somerville,MA,02144,25,"","",2/28/20 Deposit Report,No
 2020-02-28,"Santiago, Jon",Beverley,Johnson,Mattapan,MA,02126,150,"","",2/28/20 Deposit Report,Yes
 2020-02-28,"Santiago, Jon","",Massachusetts Association of Physician Assistants PAC (MAPA),Westford,MA,01886,200,"","",2/28/20 Deposit Report,No

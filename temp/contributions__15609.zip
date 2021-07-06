@@ -1748,7 +1748,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"10/15/2013"	"Steczynski"	"Madeleine "	"103 Webster Street"	"Boston"	"MA"	"02128"	50.0000	""	""	""	"0"	10/15/13 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"11/12/2013"	"DOHERTY"	"GERARD F."	"50 FRANKLIN STREET"	"Boston"	"MA"	"02110"	500.0000	"ATTORNEY"	"LAW OFFICE OF GERARD DOHERTY"	""	"0"	11/12/13 Deposit Report		1	Check
 202	Committee	15609	"Barros, John F."	"12/18/2013"	"Carpenters Local Union #33 PAC"	"Carpenters Local Union No. 33"	"1252 Massachusetts Avenue"	"Boston"	"MA"	"02125"	300.0000	""	""	""	"80211"	12/18/13 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"2/6/2014"	"Barros (Candidate Loan)"	"John F."	"48 Virginia St."	"Boston"	"MA"	"02125"	2000.0000	""	""	""	"0"	2/6/14 Deposit Report		1	Check
+206	Candidate Loan	15609	"Barros, John F."	"2/6/2014"	"Barros"	"John F."	"48 Virginia St."	"Dorchester"	"MA"	"02125"	2000.0000	""	""	""	"0"	2/6/14 Deposit Report	Barros, John F. (candidate Loan) 48 Virginia St. Boston, Ma 02125	5	Other
 201	Individual	15609	"Barros, John F."	"2/13/2014"	"Elugardo"	"Nika"	"62 Mozart Street, Apt 2"	"Boston"	"MA"	"02130"	125.0000	"Director"	"MassSav"	""	"0"	2/13/14 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2014"	"Akrouche"	"Patricia H"	"6 Cleveland Street"	"Norfolk"	"MA"	"02056"	500.0000	"Owner"	"Carr Research"	""	"0"	3/31/14 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2014"	"Callahan"	"William"	"210 Copeland Street, #53"	"Quincy"	"MA"	"02169"	500.0000	""	""	""	"0"	3/31/14 Deposit Report		1	Check
