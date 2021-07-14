@@ -12644,7 +12644,8 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-11,"Wu, Michelle",Kenneth,Barron,Weston,MA,02493,100,Caru Associates,General Manager ,5/11/21 Deposit Report,No
 2021-05-11,"Wu, Michelle",Olga,Batyuk,Attleboro,MA,02703,200, Massachusetts College of Art and Design,Fundraising Events Coordinator ,5/11/21 Deposit Report,No
 2021-05-11,"Wu, Michelle",Isabelle,Davis,Boston,MA,02118,350,Isenberg Projects,Art Director ,5/11/21 Deposit Report,Yes
-2021-05-11,"Wu, Michelle",Jonathan,Davis,Chestnut Hill,MA,02467,300,The Davis Company,CEO ,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",Jonathan,Davis,Chestnut Hill,MA,02467,150,The Davis Company,CEO ,5/11/21 Deposit Report,Yes
+2021-05-11,"Wu, Michelle",Margot,Davis,Chestnut Hill,MA,02467,150,"","",5/11/21 Deposit Report,Yes
 2021-05-11,"Wu, Michelle",Stephen,Davis,Boston,MA,02118,350,The Davis Company,Realtor,5/11/21 Deposit Report,Yes
 2021-05-11,"Wu, Michelle",Rosalie,Epstein,Waltham,MA,02452,20,Psychiatrist,Self,5/11/21 Deposit Report,No
 2021-05-11,"Wu, Michelle",Frieda,Garcia,Boston,MA,02116,30,Self,Activist,5/11/21 Deposit Report,Yes
@@ -25974,8 +25975,8 @@ Date,Candidate,FirstName,LastName,City,State,ZipCode,Amount,Occupation,Employer,
 2021-05-07,"Santiago, Jon",Christopher,Koczela,Bridgewater,MA,02324,200,Principal,Fort Point Strategies LLC,5/7/21 Deposit Report,No
 2021-05-07,"Santiago, Jon",Ernest,Kornmehl,West Newton,MA,02465,50,"","",5/7/21 Deposit Report,No
 2021-05-07,"Santiago, Jon",Robert,LaRochelle,Seabrook,NH,03874,500,Manager,Andover Strategic Alliances,5/7/21 Deposit Report,No
-2021-05-07,"Santiago, Jon",John,Maynard,Jamaica Plain,MA,02130,500,Educator,Nonprofit,5/7/21 Deposit Report,Yes
 2021-05-07,"Santiago, Jon",Michael,Price,Boston,MA,02118,500,Real estate,Michael Price,5/7/21 Deposit Report,Yes
+2021-05-07,"Santiago, Jon",Veronica,Roderick,Jamaica Plain,MA,02130,500,Assistant Manager,Chestnut Hill Realty,5/7/21 Deposit Report,Yes
 2021-05-07,"Santiago, Jon",Barry,Sloane,Needham,MA,02492,1000,Banker,Century Bank,5/7/21 Deposit Report,No
 2021-05-07,"Santiago, Jon",John,Sutich,Charlestown,MA,02129,200,Government affairs,Comcast,5/7/21 Deposit Report,Yes
 2021-05-07,"Santiago, Jon",Darin,Swimm,Chelsea,MA,02150,25,"","",5/7/21 Deposit Report,No
