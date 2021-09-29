@@ -84,7 +84,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"5/9/2013"	"Correia"	"Luisa"	"746 Franklin Street"	"Duxbury"	"MA"	"02332"	500.0000	"Housewife"	""	""	"0"	5/9/13 Deposit Report		3	Credit Card
 201	Individual	15609	"Barros, John F."	"5/9/2013"	"Correia"	"Melissa"	"66 Bush Hill Road"	"Milton"	"MA"	"02186"	5.0000	"Student"	"Unemployed"	""	"0"	5/9/13 Deposit Report		3	Credit Card
 201	Individual	15609	"Barros, John F."	"5/9/2013"	"DaSilva"	"Edson"	"44 Virginia Street"	"Boston"	"MA"	"02125"	500.0000	"Accountant"	"Boston Beer Company"	""	"0"	5/9/13 Deposit Report		3	Credit Card
-201	Individual	15609	"Barros, John F."	"5/9/2013"	"DeBarros"	"Flavio"	"11 Duke Street"	"Boston"	"MA"	"02126"	100.0000	"Photographer"	"Flavio D Photography (Self-Employed)"	""	"0"	5/9/13 Deposit Report		3	Credit Card
+201	Individual	15609	"Barros, John F."	"5/9/2013"	"DeBarros"	"Flavio"	"11 Duke Street"	"Boston"	"MA"	"02126"	100.0000	"Photographer"	"Flavio D Photography "	""	"0"	5/9/13 Deposit Report		3	Credit Card
 201	Individual	15609	"Barros, John F."	"5/9/2013"	"Democracy Engine Vendor Fee"	""	"http://www.democracyengine.com/"	""	""	""	-172.2300	""	""	""	"0"	5/9/13 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/9/2013"	"Esteves"	"Eric"	"13 Highland Avenue"	"Boston"	"MA"	"02119"	100.0000	"Administrator"	"Lesley University"	""	"0"	5/9/13 Deposit Report		3	Credit Card
 201	Individual	15609	"Barros, John F."	"5/9/2013"	"Fidalgo"	"Sabina"	"30 Smith Road"	"Randolph"	"MA"	"02368"	40.0000	"Assembler"	"Nova Biomedical"	""	"0"	5/9/13 Deposit Report		3	Credit Card
@@ -163,7 +163,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"5/23/2013"	"Brandao"	"Filomena"	"60 Hall St"	"Randolph"	"MA"	"02368"	100.0000	"CRS"	"Bowdoin Street Health Center"	""	"0"	5/23/13 Deposit Report		3	Credit Card
 201	Individual	15609	"Barros, John F."	"5/23/2013"	"Brown"	"Lakeisha"	"55 Lonsdale St"	"Boston"	"MA"	" 02124-250"	50.0000	""	""	""	"0"	5/23/13 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/23/2013"	"Carvalho"	"Joao"	"91 Bloomfield St"	"Boston"	"MA"	" 02124-130"	200.0000	"Manager "	"Northeast S."	""	"0"	5/23/13 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"5/23/2013"	"Centeio"	"Boumedienne"	"69 Stockton St"	"Boston"	"MA"	" 02124-442"	450.0000	"Electrician"	"Levangie Electric, Self-Employed"	""	"0"	5/23/13 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"5/23/2013"	"Centeio"	"Boumedienne"	"69 Stockton St"	"Boston"	"MA"	" 02124-442"	450.0000	"Electrician"	"Levangie Electric"	""	"0"	5/23/13 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/23/2013"	"De Barros"	"Bartolomeu"	"70 W Cottage St"	"Boston"	"MA"	" 02125-294"	100.0000	"Interpreter "	"Boston City Hospital "	""	"0"	5/23/13 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/23/2013"	"De Barros"	"Bartolomeu"	"4 Feldman Way"	"Canton"	"MA"	" 02021-314"	100.0000	"Substitue Teacher"	"Boston Public Schools"	""	"0"	5/23/13 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/23/2013"	"De Barros"	"Bernardino"	"40 Daly St"	"Boston"	"MA"	"02122-2463"	100.0000	"Teacher"	"Boston Public Schools "	""	"0"	5/23/13 Deposit Report		1	Check
@@ -1806,14 +1806,14 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"2/7/2021"	"Monteiro-Do Canto"	"Noemia"	"520 Ralph Talbot Street"	"Weymouth"	"MA"	"02190"	125.0000	"Case Manager"	"BIDMC"	""	"0"	2/7/21 Deposit Report	Contribution	3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/7/2021"	"Nierman"	"Jonathan"	"125 East Harkness Road"	"North Smithfield"	"RI"	"02896"	36.0000	"Chief Development Officer"	"JVS BOSTON"	""	"0"	2/7/21 Deposit Report		3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/7/2021"	"O'MALLEY"	"KAREN"	"40 JUDITH ROAD"	"NEWTON"	"MA"	"02459"	1000.0000	"Attorney"	"Goulston & Storrs"	""	"0"	2/7/21 Deposit Report	Contribution	3	Credit Card
-201	Individual	15609	"Barros, John F."	"2/7/2021"	"OConnor"	"Liz"	"22 Yale Terrace"	"Jamaica Plain"	"MA"	"02130"	350.0000	"Consultant"	"Strategy Matters"	""	"0"	2/7/21 Deposit Report	Contribution	3	Credit Card
+201	Individual	15609	"Barros, John F."	"2/7/2021"	"OConnor -- refunded contribution"	"Liz"	"22 Yale Terrace"	"Jamaica Plain"	"MA"	"02130"	350.0000	"Consultant"	"Strategy Matters"	""	"0"	2/7/21 Deposit Report		3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/7/2021"	"Warren"	"Tiffany"	"1682 Topping Avenue"	"Bronx"	"NY"	"10457"	1000.0000	"Music Executive"	"Sony Music Group"	""	"0"	2/7/21 Deposit Report	Contribution	3	Credit Card
 206	Candidate Loan	15609	"Barros, John F."	"2/12/2021"	"Barros"	"John F."	"48 Virginia St."	"Dorchester"	"MA"	"02125"	3500.0000	""	""	""	"0"	2/12/21 Deposit Report	Candidate Contribution	4	Transfer
 201	Individual	15609	"Barros, John F."	"2/14/2021"	"Barros"	"Denise"	"PSC 45 Box 473"	"APO"	"AE"	"09468"	500.0000	"Consultant"	"Dudley Street Neighborhood Initiative"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/14/2021"	"Barros"	"Joao"	"32 Fencourt Rd"	"Canton"	"MA"	"02021"	250.0000	"Sr. Director of Operations"	"Cc&W Services"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/14/2021"	"brandes"	"patricia"	"11 quincy park"	"beverly"	"MA"	"01915-5019"	200.0000	"Not employed"	"Not employed"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/14/2021"	"Brown"	"Herb"	"11 Quincy Park"	"Beverly"	"MA"	"01915-5019"	200.0000	"Not Employed"	"Not Employed"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
-201	Individual	15609	"Barros, John F."	"2/14/2021"	"Castle-Logan"	"Julian"	"39 South St."	"Brockton"	"MA"	"02301"	500.0000	"sales"	"self"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
+201	Individual	15609	"Barros, John F."	"2/14/2021"	"Castle-Logan"	"Julian"	"39 South St."	"Brockton"	"MA"	"02301"	500.0000	"Sales"	"Julian Castle-Logan"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/14/2021"	"Crawford"	"Stephen"	"23 Sutherland Rd"	"Arlington"	"MA"	"02476"	500.0000	"Principal"	"Crawford Strategies"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/14/2021"	"Feldman"	"Jeffrey"	"24 Hillside Drive"	"Wayland"	"MA"	"01778"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
 201	Individual	15609	"Barros, John F."	"2/14/2021"	"Fidalgo"	"Joyceanna"	"102 Brook Ave"	"Boston"	"MA"	"02125"	100.0000	"Practice Administrator"	"Boston Childrens hospital"	""	"0"	2/14/21 Deposit Report	Contribution	3	Credit Card
@@ -1928,11 +1928,10 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"BURTON"	"JOCCOLE"	"268 Huntington Ave #123"	"Boston"	"MA"	"02115"	1000.0000	"Construction"	"Maven Construction"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Carvalho"	"Malanie"	"93 valentine rd"	"Milton"	"MA"	"02186-1027"	40.0000	"PMR"	"Cambridge health alliance"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Cash"	"Tari"	"920 I street NW"	"Washington"	"DC"	"20001"	100.0000	"CEO"	"CitySwing"	""	"0"	3/7/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/7/2021"	"Castle-Logan"	"Julian"	"39 South St."	"Brockton"	"MA"	"02301"	25.0000	"sales"	"Julian Castle-Logan"	""	"0"	3/7/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"3/7/2021"	"Castle-Logan"	"Julian"	"39 South St."	"Brockton"	"MA"	"02301"	25.0000	"Sales"	"Julian Castle-Logan"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Confortini"	"Catia"	"131 South Central Avenue"	"Quincy"	"MA"	"02170"	100.0000	"Professor"	"Wellesley College"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Curtis"	"Michaeline"	"31 Bay State Rd Apt 4 APT 4"	"BOSTON"	"MA"	"02215"	100.0000	"Consultant"	"Prossimo Global Partners"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Da Silva"	"Deia"	"98 Intervale Street"	"Quincy"	"MA"	"02169"	25.0000	"Not Employed"	"Not Employed"	""	"0"	3/7/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/7/2021"	"DaSilve"	"Edson"	"115 Turner Street"	"Quincy"	"MA"	"02169"	50.0000	"Accountant"	"Augustech LLC"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"DeAndrade"	"Jenifer"	"10 Fuller Ave Unit 3"	"Attleboro"	"MA"	"02703"	100.0000	"Operations Manager"	"USPS"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"DeBarros"	"Ismael"	"6111 Granby Street"	"Norfolk"	"VA"	"23505"	100.0000	"Instructor"	"USAF"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"DeBarros"	"Lucas"	"105 Waldemar Ave"	"Winthrop"	"MA"	"02152"	50.0000	"Funeral home attendant"	"Dolan"	""	"0"	3/7/21 Deposit Report		1	Check
@@ -1987,7 +1986,6 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Tavares"	"Dulcelina"	"15 Greenwood St 2"	"Boston"	"MA"	"02121"	25.0000	"Case worker"	"Boston medical center"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Teixeira Mistretta"	"Sofia"	"12 Horton Pl"	"Milton"	"MA"	"02186"	100.0000	"HR"	"Vertex"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Teixeira"	"Elijah"	"326 Highland Ave"	"Randolph"	"MA"	"02368"	25.0000	"College Access Coordinator"	"UMass Boston"	""	"0"	3/7/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/7/2021"	"Teixeira"	"Josiah"	"326 highland ave"	"Randolph"	"MA"	"02368"	10.0000	"Not Employed"	"Not Employed"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Teixeira"	"Julene"	"12 Old Sawmill rd"	"Holliston"	"MA"	"01746"	1000.0000	"Director of Operations"	"Nic+Zoe"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Timblin"	"Kaitlyn"	"231 Winchester St"	"Brookline"	"MA"	"02446"	25.0000	"Clinical research"	"Brigham and womens hospital"	""	"0"	3/7/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/7/2021"	"Tran"	"Minh-y"	"181 Graham Ave 2R"	"New York"	"NY"	"11206"	25.0000	"Strategy Associate"	"WSJ"	""	"0"	3/7/21 Deposit Report		1	Check
@@ -2023,7 +2021,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Cabral"	"Felismina"	"71 Richfield street"	"Dorchester"	"MA"	"02125"	100.0000	"HHA"	"Uphams Corner Health"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Cantor"	"Melinda"	"335  Concord Avenue"	"Cambridge"	"MA"	"02138"	250.0000	"Not Employed"	"Not Employed"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Carvalho"	"Maria"	"91 Bloomfield Street"	"Dorchester"	"MA"	"02124"	100.0000	"Environmental Supervisor"	"Boston Public Schools"	""	"0"	3/14/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/14/2021"	"Castle-Logan"	"Julian"	"39 South St."	"Brockton"	"MA"	"02301"	25.0000	"sales"	"Julian Castle-Logan"	""	"0"	3/14/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"3/14/2021"	"Castle-Logan"	"Julian"	"39 South St."	"Brockton"	"MA"	"02301"	25.0000	"Sales"	"Julian Castle-Logan"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Centeio"	"Maria"	"28 Southfield Ave Unit G-51"	"Stamford"	"CT"	"06902"	1000.0000	"tech support"	"Principles"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Chin"	"Jonathan"	"69 High Street APT 1 APT 1"	"Charlestown"	"MA"	"02129"	500.0000	"SVP Sales"	"FSM"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Cissel"	"John"	"135 Clarendon Street"	"Boston"	"MA"	"02116"	100.0000	"Real Estate Development"	"Core Investments"	""	"0"	3/14/21 Deposit Report		1	Check
@@ -2087,7 +2085,7 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Neves"	"Ana"	"49 Oak St"	"Taunton"	"MA"	"02780"	100.0000	"Custodian"	"Trial court"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Nguyen"	"Trinh"	"35 Chanel Center #203"	"Boston"	"MA"	"02210"	500.0000	"Workforce & labor policy"	"EDIC"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"NobidadeTV"	"NobidadeTV"	"213 Rhodes St"	"Providence"	"RI"	"02905"	50.0000	"Not Employed"	"Not Employed"	""	"0"	3/14/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/14/2021"	"OConnor"	"Liz"	"22 Yale Terrace"	"Jamaica Plain"	"MA"	"02130"	250.0000	"Consultant"	"Strategy Matters"	""	"0"	3/14/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"3/14/2021"	"Oconnor -- refunded contribution"	"Liz"	"22 Yale Terrace"	"Jamaica Plain"	"MA"	"02130"	250.0000	"Consultant"	"Strategy Matters"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Paquette"	"Jeffrey"	"1 Park Place"	"Jamaica Plain"	"MA"	"02130"	100.0000	"CFO"	"The BASE Inc"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Parker"	"Michael"	"197 8th Street #515"	"Charlestown"	"MA"	"02129"	200.0000	"Lawyer"	"Dain Torpy"	""	"0"	3/14/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/14/2021"	"Pereira"	"Jerson"	"60 mazzeo St"	"Randolph"	"MA"	"02368"	25.0000	"IT Manager"	"Grow Associates"	""	"0"	3/14/21 Deposit Report		1	Check
@@ -2282,7 +2280,6 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/28/2021"	"Fallon"	"Joseph"	"1 Marina Park Drive 1400"	"Boston"	"MA"	"02210"	1000.0000	"Real Estate"	"Fallon Co"	""	"0"	3/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/28/2021"	"Fidalgo"	"Janice"	"112 N 8th st"	"Brooklyn"	"NY"	"11249-2895"	100.0000	"Marketing"	"Google"	""	"0"	3/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/28/2021"	"Fidalgo"	"Nilda"	"34 mayfield street"	"Boston"	"MA"	"02125"	600.0000	"Lead"	"Tufts"	""	"0"	3/28/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/28/2021"	"Fidalgo"	"Ninfia"	"34 Mayfield Street"	"Dorchester"	"MA"	"02125"	600.0000	"Billing Lead"	"Tufts University"	""	"0"	3/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/28/2021"	"FitzGerald"	"John"	"3 Mt Washington Place"	"Boston"	"MA"	"02130"	100.0000	"Project manager"	"City of Boston"	""	"0"	3/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/28/2021"	"Garcia"	"Alfredo"	"11 firth rd 2"	"Roslindale"	"MA"	"02131"	1000.0000	"Paraprofessional"	"Boston Public Schools"	""	"0"	3/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/28/2021"	"Goncalves"	"Dulcineia"	"183 Scotland Street"	"West Bridgewater"	"MA"	"02379"	100.0000	"Attorney"	"Committee for Public Counsel Services"	""	"0"	3/28/21 Deposit Report		1	Check
@@ -2352,14 +2349,12 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/29/2021"	"Rosario-Clark"	"Acetyn"	"Information Requested"	"Information Requested"	""	""	25.0000	"Not employed"	"Not employed"	""	"0"	3/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/29/2021"	"Soares"	"Antonia"	"1 Magazine Street"	"Roxbury"	"MA"	"02119"	50.0000	"Not employed"	"Not employed"	""	"0"	3/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Andrade"	"Samora"	"86 Prospect St"	"Rockland"	"MA"	"02370"	100.0000	"Category Manager"	"Stop & Shop"	""	"0"	3/30/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/30/2021"	"Avellone"	"Joe"	"21 Elm St. Wellesley MA 02481"	"Wellesley"	"MA"	"02481"	100.0000	"Not Employed"	"Not Employed"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Barrios"	"Margarita"	"35 park street"	"West roxbury"	"MA"	"02132"	100.0000	"Professor"	"Northeastern"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Barrios-Millner"	"Celina"	"302 Beech Street"	"Roslindale"	"MA"	"02131"	100.0000	"Policy Advisor"	"City of Boston"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Barros"	"Ivan"	"600 Trapelo Rd #14"	"Waltham"	"MA"	"02452"	100.0000	"Technical support analyst"	"Berkshire Partners LLC"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Barros"	"Joao"	"32 Fencourt Rd"	"Canton"	"MA"	"02021"	250.0000	"Senior Director of Operations"	"C&W Services"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Barros"	"Loduvina"	"38 Overton St"	"Brockton"	"MA"	"02301"	100.0000	"Teacher"	"Brockton Public"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Barros"	"Zulmira"	"78 Cheever St"	"Milton"	"MA"	"02186"	100.0000	"Manager"	"Panera Bread"	""	"0"	3/30/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/30/2021"	"Benard"	"Daniel"	"17 Preston St"	"Malden"	"MA"	"02148"	200.0000	"Consultant"	"Harbor Insights"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Boris"	"Steven"	"11 Parley Ave."	"Jamaica plain"	"MA"	"02130"	25.0000	"Attorney"	"Krasnow et al"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"BOURSIQUOT"	"PIERRE"	"613 WALNUT ST"	"NEWTON"	"MA"	"02460"	1000.0000	"Financial Services"	"Prime Lending"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Cardoso"	"Adilson"	"10 Longmeadow St"	"Boston"	"MA"	"02119"	1000.0000	"Educator"	"BPS"	""	"0"	3/30/21 Deposit Report		1	Check
@@ -2380,7 +2375,6 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Fidalgo"	"Emanuel"	"5046 Denny Ave. 4"	"North Hollywood"	"CA"	"91601"	25.0000	"Producer"	"Freelance"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Fidalgo"	"Vanessa"	"89 bowdoin ave"	"Boston"	"MA"	"02121"	50.0000	"Program Director"	"Mass Mentors"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Finn"	"Terrence"	"32 Lenox Street"	"Newton"	"MA"	"02465"	50.0000	"Not Employed"	"Not Employed"	""	"0"	3/30/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/30/2021"	"Fontes"	"Maria"	"27 Sanford St."	"Mattapan"	"MA"	"02126"	500.0000	"Food Prep"	"WholeFoods"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Franklin-Hodge"	"Jascha"	"21 Eliot Street"	"Jamaica Plain"	"MA"	"02130"	500.0000	"Not Employed"	"Not Employed"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Gelb"	"Jackie"	"81 Prairie Ave"	"Auburndale"	"MA"	"02466"	100.0000	"Chief Strategy Officer"	"Children's Services of Roxbury"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Gerdisch"	"Lori Ann"	"6723 E Stonegate Dr."	"Zionsville"	"IN"	"46077"	250.0000	"Not Employed"	"Not Employed"	""	"0"	3/30/21 Deposit Report		1	Check
@@ -2405,7 +2399,6 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"McDowell"	"Ceasar"	"752 Mt Auburn St"	"Watertown"	"MA"	"02472"	100.0000	"Professor"	"MIT"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Millner"	"Amon"	"66 CREST ST"	"WEST ROXBURY"	"MA"	"02132"	100.0000	"Professor"	"Olin College of Engineering"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Monteiro"	"Claudia"	"38 Cochato Park"	"Not Hispanic or Latino"	"MA"	"02368"	100.0000	"Not Employed"	"Not Employed"	""	"0"	3/30/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/30/2021"	"Monteiro"	"Jessica"	"27 Sumner St"	"Dorchester"	"MA"	"02125-1733"	40.0000	"Not Employed"	"Not Employed"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Myerson"	"Sara"	"31 Edmunds Road"	"Wellesley"	"MA"	"02481"	500.0000	"Finance"	"GSD Urban Solutions (dba MSquared)"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Nichols"	"Robert"	"404 Neponset Ave"	"Boston"	"MA"	"02122"	500.0000	"Rea Estate"	"Boston Trust Realty Group"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Nierman"	"Jonathan"	"125 East Harkness Road"	"North Smithfield"	"RI"	"02896"	100.0000	"Chief Development Officer"	"JVS BOSTON"	""	"0"	3/30/21 Deposit Report		1	Check
@@ -2414,10 +2407,8 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Pearson"	"Arthur"	"PO Box 127"	"Boston"	"MA"	"02127"	10.0000	"Educator"	"Outward Bound"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"ponce"	"elvira"	"2 saint paul st # 402"	"brookline"	"MA"	"02446"	100.0000	"medical director"	"sanofi genzyme"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"pontes"	"margaret"	"35 wendover st"	"Dorchester"	"MA"	"02125"	85.0000	"Claims adjudicator"	"Molina healthcare"	""	"0"	3/30/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/30/2021"	"pontes"	"margaret"	"35 wendover st"	"Dorchester"	"MA"	"02125"	50.0000	"Claims adjudicator"	"Molina healthcare"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"pontes"	"margaret"	"35 wendover st"	"Dorchester"	"MA"	"02125"	765.0000	"Claims adjudicator"	"Molina healthcare"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Pontes"	"Samira"	"35 Wendover Street"	"Boston"	"MA"	"02125"	100.0000	"Senior AP Analyst"	"Duck Creek Technologies"	""	"0"	3/30/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/30/2021"	"Priebatsch"	"Seth"	"144 Lincoln Unit 2"	"Boston"	"MA"	"02111"	1000.0000	"Partner"	"Groma"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Reinelt"	"Claire"	"39 Moreland Ave."	"Lexington"	"MA"	"02421"	100.0000	"Consultant"	"Claire Reinelt"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Ris"	"Bud"	"120 Fulton St. #6B"	"Boston"	"MA"	"02109"	250.0000	"President & CEO"	"New England Aquarium"	""	"0"	3/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/30/2021"	"Rooney"	"Michael"	"1120 MAIN ST"	"HINGHAM"	"MA"	"02043"	1000.0000	"Real Estate Executive"	"JLCD Development"	""	"0"	3/30/21 Deposit Report		1	Check
@@ -2434,49 +2425,23 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Banfield"	"William"	"36 Union Avenue"	"Boston"	"MA"	"02130"	250.0000	"Berklee College of Music"	"Professor"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Banfield"	"William"	"36 Union Avenue"	"Boston"	"MA"	"02130"	250.0000	"Berklee College of Music"	"Professor"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Banfield"	"William"	"36 Union Avenue"	"Boston"	"MA"	"02130"	250.0000	"Berklee College of Music"	"Professor"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Barros"	"Marcos"	"46 Brook Avenue"	"Boston"	"MA"	"02119"	1000.0000	"Hancock St"	"Barber"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Brea"	"Manuel"	"113 Shandon Road"	"Dorchester"	"MA"	"02124"	1000.0000	"Maintenance"	"Manuel Brea"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Bryant"	"Ricardo"	"20 Judson Street"	"Dorchester"	"MA"	"02125"	500.0000	"driver"	"city of boston"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Burgo"	"Julio"	"7 Claremont Street"	"Central Falls"	"RI"	"02863"	1000.0000	"Providence Metallizing "	"Environmental Services"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Castillo"	"Carlos"	"197 Hamilton Street"	"Dorchester"	"MA"	"02122"	1000.0000	"Owner"	"Carlos Castillo"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Castillo"	"Flor"	"197 Hamilton Street"	"Dorchester"	"MA"	"02122"	1000.0000	"Owner"	"Flor Castillo"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Chicha"	"Antonio"	"11 Leroy Street"	"Dorchester"	"MA"	"02122"	1000.0000	"Chicha Construction"	"Contractor"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Conrad"	"Mark"	"66 Parkway Crescent"	"Milton"	"MA"	"02186"	1000.0000	"Owner"	"Wescon Personal Protection, Inc."	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"DaSilva"	"Erkrys"	"82 Hamilton Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Owner"	"Erkrys DaSliva"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"DaSilva"	"Onilda"	"98 Intervale Street"	"Quincy"	"MA"	"02169"	1000.0000	"Real Estate Broker"	"Real Estate Broker"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"DePina"	"Aida"	"499 Columbia Road"	"Dorchester"	"MA"	"02125"	1000.0000	"Mass General Hospital"	"Environmental Services"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"DePina"	"Luciano"	"250 Cherry Street"	"Bridgewater"	"MA"	"02324"	1000.0000	"Luciano Electrical & Contracting Services LLC"	"Owner"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Depina"	"Manuel"	"44 Monadnock Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Boston Water & Sewer"	""	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Do Canto"	"Aires"	"100 Mediterranean Drive"	"Weymouth"	"MA"	"02188"	150.0000	"Brigham and Women's Hospital"	"Network System Adminstrator"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Echavarria"	"Florangel"	"35 Hardwood Street"	"Dorchester"	"MA"	"02124"	1000.0000	"Boston Public School"	"Lunch Monitor"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Fidaglo"	"Jose P"	"34 Clarence Street"	"Roxbury"	"MA"	"02119"	400.0000	"Owner"	"Jose P. Fidaglo"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Fidalgo"	"Joceline"	"25 East Cottage Street"	"Dorchester"	"MA"	"02125"	900.0000	"Not Employed"	"Not Employed"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Fidalgo"	"Joyceanna"	"102 Brook Avenue"	"Dorchester"	"MA"	"02125"	900.0000	"Boston Children's Hosptial"	"Practice Administrator"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Fidalgo"	"Sabina"	"30 Smith Road"	"Randolph"	"MA"	"02368"	900.0000	"Nova Medical"	"Assembly"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Foley"	"Thomas"	"16 Hilltop Street"	"Boston"	"MA"	"02124"	1000.0000	"Attorney"	"McCarter & English LLP"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Forrester"	"Abrigal"	"98 Sunnyside Street"	"Hyde Park"	"MA"	"02136"	1000.0000	"Teen Empowerment"	"Executive Director"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Goncalves"	"Eugenia"	"23 Audubon Road"	"Milton"	"MA"	"02186"	1000.0000	"Boston Public School"	"Teacher"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Harris"	"Conan"	"119 Blake Street"	"Hyde Park"	"MA"	"02136"	500.0000	"Owner"	"Conan Harris"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Hernandez"	"Ana"	"486 Blue Hill Avenue"	"Dorchester"	"MA"	"02121"	1000.0000	"Homemaker"	"Not Employed"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Leonard"	"Margaret"	"65 Magnolia Street"	"Dorchester"	"MA"	"02125"	150.0000	"Retired"	"Not Employed"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Lopes-Chicha"	"Maria"	"11 Leroy Street"	"Dorchester"	"MA"	"02122"	1000.0000	"Unicco"	"Environmental Services"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Miranda"	"Aleida"	"30 Smith Road"	"Randolph"	"MA"	"02386"	900.0000	"Brigham and Women's Hospital"	"Gift Coordinator"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Neate"	"Georgina"	"22 Orxana Street"	"Hyde Park"	"MA"	"02136"	1000.0000	"Social Worker"	"Mass. Department of Children and Families"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Pina"	"Carina"	"29-31 Idaho Street"	"Mattapan"	"MA"	"02126"	1000.0000	"Casualty Claims Adjuster"	"Plymouth Rock Insurance Co"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Pina"	"Jose M"	"69 Fayston Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Mass General Hospital"	"Environmental Services"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Pina"	"Vadilson"	"29-31 Idaho Street"	"Boston"	"MA"	"02126"	1000.0000	"Amazon Delivery"	"Owner"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Pinheiro"	"Louis"	"239 Liberty Bell Ctr"	"East Weymouth"	"MA"	"02189"	500.0000	"Carlos Plumbing"	"Owner"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Pinheiro"	"Maria"	"104 Victory Road "	"Dorchester"	"MA"	"02122"	500.0000	"Carlos Plumbing"	"Owner"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Poff"	"Trevor"	"206 Pleasant Street"	"Boston"	"MA"	"02186-4650"	1000.0000	"Owner/Manager"	"North Country Roofing LLC"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Ravelo"	"Jeff"	"354 Broadway Street"	"Somerville"	"MA"	"02145"	1000.0000	"Jay Elite Llc"	"Jay Elite Llc"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Silva Pina"	"Jose Antonio"	"19 Inwood Street"	"Boston"	"MA"	"02125"	1000.0000	"Maintenance"	"Jose Antonio Silva Pina"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Silveira"	"Antonio"	"14 Norton Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Retired"	"Not Employed"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Silveira"	"Porfirio"	"6 Leahaven Road"	"Mattapan"	"MA"	"02126"	1000.0000	"Crown Pizza"	"Manager"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Spinola Miranda Silva"	"Francisca"	"69 Fayston Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Mass General Hospital"	"Environmental Services"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Teixeira"	"Egidio"	"15 Clarence Street"	"Roxbury"	"MA"	"02119"	1000.0000	"Ideal's Subshop"	"Owner"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Teixeira"	"Gildo"	"15 Clarence Street"	"Roxbury"	"MA"	"02119"	1000.0000	"Records Assistant"	"Nelson Mullins Riley & Scarborough LLP"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Teixeira"	"Justin"	"517 Dudley Street "	"Roxbury"	"MA"	"02119"	1000.0000	"JetBlue"	"JetBlue"	""	"0"	3/31/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"3/31/2021"	"Vaughan"	"Michael"	"947 East Broadway "	"Boston"	"MA"	"02127"	500.0000	"Founder & President"	"Nauset Strategies"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"3/31/2021"	"Watson"	"Gregory"	"33 Shore Street"	"Falmouth"	"MA"	"02540"	100.0000	"Schumscher Center for a New Economics"	"Director for Policy and Systems Design"	""	"0"	3/31/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"4/5/2021"	"Abreu"	"Everly"	"17 Parkview Lane"	"Brockton"	"MA"	"02302"	25.0000	"Benefits Coordinator"	"BCBSMA"	""	"0"	4/5/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"4/5/2021"	"Ajayi"	"Thelma"	"1 Hilton Terrace"	"Roxbury"	"MA"	"02119"	100.0000	"Manager"	"Northeastern"	""	"0"	4/5/21 Deposit Report		1	Check
@@ -3109,14 +3074,14 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"5/28/2021"	"Troxell"	"Mary"	"37 Pennsylvanias Avenue"	"Newton"	"MA"	"02464"	100.0000	"professor"	"boston college"	""	"0"	5/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/28/2021"	"Urtubey"	"Natalia"	"11 Lonsdale Street"	"Boston"	"MA"	"02124"	25.0000	"Public Administration"	"City of Boston"	""	"0"	5/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/28/2021"	"Welch"	"Maura"	"5 Summit Place"	"Newburyport"	"MA"	"01950"	25.0000	"Speechwriter"	"City of Boston"	""	"0"	5/28/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"5/29/2021"	"Barbosa"	"Francisco"	"157 Pleasant Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Self Employed Craftsman"	"Francisco Barbosa"	""	"0"	5/29/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"5/29/2021"	"Barbosa"	"Francisco"	"157 Pleasant Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Craftsman"	"Francisco Barbosa"	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Barbosa"	"Silveria"	"157 Pleasant Street"	"Dorchester"	"MA"	"02125"	1000.0000	"retired"	"retired"	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Barros, Jr"	"Jolcesar"	"54 East Cottage Street"	"Dorchester"	"MA"	"02125"	25.0000	"Teacher"	"Young Achievers "	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Barros"	"Julius"	"54 East Cottage Street"	"Dorchester"	"MA"	"02125"	25.0000	"Lab Services Associate"	"Elevate Bio"	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Bieber"	"David"	"26 Montclair Avenue"	"West Roxbury"	"MA"	"02132"	50.0000	"Archivist "	"Retired"	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Brandao, Senior"	"Lucindo"	"2A Marshfield Street"	"Roxbury"	"MA"	"02119"	200.0000	"Retired"	"Not Employed"	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Centeiro"	"Jason"	"367 Groveland Street"	"Abington"	"MA"	"02351"	1000.0000	"Comcast"	"Salesman"	""	"0"	5/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"5/29/2021"	"DeLeon"	"Rosa"	"127 Shade Street"	"Lexington"	"MA"	"02421"	1000.0000	"Self Employed"	"Rosa DeLeon"	""	"0"	5/29/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"5/29/2021"	"DeLeon"	"Rosa"	"127 Shade Street"	"Lexington"	"MA"	"02421"	1000.0000	"retired"	"retired"	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"DePina"	"Maria"	"30 Clarence Street"	"Roxbury"	"MA"	"02119"	850.0000	"social worker"	"state of MA"	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Dreyfus"	"Andrew"	"373 Langley Rd"	"Newton"	"MA"	"02459"	200.0000	"CEO"	"Blue Cross Blue Shield of Massachusetts "	""	"0"	5/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"5/29/2021"	"Echavarria"	"Bryan"	"290 E 9th Street"	"South Boston"	"MA"	"02127"	1000.0000	"Not employed"	"Not employed"	""	"0"	5/29/21 Deposit Report		1	Check
@@ -3214,9 +3179,9 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"6/22/2021"	"Mendes"	"Antonio"	"1 Janice Road"	"Canton"	"MA"	"02021"	1000.0000	"Mendes Medical Associates"	"Physician"	""	"0"	6/22/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/22/2021"	"Minzberg"	"Yana"	"1 Janice Road"	"Canton"	"MA"	"02021"	1000.0000	"Aetna"	"Pharmacist"	""	"0"	6/22/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/22/2021"	"Nunez"	"Id"	"51 Hartford Street"	"Dorchester"	"MA"	"02125"	1000.0000	"BPS"	"Teacher"	""	"0"	6/22/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/22/2021"	"Nunez, Jr"	"Wildredo"	"45 Sargent Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Property Manager"	"Self-Employer"	""	"0"	6/22/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"6/22/2021"	"Nunez, Jr"	"Wildredo"	"45 Sargent Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Property Manager"	"Wildredo Nunez Junior"	""	"0"	6/22/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/22/2021"	"Nunez"	"Maria"	"51 Hartford Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Retired"	"Retired"	""	"0"	6/22/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/22/2021"	"Pires"	"Sonia"	"57 Standley Street"	"Dorchester"	"MA"	"02125"	100.0000	"Information Requested"	"Information Requested"	""	"0"	6/22/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"6/22/2021"	"Pires"	"Sonia"	"57 Standley Street"	"Dorchester"	"MA"	"02125"	100.0000	"case manager"	"caregiver homes inc"	""	"0"	6/22/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/22/2021"	"Regan"	"John"	"16 Milford Rd"	"South Grafton"	"MA"	"01560"	200.0000	"AIM"	"CEO"	""	"0"	6/22/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/22/2021"	"Segel"	"Arthur"	"PO Box 536"	"Dover"	"MA"	"02030"	500.0000	"Harvard Baker Foundation of Management Practice"	"Professor"	""	"0"	6/22/21 Deposit Report		1	Check
 203	Union/Association	15609	"Barros, John F."	"6/22/2021"	"Sprinkler Fitters Local #550"	""	"46 Rockland Street"	"02131"	"MA"	""	500.0000	""	""	"President Michael Burnes"	"0"	6/22/21 Deposit Report		1	Check
@@ -3272,8 +3237,8 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"Rodrigues"	"Juliana"	"34 Grove avenue"	"East providence"	"RI"	"02914"	50.0000	"Ma/sec"	"Chartercare medical group"	""	"0"	6/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"Rosario"	"Sila"	"70 Topliff st"	"Dorchester"	"MA"	"02122"	50.0000	"DOO"	"BHCS"	""	"0"	6/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"Settles"	"Trish"	"125 Whitman St"	"Stow"	"MA"	"01775-1370"	100.0000	"Planner"	"Central mass reg. Planning commission"	""	"0"	6/28/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"6/28/2021"	"Shields - Reimbursement Issued"	"John"	"184 Standish St"	"Duxbury"	"MA"	"02332"	1000.0000	"Healthcare worker"	"Shields Health Solutions"	""	"0"	6/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"Shields"	"Fallon"	"38 Back River Way"	"Duxbury"	"MA"	"02332"	1000.0000	"Psychotherapist"	"Aspire Health Alliance"	""	"0"	6/28/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/28/2021"	"Shields"	"John"	"184 Standish St"	"Duxbury"	"MA"	"02332"	1000.0000	"Healthcare worker"	"Shields Health Solutions"	""	"0"	6/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"sklar"	"holly"	"52 Parley Ave"	"Jamaica Plain"	"MA"	"02130"	250.0000	"Writer and CEO"	"Business for a Fair Minimum Wage"	""	"0"	6/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"Slawsby"	"Jonathan"	"29 Colonial Road"	"Medfield"	"MA"	"02052"	1000.0000	"COO"	"Madison Food Corp"	""	"0"	6/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"Soares"	"Vital"	"10 Sables Way"	"lincoln"	"RI"	"02865"	100.0000	"Tax Analyst"	"State Street Bank"	""	"0"	6/28/21 Deposit Report		1	Check
@@ -3284,26 +3249,19 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"6/28/2021"	"Yunits"	"John"	"194 Setucket Road"	"South Dennis"	"MA"	"02660"	250.0000	"Advisor"	"Shields Capital"	""	"0"	6/28/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Arsenault"	"Patricia"	"81 Dent St "	"West Roxbury"	"MA"	"02132"	100.0000	"Deputy Director of Administration and Finance"	"City of Boston"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Dagraca"	"Joana"	"220 pleasent st"	"Providence"	"RI"	"02906"	100.0000	"Retired"	"Retired"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"DaMoura-Moreira"	"Ernestina"	"1137 Smith Street"	"Providence"	"RI"	"02908"	200.0000	"Non-Profit"	"Amigos Do Seminario Si Jose Praia Cv"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"DeSimone"	"Thomas"	"P.O. Box 406"	"Swampscott"	"MA"	"01907"	1000.0000	"Real Estate Developer"	"WS Asset Managment, Inc"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Hardaway"	"Danny"	"101 Morton St "	"Mattapan "	"MA"	"02126"	250.0000	"Manager/Marketing Director "	"Final Touch Boutique"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"Lam"	"My"	"21 Batchelder Street"	"Boston"	"MA"	"02119"	1000.0000	"Escazu Development"	"Owner"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"Murphy"	"James"	"794 Dorchester Ave"	"Dorchester"	"MA"	"02125"	300.0000	"Not Employed"	"Not Employed"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"My Thi Lam"	"Nhung"	"43 Clark Street"	"Everett "	"MA"	"02149"	1000.0000	"Project Manager"	"Escazu Development"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Pinto"	"Paulo"	"23 Adrian St"	"Somerville"	"MA"	"02143"	200.0000	"Executive director"	"Massachusetts Alliance of Portuguese Speakers"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"Ramos"	"Roman"	"80 Oneid St"	"Pawtucket "	"RI"	"02860"	25.0000	"Information Requested"	"Information Requested"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Rocha"	"Ana"	"175 Forbes St"	"Riverside "	"RI"	"02915"	250.0000	"Teacher"	"St. Teresa School"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"Rocha"	"Ernesto"	"41 Vigilant St"	"Cranston "	"RI"	"02920"	150.0000	"Information Requested"	"Information Requested"	""	"0"	6/29/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"6/29/2021"	"Rocha"	"Ernesto"	"41 Vigilant St"	"Cranston "	"RI"	"02920"	150.0000	"Social Worker"	"State of Rhode Island"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Rocha"	"Neida"	"184  Juniper street"	"east providence"	"RI"	"02914"	100.0000	"Social Worker"	"DCF"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Rocha"	"Peter"	"175 Forbes st"	"Riverside "	"RI"	"02915"	100.0000	"IT Manager"	"BlueCross BlueShield RI"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/29/2021"	"Sullivan-Moore"	"Maura"	"36 conrad st"	"braintree "	"MA"	"02184"	50.0000	"RN, ANP"	"VA Medical Center"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"Yee"	"Preston"	"21 Marshall Road"	"Milton"	"MA"	"02186"	1000.0000	"Software Engineer"	"ESS"	""	"0"	6/29/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/29/2021"	"Yi Ng"	"Wai"	"21 Marshall Road"	"Milton"	"MA"	"02186"	1000.0000	"Broker Associate"	"eXp Realty"	""	"0"	6/29/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Ayala"	"Sheldon"	"21 School st Apt. 2"	"Dorchester"	"MA"	"02124"	1000.0000	"Direct Sales"	"Comcast Cable"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Ayres"	"Marjorie"	"31 Cushing Ave #1"	"Dorchester"	"MA"	"02125"	50.0000	"Not Employed"	"Not Employed"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Barros"	"Bianca"	"477 south main st"	"Randolph"	"MA"	"02368-5254"	100.0000	"Clerk"	"Maria Barros"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Bester"	"Gerald"	"304 Irving Rd"	"Randolph"	"MA"	"02368"	1000.0000	"Cook"	"Roxannes"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Brown"	"Jameson"	"22 Montgomery St"	"Boston"	"MA"	"02116"	1000.0000	"Real Estate"	"The Hamilton Company"	""	"0"	6/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"6/30/2021"	"Correia"	"Michael"	"23 Duke St"	"Boston"	"MA"	"02126"	1000.0000	"Teacher"	"City of Boston"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"DePina"	"Augusto"	"30 Clarence Street"	"Boston"	"MA"	"02119"	100.0000	"bus driver"	"transdev transportation"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Devereaux"	"Paula"	"4 Intervale Road"	"Boston"	"MA"	"02110"	500.0000	"Attorney"	"Pierce Atwood LLP"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Everdell"	"Ros"	"52 Parley Ave"	"Boston"	"MA"	"02130"	200.0000	"Not Employed"	"Not Employed"	""	"0"	6/30/21 Deposit Report		1	Check
@@ -3318,7 +3276,431 @@ Record Type ID	Record Type Description	Filer CPF ID	Filer Full Name Reverse	Date
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"ONeil"	"Kathleen"	"2704 Sage Wood Drive"	"Newtown Square"	"PA"	"19073"	35.0000	"Customer Service"	"Wegmans"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Pereira"	"Indira"	"17 Arcadia Street"	"Dorchester"	"MA"	"02122"	1000.0000	"Property management"	"Maloney Properties"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Pereira"	"Maria"	"17 Arcadia St"	"Boston"	"MA"	"02122"	1000.0000	"Assembler"	"Nova Biomedical"	""	"0"	6/30/21 Deposit Report		1	Check
-201	Individual	15609	"Barros, John F."	"6/30/2021"	"The President Ambassator"	"Mike"	"23 Duke St"	"Boston"	"MA"	"02126"	1000.0000	"Teacher"	"City of Boston"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Wasserman"	"Mindee"	"80 Broad Street"	"BOSTON"	"MA"	"02110"	25.0000	"law finance"	"Mindee Wasserman"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Welch"	"Maura"	"5 Summit Place"	"Newburyport"	"MA"	"01950"	20.0000	"Speechwriter"	"City of Boston"	""	"0"	6/30/21 Deposit Report		1	Check
 201	Individual	15609	"Barros, John F."	"6/30/2021"	"Williams"	"Taliesha"	"44 Dedham St"	"Hyde Park"	"MA"	"02136"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	6/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/1/2021"	"DaMoura-Moreira"	"Ernestina"	"1137 Smith Street"	"Providence"	"RI"	"02908"	200.0000	"Non-Profit"	"Amigos Do Seminario Si Jose Praia Cv"	""	"0"	7/1/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/1/2021"	"DeSimone"	"Thomas"	"P.O. Box 406"	"Swampscott"	"MA"	"01907"	1000.0000	"Real Estate"	"WS Asset Management"	""	"0"	7/1/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/1/2021"	"Murphy"	"James"	"794 Dorchester Ave"	"Dorchester"	"MA"	"02125"	300.0000	"Not employed"	"Not Employed"	""	"0"	7/1/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/1/2021"	"Nhung"	"My Thi Lam"	"43 Clark Street"	"Everett"	"MA"	"02149"	1000.0000	"Project manager"	"Escazu Development"	""	"0"	7/1/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/1/2021"	"Ramos"	"Romana H"	"80 Oneida Street"	"Pawtucket"	"RI"	"02860"	25.0000	"Unemployed"	"Unemployed"	""	"0"	7/1/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/1/2021"	"Wai"	"Yi Ng"	"Marshall Rd"	"Milton"	"MA"	"02186"	1000.0000	"Broker"	"Exp. Realty"	""	"0"	7/1/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/1/2021"	"Yee"	"Preston"	"Marshall Rd"	"Milton"	"MA"	"02186"	1000.0000	"Software Engineer"	"ESS"	""	"0"	7/1/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Almeida"	"Benvinda"	"59 TEMPLE ST"	"SOMERVILLE"	"MA"	"02145"	50.0000	"Quality  Technical"	"Gillette company"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"ARAUJO"	"NANCY"	"36 CALLENDER ST"	"DORCHESTER"	"MA"	"02124"	100.0000	"TEACHER"	"BPS"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Barros"	"Luis"	"800 Boylston Street PO Box 990683"	"Boston"	"MA"	"02199"	100.0000	"Consultant"	"Leading Business Ventures LLC"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"fiandaca"	"gina"	"86 st andrew rd"	"east boston"	"MA"	"02128"	250.0000	"Director Office of the Parking Clerk"	"City of Boston"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Galvao-Williams"	"Anabela"	"5524 Lake Geneva Court"	"Flower Mound"	"TX"	"75022"	100.0000	"Not Employed"	"Not Employed"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Gomes"	"Sandy"	"170 Linden St"	"Everett"	"MA"	"02149"	1000.0000	"Business Managemenf"	"Commonwealth of Mass"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Hapgood"	"Fred"	"165 Chestnut Hill Ave. #7"	"Brighton"	"MA"	"02135"	25.0000	"Not employed"	"Not employed"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Joyce"	"kevin"	"65 Chelsea Street"	"CHARLESTOWN"	"MA"	"02129"	200.0000	"Attorney"	"Kevin Joyce Attorney at Law"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Mendes"	"Adelsa"	"134 Msgr Patrick J Lydon Way"	"Dorchester"	"MA"	"02124"	100.0000	"Business Assistance Manager"	"Brockton Redevelopment Authority"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Miranda"	"Sabina"	"114 Cross Street"	"RANDOLPH"	"MA"	"02368"	100.0000	"Educator"	"ABCD/ Ostiguy Recovery High School"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"Monteiro"	"Lilizita"	"280 Whitman Street"	"Bridgewater"	"MA"	"02324"	50.0000	"Nurse practitioner"	"Whittier street health center"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/5/2021"	"moses"	"janet"	"73 School St"	"Cambridge"	"MA"	"02139"	25.0000	"Not Employed"	"Not Employed"	""	"0"	7/5/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Da Silva"	"Deia"	"98 Intervale Street"	"Quincy"	"MA"	"02169"	25.0000	"Not Employed"	"Not Employed"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Daveiga"	"Flavio"	"47 Alpine Street"	"Roxbury"	"MA"	"02119"	100.0000	"Municipality"	"City of Boston"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"DeAndrade"	"Jenifer"	"10 Fuller Ave Unit 3"	"Attleboro"	"MA"	"02703"	100.0000	"Operations Manager"	"USPS"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Fairfield"	"Fred"	"354 Turnpike Street"	"Canton"	"MA"	"02021"	500.0000	"Developer"	"Fairfield Real EState Development Corp."	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Hughes"	"Marianne"	"52 Waldeck St."	"Dorchester"	"MA"	"02124"	100.0000	"Consultant"	"Marianee Hughes"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"James"	"Thea"	"5 King Place"	"Cambridge"	"MA"	"02139"	500.0000	"physician"	"BMC"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Lax"	"Mark"	"109 River Street 1A"	"Cambridge"	"MA"	"02139"	50.0000	"Admin"	"Harvard"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"McDonagh"	"Maureen"	"1243 Adams Street #204"	"Dorchester"	"MA"	"02124"	50.0000	"Attorney"	"mcdonagh"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Nierman"	"Jonathan"	"125 East Harkness Road"	"North Smithfield"	"RI"	"02896"	36.0000	"Chief Development Officer"	"JVS BOSTON"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Orde"	"Edward"	"116 Saint Stephen St"	"Boston"	"MA"	"02115"	2.0000	"Not Employed"	"Not Employed"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Piscopo"	"Laura"	"120 Kingston Street #1509"	"Boston"	"MA"	"02111"	250.0000	"Project Manager"	"East Boston Neighborhood Health Center"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Rose"	"Christine"	"56 Mallet St"	"Dorchester"	"MA"	"02124"	25.0000	"Massage Therapist"	"Christine Rose"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Santoro"	"Peter"	"36 Miller Hill Road"	"Dover"	"MA"	"02030"	150.0000	"Portfolio Manager"	"Invesco"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Story"	"William"	"650 Huntington Ave #20B"	"Boston"	"MA"	"02115"	100.0000	"Not Employed"	"Not Employed"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Tayag"	"Janine"	"2 Salman Street"	"West Roxbury"	"MA"	"02132"	50.0000	"Registered Nurse"	"New England Baptist Hospital"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/12/2021"	"Welch"	"Maura"	"5 Summit Place"	"Newburyport"	"MA"	"01950"	10.0000	"Speechwriter"	"City of Boston"	""	"0"	7/12/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Andrade"	"Aderito"	"507 West Main Street"	"Avon"	"MA"	"02322"	50.0000	"Teacher"	"Boston Public Schools"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"BOX -- refunded contribution"	"JAMES"	"15 CEDAR STREET"	"CHARLESTOWN"	"MA"	"02129"	100.0000	"accountant"	"COMMONWEALTH OF MA"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Box"	"James"	"15 Cedar Street"	"Charlestown"	"MA"	"02129"	1000.0000	"Accountant"	"Commonwealth of Ma"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Carvalho"	"Maria"	"91 Bloomfield Street"	"Dorchester"	"MA"	"02124"	50.0000	"Environmental Supervisor"	"Boston Public Schools"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Choate"	"David"	"45 Wall Street"	"Wellesley"	"MA"	"02481"	100.0000	"PR/Events"	"Conventures"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Dagraca"	"Diniz"	"220 Pleasent St"	"Providence"	"RI"	"02906"	100.0000	"Retired"	"Retired "	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Freedman"	"julie"	"20 park plaza suite 612"	"Boston"	"MA"	"02116"	250.0000	"Not Employed"	"Not Employed"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Gill"	"Temple"	"5 Park Place"	"Newton"	"MA"	"02460"	50.0000	"arts communications"	"Huntington Theatre Company"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Gomes"	"Cristiano"	"146 Newport street"	"Arlington"	"MA"	"02476"	100.0000	"Tech"	"MIT"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Johnston"	"Melissa"	"16 Hill Top Street"	"Boston"	"MA"	"02124"	250.0000	"Office Manager"	"Castlemaine Inc."	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Leventhal"	"Alexander"	"105 Rockwood Street"	"Brookline"	"MA"	"02445"	1000.0000	"Managing Partner"	"Faros Properties"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Lopes"	"Maria"	"3448 Halsway Dr"	"Orlando"	"FL"	"32824"	100.0000	"Not Employed"	"Not Employed"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Magoon"	"Daniel"	"30 Rangeley St Suite 703"	"BOSTON"	"MA"	"02124"	500.0000	"Executive"	"Nonprofit"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Mitchell"	"Eva"	"440 Huntington Avenue"	"Hyde Park"	"MA"	"02136"	100.0000	"Not Employed"	"Not Employed"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Moses"	"Omowale"	"58 Weld Hill Apt 2"	"Boston"	"MA"	"02130"	100.0000	"Ceo"	"Mathtalk"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Patel"	"Shradha"	"6 Planet Street"	"Boston"	"MA"	"02131"	25.0000	"High School Principal"	"Roxbury Prep High School"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Pontes"	"Maria"	"111 George Street"	"Roxbury"	"MA"	"02119"	100.0000	"Community Field Coordinator"	"Mason Pilot Elementary School"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Querido"	"Karine"	"4 Edith st"	"Hyde Park"	"MA"	"02136"	100.0000	"Deputy Commissioner"	"COB"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Ramapriya"	"Jeevan"	"519 Harrison Avenue #D215"	"Boston"	"MA"	"02118"	100.0000	"Managing Director"	"State Street"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Renehan"	"Anne"	"495 Columbus Ave Apt 3"	"Boston"	"MA"	"02118"	100.0000	"Pegasystems"	"Sr. Markting Manager"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"SAJOUS"	"CATHERINE"	"20 WENDELL ST"	"PAWTUCKET"	"RI"	"02861"	50.0000	"Admin"	"Many Houses Cleaning"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Stanley"	"Mike"	"1127 Commonwealth Ave #30"	"Allston"	"MA"	"02134-3216"	50.0000	"Engineer"	"Transit X"	""	"0"	7/19/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/19/2021"	"Webb"	"Jason"	"15549 Greater Groves Blvd"	"Clermont"	"FL"	"34714"	25.0000	"Housing specialist"	"Grounded Solutions Network"	""	"0"	7/19/21 Deposit Report		1	Check
+220	Aggregated Unitemized Receipts	15609	"Barros, John F."	"7/20/2021"	"Aggregated Unitemized Receipts"	""	""	""	""	""	110.0000	""	""	""	"0"	7/20/21 Deposit Report	Aggregated Unitemized Receipts	0	
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Barros"	"Maria"	"73 Bowdoin Avenue"	"Boston"	"MA"	"02121"	1000.0000	"Boston Medical Center"	"Laboratory Support Technician"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Bieber"	"David"	"26 Montclair Avenue"	"West Roxbury"	"MA"	"02132"	50.0000	"Retired"	"Archivist "	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Connolly"	"Taylor"	"817 East 2nd Street"	"South Boston "	"MA"	"02127"	200.0000	"Barros for Mayor Campaign"	"Communications Director"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Cuyugan"	"Betty"	"50 Baldwin Street"	"Charlestown"	"MA"	"02129"	1000.0000	"Retired"	"Retired"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"DePina"	"Manuel"	"112 Lawrence Street"	"Brockton"	"MA"	"02302"	1000.0000	"Retired"	"Retired"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"DePina"	"Vitalina"	"112 Lawrence Street"	"Brockton"	"MA"	"02302"	1000.0000	"Retired"	"Retired"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Dolan"	"Theresa E"	"1241 Adams Street"	"Dorchester"	"MA"	"02124"	150.0000	"Not employed"	"Not employed"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Donahue"	"George"	"47 Bradfield Avenue"	"Roslindale"	"MA"	"02131"	100.0000	"Plumbers and Gasfitters Local 12"	"Business Agent"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"DosSantos"	"Fausto"	"43 Virginia Street"	"Dorchester"	"MA"	"02125"	100.0000	"Not Employed"	"Not Employed"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Fernandes"	"Max"	"Information Requested"	"Information Requested"	""	""	500.0000	"Mabumba Latina"	"Owner"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Finneran"	"Donna"	"7 Countryside Drive"	"Boston"	"MA"	"02126"	200.0000	"Homemaker"	"Unemployed"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Finneran"	"Thomas"	"7 Countryside Drive"	"Boston"	"MA"	"02126"	300.0000	"Lobbyist"	"Finneran Global Strategies"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Godbout"	"Blake"	"Information Requested"	"Information Requested"	""	""	50.0000	"Godbout law, PLLC"	"Attorney"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Gomes Lopes"	"Jandira"	"73 Bowdoin Avenue"	"Boston"	"MA"	"02121"	1000.0000	"Pricewright"	"Assistant Manager"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Gomes"	"Elizabeth"	"300 Parkview Drive"	"Pawtucket"	"RI"	"02860"	150.0000	"Blackstone Valley Community Health"	"Physician"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Gottlieb"	"Simon"	"76 Seattle Street"	"Allston"	"MA"	"02134"	25.0000	"Stanhope Garage Inc"	"Owner"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Hardaway"	"Danny R"	"101 Morton Street"	"Mattapan"	"MA"	"02126"	250.0000	"Final Touch Boutique"	"Manager/Marketing Director"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Hurst"	"Jon"	"99 Grover Street"	"Beverly"	"MA"	"01915"	200.0000	"Retailers Asssociation of Massachusetts"	"President"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Kara"	"Henry"	"Information Requested"	"Information Requested"	""	""	1000.0000	"Kara Law Offices"	"Attorney"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Kerwin"	"Mark"	"Information Requested"	"Information Requested"	""	""	500.0000	"Museum of Fine Arts"	"Deputy Director"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Lopes -- refunded contribution"	"Joao"	"Information Requested"	"Information Requested"	""	""	500.0000	"Retired"	"Retired"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"McGahan"	"John"	"Information Requested"	"Information Requested"	""	""	250.0000	"Gavin Foundation"	"President/Councilor"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"McGaugh"	"Katherine"	"120 Whitman Road"	"Needham"	"MA"	"02492"	750.0000	"Brown Brothers Harriman"	"Attorney"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Mendes"	"Isaura"	"11 Groom Street"	"Dorchester"	"MA"	"02125"	80.0000	"Retired"	"retired"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Mendes"	"Maria"	"94A Bay View Avenue"	"Quincy"	"MA"	"02169"	50.0000	"Boston Public School"	"Teacher"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Pinto"	"Paulo"	"23 Adrian Street"	"Somerville"	"MA"	"02143"	200.0000	"Massachusetts Alliance of Portuguese Speakers (MAPS)"	"Executive Director"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Resende"	"Izaiah"	"35 Wendover Street"	"Boston"	"MA"	"02125"	50.0000	"unemployed"	"unemployed"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Ryan"	"Thomas"	"1280 Lake House Drive"	"North Palm Beach"	"FL"	"33408"	500.0000	"Retired"	"Retired"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Santos"	"Joana"	"6 Levant Street"	"Dorchester"	"MA"	"02122"	100.0000	"Not Employed"	"Not Employed"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Tilahun"	"Irma"	"5 Marie Way"	"Randolph"	"MA"	"02368"	1000.0000	"Retired"	"retired"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Wise"	"Stephen"	"135 Clarendon Street"	"Boston"	"MA"	"02116"	1000.0000	"Fraser & Wise, P.C."	"Principal"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/20/2021"	"Wong"	"David"	"44 Farina Road"	"Newton Centre "	"MA"	"02459"	500.0000	"K&W Realty"	"Realtor"	""	"0"	7/20/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Adams"	"Robert"	"13805 Merseyside Dr"	"Pflugerville"	"TX"	"78660"	250.0000	"Consultant"	"Sargent Adams Consulting LLC"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Amado"	"Ines"	"91 Bloomfield st"	"Dorchester"	"MA"	"02124"	50.0000	"Imformation Technology"	"Veolia North America"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Andrade"	"Manuel"	"9 gayland street #2"	"Boston"	"MA"	"02125"	25.0000	"Human services"	"Pine street inn"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Ayala"	"Lataya"	"21 School st Apt. 2"	"Dorchester"	"MA"	"02124"	1000.0000	"Return Clerk"	"Eveden"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Ayres"	"Marjorie"	"31 Cushing Ave #1"	"Dorchester"	"MA"	"02125"	50.0000	"Not Employed"	"Not Employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Baptista"	"Americo"	"6 Brinsley st"	"Dorchester"	"MA"	"02121"	100.0000	"Bus driver"	"Mbta"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Barros"	"Stefano"	"457 e 143rd st"	"bronx"	"NY"	"10454"	60.0000	"Trainer"	"oneTILT"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Benard"	"Daniel"	"17 Preston St"	"Malden"	"MA"	"02148"	800.0000	"Consultant"	"Harbor Insights"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Bennett"	"Joanne"	"19 Greenview Ave"	"Jamaica Plain"	"MA"	"02130"	70.0000	"Mental Health Counselor"	"Joanne Bennett"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Bennitt"	"Ami"	"70 Crockett Ave"	"DORCHESTER CENTER"	"MA"	"02124"	50.0000	"Communications Director"	"City of Boston"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Carvalho"	"Maria"	"91 Bloomfield St"	"Dorchester Center"	"MA"	"02124"	25.0000	"Emvironmemtal"	"Boston Public Schools"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Clark"	"AVEN"	"30 Wendover ST"	"DORCHESTER"	"MA"	"02122"	1000.0000	"LANDSCAPING"	"NICK'S LANDSCAPING"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"DaSilva"	"Edson"	"115 Turner Street"	"Quincy"	"MA"	"02169"	100.0000	"Accountant"	"Augustech"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Depina"	"Gilmara"	"4 Park rd."	"Brockton"	"MA"	"02301"	100.0000	"Marketing/outreach"	"Commonwealth Care Alliance"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Fidalgo"	"Ana Maria"	"25 East Cottage"	"Dorchester"	"MA"	"02125"	1000.0000	"Manager"	"Davey's Market"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Fidalgo"	"Sandra"	"PO Box 850618"	"Braintree"	"MA"	"02184"	100.0000	"Biller"	"Steward"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Fortes"	"Regina"	"30 Banks St Apt #1"	"Brockton"	"MA"	"02302"	50.0000	"Real Estate Agent"	"Vicente Realty LLC"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Gill"	"Temple"	"5 Park Place"	"Newton"	"MA"	"02460"	50.0000	"arts communications"	"Huntington Theatre Company"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Goldberg"	"Joseph"	"15431 Pickett Court"	"Chesterfield"	"MO"	"63017"	15.0000	"Not Employed"	"Not Employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Hapgood"	"Fred"	"165 Chestnut Hill Ave. #7"	"Brighton"	"MA"	"02135"	30.0000	"Not employed"	"Not employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"hughes"	"marianne"	"52 Waldeck St. #1"	"Boston"	"MA"	"02124"	50.0000	"Not Employed"	"Not Employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"james"	"kimberly"	"2915 Woodburn Avenue Unit T"	"Cincinnati"	"OH"	"45206"	100.0000	"Consultant"	"Kimberly James"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Johnston"	"Melissa"	"16 Hill Top Street"	"Boston"	"MA"	"02124"	50.0000	"Office Manager"	"Castlemaine Inc."	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Jones"	"Lauren"	"95 Dix Street Unit 3"	"Dorchester"	"MA"	"02122"	250.0000	"Non-Profit/Policy"	"MA Business Roundtable"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Mainzer"	"Margaret"	"177 Maple Street"	"West Roxbury"	"MA"	"02132"	100.0000	"Director"	"Back Bay Association"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Martins"	"Gilda"	"40 Blakeville Street 2"	"Dorchester"	"MA"	"02121"	1000.0000	"Owner"	"Seven cleaning"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Myerson"	"Sara"	"31 Edmunds Road"	"Wellesley"	"MA"	"02481"	500.0000	"Finance"	"MSquared"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Nichols"	"Elizabeth"	"69 Nancy Rd"	"Milton"	"MA"	"02186"	250.0000	"Not Employed"	"Not Employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"O Hanley"	"Ronald"	"500 Commercial Street"	"Boston"	"MA"	"02109"	150.0000	"Executive"	"State Street Corp."	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Perryman"	"David"	"36 Gayland St"	"Dorchester"	"MA"	"02125"	1000.0000	"Marketing"	"David Perryman"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"ROSARIO"	"AVYANIE"	"70 TOPLIFF ST APT 3"	"Boston"	"MA"	"02122"	1000.0000	"customer service agent"	"FedEx"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Rosario"	"Sila"	"70 Topliff St 3 3"	"DORCHESTER"	"MA"	"02122"	900.0000	"Director of Ops"	"BBCS"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Rosenberg"	"David"	"133 Front St"	"Marblehead"	"MA"	"01945"	500.0000	"Auto Dealer"	"Rosenberg Auto Holdings"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Sargent"	"Jocelyn"	"7 Farquhar Road"	"Newton"	"MA"	"02460"	500.0000	"Director"	"Hyams Foundation"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Spinola"	"Cesar"	"6 Shetland street"	"Boston"	"MA"	"02119"	50.0000	"Network Specialist"	"Boston University"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Spinola"	"Maria"	"76 GEORGIA ST"	"Boston"	"MA"	"02121"	100.0000	"CAC"	"BIDMC"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Stankiewicz"	"Anthony"	"637 Washington St."	"Dorchester"	"MA"	"02124"	100.0000	"CAO/COS"	"Codman Square Health Center"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Sullivan"	"Thomas"	"5050 Washington St Apt 560"	"West Roxbury"	"MA"	"02132"	10.0000	"Not employed"	"Not employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Teixeira"	"Andrea"	"75 Pleasant St."	"Dorchester"	"MA"	"02125"	200.0000	"Not Employed"	"Not Employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"White -- refunded contribution"	"Michael"	"P.O. Box 553"	"Osterville"	"MA"	"02655"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Wilsak"	"Sandra"	"2116 W. Detroit Street"	"Chandler"	"AZ"	"85224"	5.0000	"Retired"	"Not Employed"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Witt"	"Susan"	"140 Jug End Road"	"Great Barrington"	"MA"	"01230"	50.0000	"educator"	"Schumacher Center for a New Economics"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/26/2021"	"Zalatores"	"Krista"	"55 Lyndhurst St 2"	"BOSTON"	"MA"	"02124"	50.0000	"Consultant"	"Deloitte"	""	"0"	7/26/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Alves"	"Elaine"	"35 Woodward Ave"	"Roxbury"	"MA"	"02119"	300.0000	"School Administrator"	"City of Brockton"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Barros"	"Faustino"	"1976 Fairway Loop"	"Kissimmee"	"FL"	"34746"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Barros"	"Maria"	"1976 Fairway Loop"	"Kissimmee"	"MA"	"34746"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Brissette"	"Kenneth"	"1513 Washington street"	"Boston"	"MA"	"02118"	25.0000	"Tourism"	"Commonwealth of Massachusette"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Christie"	"Terry"	"14 mount joy avenue"	"scarsdale"	"NY"	"10583"	25.0000	"accounts manager"	"Terry Christie"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"DePina"	"Augusto"	"30 Clarence Street"	"Boston"	"MA"	"02119"	100.0000	"bus driver"	"transdev transportation"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Dunne"	"Claudia"	"42 Woodlawn St. #1"	"Jamaica Plain"	"MA"	"02130"	25.0000	"Clinical Social Work/Juvenile Justice Expert/Independent Consultant"	"Claudia Dunne"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Everdell"	"Ros"	"52 Parley Ave"	"Boston"	"MA"	"02130"	200.0000	"Not Employed"	"Not Employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Fidalgo"	"Emanuel"	"4553 Kraft Ave"	"NORTH hollywood"	"CA"	"91602"	865.0000	"Post Producer"	"Cast and Crew"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Hapgood"	"Fred"	"165 Chestnut Hill Ave. #7"	"Brighton"	"MA"	"02135"	25.0000	"Not employed"	"Not employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Hedges"	"Jessica"	"5 Kittredge Court"	"ROSLINDALE"	"MA"	"02131"	25.0000	"attorney"	"hedges & tumposky llp"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Huang"	"Kevin"	"67 Old Landing Way Apt. D"	"Boston"	"MA"	"02129"	10.0000	"Front Of Store Attendant"	"Target"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"James"	"Vincent"	"423 Brookline Ave 331"	"Boston"	"MA"	"02215"	50.0000	"Administrator"	"HSPH"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"King"	"Aaron"	"303 green road"	"Bolton"	"MA"	"01740"	10.0000	"student"	"Student"	""	"0"	7/30/21 Deposit Report		6	Cash
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"King"	"Madeline"	"303 green rd"	"Bolton"	"MA"	"01730"	10.0000	"Not Employed"	"Not Employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"King"	"Monique"	"303 Green Road"	"Bolton"	"MA"	"01740"	10.0000	"Pcs"	"Tempus unlimited"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Lam"	"My"	"21 Batchhelder St"	"Boston"	"MA"	"02119"	1000.0000	"manager "	"Escazú Development"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Lopes"	"Ana"	"20 Haverhill st."	"Brockton"	"MA"	"02301"	1000.0000	"Machine Operation"	"Inter State Staffing"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"McCall"	"Kevin"	"117 Lakeview Avenue"	"Cambridge"	"MA"	"02138"	250.0000	"Real Estate"	"Paradigm Properties LLC"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"McDonagh"	"Maureen"	"1243 Adams Street #204"	"Dorchester"	"MA"	"02124"	25.0000	"Attorney"	"mcdonagh"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"McKinnon"	"Anne"	"51 Sedgwick St."	"Boston"	"MA"	"02130"	50.0000	"planner"	"Jacobs"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Myers"	"Colleen"	"41 Lancaster Ave"	"Revere"	"MA"	"02151"	50.0000	"Operations Manager"	"Amazon"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Pinto-Teixeira"	"Maria"	"1916 DORCHESTER AVE"	"Boston"	"MA"	"02124"	250.0000	"TSA"	"DHS"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Piscopo"	"Laura"	"120 Kingston Street #1509"	"Boston"	"MA"	"02111"	100.0000	"Project Manager"	"East Boston Neighborhood Health Center"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Pontes"	"Quitanya"	"35 Wendover Street"	"Dorchester"	"MA"	"02125"	1000.0000	"Office Manager"	"Up Academy Holland"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Rocha"	"Ernesto"	"41 Vigilant Street"	"Cranston"	"RI"	"02920"	150.0000	"Probation Officer"	"State of Rhode Island"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Small"	"Keisha"	"293 Willard St. Apt 1"	"Quincy"	"MA"	"02169"	1000.0000	"Service Representative"	"Nordstrom"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Smith"	"Harry"	"55 Eastland Rd"	"Boston"	"MA"	"02130"	50.0000	"Program Director"	"DSNI"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Souris"	"Constantine"	"525 East Fifth Street"	"Boston"	"MA"	"02127"	25.0000	"Not employed"	"Not employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Sullivan - Moore"	"Maura"	"36 Conrad Street"	"Braintree"	"MA"	"02184"	50.0000	"Nurse "	"VA Medical Center"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Tayag"	"Janine"	"2 Salman Street"	"West Roxbury"	"MA"	"02132"	100.0000	"Registered Nurse"	"New England Baptist Hospital"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Teixeira"	"Antonio"	"1330 Boylston St. Unit 506"	"Boston"	"MA"	"02215"	100.0000	"Teacher"	"Roxbury Latin School"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Tilahun"	"Aklilu"	"5 Marie Way"	"Randolph"	"MA"	"02368"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Urtubey"	"Natalia"	"11 Lonsdale Street"	"Boston"	"MA"	"02124"	25.0000	"Public Administration"	"City of Boston"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Webb"	"Jason"	"15549 Greater Groves Blvd"	"Clermont"	"FL"	"34714"	10.0000	"Housing specialist"	"Grounded Solutions Network"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"7/30/2021"	"Whalen"	"Patrice"	"45 west 3rd street. Unit 509"	"Boston"	"MA"	"02127"	100.0000	"Not Employed"	"Not Employed"	""	"0"	7/30/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Akiba"	"Jane"	"15 Spalding Street"	"Jamaica Plain"	"MA"	"02130"	100.0000	"Teacher"	"Emerson College"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Alabaster"	"Lincoln"	"139 Payson Avenue Apt. 5D"	"New York"	"NY"	"10034"	50.0000	"Adjunct Lecturer"	"LaGuardia Community College"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Alves Depina"	"Domingoes"	"5 Arion St APT. 3"	"Dorchester"	"MA"	"02125"	300.0000	"Retired"	"Retired "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Alves"	"Hernani"	"31 Holiday Ave"	"Warwick"	"RI"	"02888"	1000.0000	"Registered Nurse"	"Judge Rotenberg Educational Center"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Alves"	"Lucilia"	"26 Rockland Cir"	"Brockton"	"MA"	"02301"	50.0000	"information requested "	"information requested "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Andrews"	"Danielle"	"85 Day St"	"Boston"	"MA"	"02130"	100.0000	"grower"	"The Food Project"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Andrews"	"Kevin"	"181 Bellevue street"	"Newton"	"MA"	"02458"	250.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Araujo"	"Narcisa"	"123 Homes Ave"	"Boston"	"MA"	"02122"	40.0000	"Immigration Interpreter"	"Global Services"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Arenas"	"Zamawa"	"89 fort ave"	"Boston"	"MA"	"02119"	75.0000	"Ceo"	"Flowetik"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Ayres"	"Marjorie"	"31 Cushing Ave #1"	"Dorchester"	"MA"	"02125"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barbosa"	"Carla M"	"31 Holiday Ave"	"Warwick"	"RI"	"02888"	1000.0000	"Case Manager"	"Boston Senior Home Care"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Bardy"	"Jack"	"541 Tremont St"	"Boston"	"MA"	"02116"	100.0000	"Owner"	"The Beehive/Cosmica"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros"	"Bartolomeu"	"10 Mountain Ave"	"Canton"	"MA"	"02021"	100.0000	"Information Technology Management"	"Boston College"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros"	"Loduvina"	"38 Overton St"	"Brockton"	"MA"	"02301"	100.0000	"Teacher"	"Brockton Public School"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros"	"Stefano"	"457 e 143rd st"	"bronx"	"NY"	"10454"	25.0000	"Trainer"	"oneTILT"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros"	"Tevin"	"83 Sumner St 2"	"Boston"	"MA"	"02125"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros"	"Tyler"	"10 Mountain Ave"	"Canton"	"MA"	"02021-1906"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros"	"Zulmira"	"78 Cheever St"	"Milton"	"MA"	"02186"	100.0000	"Manager"	"Panera Bread"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros-Randolph"	"Lourenca"	"27 Clarence StRoxbury"	"Boston"	"MA"	"02119"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Barros-Randolph"	"Lourenca"	"27 Clarence StRoxbury"	"Boston"	"MA"	"02119"	20.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Bennitt"	"Ami"	"70 Crockett Ave"	"DORCHESTER CENTER"	"MA"	"02124"	50.0000	"Communications Director"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Benoit"	"Anthony"	"48 Kenwood St"	"Boston"	"MA"	"02124"	100.0000	"Educator"	"BFIT"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Bernard"	"Arthur"	"1000 Keene Street"	"Duxbury"	"MA"	"02332"	200.0000	"Lobbyist"	"Travaglini Scorzoni Kiley"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Best"	"Betty"	"P.O. Box 390934"	"Cambridge"	"MA"	"02139"	1000.0000	"Owner"	"Betty's Hair Salon"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Binns"	"Christopher"	"27 Upham Avenue"	"Dorchester"	"MA"	"02125"	50.0000	"Technical writer"	"ADP Inc."	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Blitz"	"Jenah"	"35 Hill Street"	"Tewksbury"	"MA"	"01876"	25.0000	"Software Developer"	"Launch Academy"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Brantle"	"Leandrea"	"29 Pinehurst St #2"	"Roslindale"	"MA"	"02131"	100.0000	"Manager"	"Victory Human Services"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Brennan"	"John"	"137 Marlborough St. Apt.9"	"Boston"	"MA"	"02116"	500.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Brissette"	"Kenneth"	"1513 Washington st"	"Boston"	"MA"	"02118"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Brogna"	"Victor"	"P.O. Box 130371"	"Boston"	"MA"	"02113"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Bunch"	"Dan"	"4 Summit Street"	"Hyde Park"	"MA"	"02136"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Cardoso"	"Edson"	"23 Dean Street 1"	"Dorchester"	"MA"	"02125"	100.0000	"Inspector"	"MBTA"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Carlos Gomes"	"Jose"	"73 Bowdoin Ave APT. 2"	"Dorchester"	"MA"	"02121"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Carrol"	"Joe"	"750 Quebec PL NW"	"Washington"	"DC"	"20010"	500.0000	"Investor"	"JAC-Q LLC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Carter"	"Robert"	"14290 Komedal Rd NE"	"Bainbridge Island"	"WA"	"98110"	20.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Carter"	"Robert"	"14290 Komedal Rd NE"	"Bainbridge Island"	"WA"	"98110"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Carvalho"	"Maria"	"91 Bloomfield St"	"Dorchester Center"	"MA"	"02124"	25.0000	"Emvironmemtal"	"Boston Public Schools"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Centeio"	"Alfredo"	"144 Titus St"	"Cumberland"	"RI"	"02864"	100.0000	"Taxi Driver/Business Owner"	"Metro Cab Association"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Centeio"	"Luzia"	"30 Walker Street"	"Quincy"	"MA"	"02171"	25.0000	"Assistant Manager"	"J Crew"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Christopher Lessard"	"Christopher"	"82 Greenfield Ln"	"Scitutuich"	"MA"	"02066"	1000.0000	"Firefighter"	"City of Newton"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Codrington"	"Bethann"	"1855 Washington Street 6f"	"Boston"	"MA"	"02118"	20.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Codrington"	"Bethann"	"1855 Washington Street 6f"	"Boston"	"MA"	"02118"	10.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Connolly"	"Taylor"	"44 Grampian Way"	"Boston"	"MA"	"02125"	100.0000	"Communications"	"Barros for Mayor"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Corcoran"	"Anne"	"25 Frost Avenue"	"Dorchester"	"MA"	"02122"	200.0000	"retired "	"Retired "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Correa"	"Eleanor"	"3111 Rittenhouse Street Northwest"	"Washington"	"DC"	"20015"	25.0000	"Recruiter"	"Isaacson Miller"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Correia"	"Elvira"	"18 jenness St"	"Quincy"	"MA"	"02169"	100.0000	"accounting manager "	"JEM Business Solutions INC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Correia"	"Jose"	"7 Emrose terrace 01"	"Dorchester"	"MA"	"02125"	50.0000	"Engendering"	"Boston park plaza"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Courtneay Small"	"Courtneay"	"11 Linvale Terr"	"Boston"	"MA"	"02126"	50.0000	"retired "	"Retired "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Cristina Rodrigues"	"Christina"	"40 mount Ida Rd APt. 2"	"Dorchester"	"MA"	"02122"	500.0000	"committee member "	"first circuit "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Cruz"	"Serveriano"	"38 Dacia St"	"Dorchester"	"MA"	"02125"	300.0000	"inspector"	"MBTA"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Da Silva"	"Deia"	"98 Intervale Street"	"Quincy"	"MA"	"02169"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Daly"	"Matt"	"3 Avalon Drive"	"Quincy"	"MA"	"02169"	250.0000	"Insurance"	"Hub international"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Daniel Settana"	"Daniel"	"10 Stratford St"	"West Roxbury"	"MA"	"02132"	100.0000	"Project Manager"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"DaRosa"	"Isabel"	"125 Homes Ave 1"	"Dorchester"	"MA"	"02122"	100.0000	"ISD"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Daveiga"	"Flavio"	"47 Alpine Street"	"Roxbury"	"MA"	"02119"	100.0000	"Municipality"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Day"	"Trevor"	"71 BROOKLEY RD UNIT 1"	"JAMAICA PLAIN"	"MA"	"02130"	50.0000	"Technology Specialist"	"Wolf Greenfield & Sacks"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"DeAndrade"	"Jenifer"	"10 Fuller Ave Unit 3"	"Attleboro"	"MA"	"02703"	100.0000	"Operations Manager"	"USPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"DeBarros"	"Ismael"	"6111 Granby Street"	"Norfolk"	"VA"	"23505"	700.0000	"Instructor"	"USAF"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Delgado"	"John"	"714 East Ave"	"Pawtucket"	"RI"	"02860"	1000.0000	"Machinist"	"Plastic Group"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"deMacedo"	"Viriato"	"525 Ship Pond Rd"	"Plymouth"	"MA"	"02360"	500.0000	"Advisor"	"Bridgewater State University"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Depina"	"Angel"	"12 Marie Street Apt. 1"	"Dorchester"	"MA"	"02122"	100.0000	"Body Man Tech"	"1st Class Auto Body"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"DePina"	"Augusto"	"30 clarence st 1 Apt 1"	"boston"	"MA"	"02119"	100.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"DePina"	"Augusto"	"30 Clarence Street"	"Boston"	"MA"	"02119"	100.0000	"bus driver"	"transdev transportation"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"DePina"	"Carlos"	"110 Street"	"Dorchester"	"MA"	"02125"	50.0000	"Chaplain"	"Beth Israel"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Depina"	"Gilmara"	"4 Park rd."	"Brockton"	"MA"	"02301"	25.0000	"Marketing/outreach"	"Commonwealth Care Alliance"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Depina"	"Joao"	"4 Brinsley st"	"Boston"	"MA"	"02121"	100.0000	"Electrician"	"Ibew"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Depina"	"Maria"	"439 Dudley st"	"Roxbury"	"MA"	"02119"	70.0000	"Ambulance"	"Spaulding Hospital"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Devereaux"	"Paula"	"4 Intervale Road"	"Nahant"	"MA"	"01908"	250.0000	"Lawyer"	"Pierce Atwood LLP"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Dolan"	"Simon"	"10 Farmstead Way"	"Littleton"	"MA"	"01460"	50.0000	"Business Development"	"Avantor"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Dolan"	"Theresa"	"1241 Adams Street #108"	"Dorchester"	"MA"	"02124"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Dorsey"	"Turahn"	"62 romsey street #3"	"Dorchester"	"MA"	"02125-1309"	250.0000	"Foundation Fellow"	"Eastern Bank Foundation"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Dunne"	"Claudia"	"42 Woodlawn St. #1"	"Jamaica Plain"	"MA"	"02130"	50.0000	"Clinical Social Work/Juvenile Justice Expert/Independent Consultant"	" LICSW"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Dunne"	"Claudia"	"42 Woodlawn St. #1"	"Jamaica Plain"	"MA"	"02130"	100.0000	"Clinical Social Work/Juvenile Justice Expert/Independent Consultant"	"LICSW"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Dunne"	"Claudia"	"42 Woodlawn St. #1"	"Jamaica Plain"	"MA"	"02130"	30.0000	"Clinical Social Work/Juvenile Justice Expert/Independent Consultant"	"self"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Duverge"	"Raul"	"50 Monadnock Street #3"	"Dorchester"	"MA"	"02125"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"E. Santos"	"Maria"	"100 Abbott St"	"Providence"	"RI"	""	110.0000	"sales"	"Mannatech"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Eagles"	"Heidi"	"1 Westinghouse Plz C207"	"hyde park"	"MA"	"02136"	36.0000	"freelancer"	"Self consultant "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Edmonds Jr"	"Thomas"	"31 Nikisch Avenue Unit 1"	"Roslindale"	"MA"	"02131"	25.0000	"Quality Assurance Specialist (pharmaceuticals)"	"Takeda"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Everdell"	"Ros"	"52 Parley Ave"	"Boston"	"MA"	"02130"	200.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Everdell"	"Rosalind"	"52 Parley Avenue"	"Jamaica Plain"	"MA"	"02130-2134"	200.0000	"Project coordinator"	"DSNI"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Fairfield Jr."	"Frederick"	"354 Turnpike St"	"Canton"	"MA"	"02021"	250.0000	"FREMC"	"Re Management"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Farrar"	"Jason"	"57 Norma Ave"	"Weymouth"	"MA"	"02188"	1000.0000	"Director of Innovation"	"Mass Fallen Heroes"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Fernandes"	"Maria"	"14? Langdon Street"	"Boston"	"MA"	"02119"	10.0000	"Medical biller"	"Centre pediatrics"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Fidalgo"	"Lucinda"	"220 union street"	"Randolph"	"MA"	"02368"	50.0000	"Registered Nurse"	"UCHC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"fidalgo"	"pedro"	"34 mayfield st"	"dorchester"	"MA"	"02125"	50.0000	"manager"	"state employee"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"fitzgerald"	"brianne"	"79 Van Winkle St"	"Boston"	"MA"	"02124"	25.0000	"NP"	"Gavin Foundation"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"FitzGerald"	"John"	"3 Mt Washington Place"	"Boston"	"MA"	"02130"	50.0000	"Project manager"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Fitzgerald"	"Theresa"	"22 Hemman Street"	"Boston"	"MA"	"02131"	50.0000	"Owner"	"Centre Cuts"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Flynn"	"Jesse"	"12 Malcolm Rd"	"Jamaica Plain"	"MA"	"02130"	250.0000	"Manager "	"Lincoln Property"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Fortes"	"Regina"	"30 Banks St Apt #1"	"Brockton"	"MA"	"02302"	50.0000	"Real Estate Agent"	"Vicente Realty LLC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Galvin"	"Richard"	"136 Eastover Road"	"Portsmouth"	"RI"	"02871"	500.0000	"Real Estate Inv Mgt"	"CV Properties LLC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gatlin"	"Heath"	"8 Newcomb St 9"	"Boston"	"MA"	"02118"	50.0000	"consultant"	"self"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Glazer"	"Marjorie"	"100 Belvidere Street"	"Boston"	"MA"	"02199"	100.0000	"Not employed"	"Not employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gomes"	"Agostinho"	"5 Summer Pk"	"Dorchester"	"MA"	"02125"	25.0000	"Engineer"	"MWRA"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gomes"	"Carlos"	"108 Fuller Street 1"	"Boston"	"MA"	"02124"	50.0000	"Electrician"	"JM electric"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gomes"	"Joao"	"150 Alpine St"	"Bridgeport"	"CT"	"06610"	250.0000	"information requested "	"information requested "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gomes"	"Jose"	"20 Eastman St APT 6"	"Dorchester"	"MA"	"02125"	1000.0000	"unemployed "	"unemployed "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gomes"	"Keiani"	"98 E Cottage St Apt 1"	"Boston"	"MA"	"02125"	10.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Goncalves"	"Maria"	"4 gene st."	"Dorchester"	"MA"	"02125"	25.0000	"Lab tech"	"Bidmc"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gonsalves Joyner"	"Dawn"	"4 Birch Heights Road"	"Franklin"	"CT"	"06254"	1000.0000	"Teacher"	"Norwich Public Schools"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Google"	""	""	""	""	""	0.1200	""	""	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gorge Dallta"	"Gorge"	"400 W 2nd St APT 3"	"Boston"	"MA"	"02127"	20.0000	"information requested"	"information requested"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Griffin"	"Robert"	"8 Driftway"	"Scituate"	"MA"	"02066"	500.0000	"Real Estate"	"Newmark"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Gumpper"	"James"	"41 Newburg Street #2"	"Roslindale"	"MA"	"02131"	100.0000	"Teacher"	"Roxbury Prep Charter School"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Haas"	"Robert H"	"29 Monadnock St"	"Dorchester"	"MA"	"02126"	100.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Hallberg"	"George"	"2 Hawthorne Place #7N"	"Boston"	"MA"	"02114-2308"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Hamilton"	"Robert"	"85 Melville Ave."	"Dorchester"	"MA"	"02124"	50.0000	"Art Supervisor"	"Havas Health and You"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Hapgood"	"Fred"	"165 Chestnut Hill Ave. #7"	"Brighton"	"MA"	"02135"	25.0000	"Not employed"	"Not employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Hapgood"	"Fred"	"165 Chestnut Hill Ave. #7"	"Brighton"	"MA"	"02135"	25.0000	"Not employed"	"Not employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Hariis"	"Neil"	"286 Clyde street"	"Brookline"	"MA"	"02467"	25.0000	"teacher"	"BPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Harmon"	"Lawrence"	"24 Cerdan Ave"	"West Roxbury"	"MA"	"02132"	100.0000	"retired"	"retired"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Harris"	"CJ"	"180 Exchange St"	"Millis"	"MA"	"02054"	25.0000	"Social Services"	"Wayside"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Harris"	"Conan"	"119 Blake St"	"Hyde Park"	"MA"	"02136"	500.0000	"Co-Principal"	"CJ Strategies LLC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Harris"	"Cynthia"	"180 Exchange St"	"Millis"	"MA"	"02054"	25.0000	"VSO"	"Cambridge"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Heideman"	"Susan"	"165 Chestnut Hill Ave. 7"	"Brighton"	"MA"	"02135"	10.0000	"visual artist"	"science for the public "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Heurich"	"Elizabeth"	"2200 Benjamin Franklin Parkway W914"	"Philadelphia"	"PA"	"19130"	20.0000	"Associate Director"	"Franciscan Volunteer Ministry"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Holmes"	"Nathaniel"	"750 East 4th Street Apt 3"	"South Boston"	"MA"	"02127"	50.0000	"Marketing Director"	"Fidelity Investments"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Hoover"	"matthew"	"32 Traveler St 506"	"Boston"	"MA"	"02118"	100.0000	"Actuary"	"John Hancock"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Hughes"	"Marianne"	"52 Waldeck St."	"Dorchester"	"MA"	"02124"	100.0000	"Consultant"	"Self emplyed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Ibokette"	"Yolette"	"28 restarick avenue"	"Randolph"	"MA"	"02368"	50.0000	"School Administrator"	"Boston Public Schools"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"James"	"Vincent"	"423 Brookline Ave 331"	"Boston"	"MA"	"02215"	75.0000	"Administrator"	"HSPH"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"James"	"Vincent"	"423 Brookline Ave 331"	"Boston"	"MA"	"02215"	25.0000	"Administrator"	"HSPH"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Janulewicz"	"Karen"	"20 Castle Rock St"	"Dorchester"	"MA"	"02125"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Jennings"	"Nicole"	"1927 3rd st NE Apt 200"	"Washington"	"DC"	"20002-1453"	10.0000	"Educator"	"DC Public Charter Schools"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Johnson"	"Anthony"	"34 Furbush Rd"	"Boston"	"MA"	"02132"	100.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Johnson"	"Marcelina"	"34 Ridgewood Street"	"Boston"	"MA"	"02122"	100.0000	"Teacher"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Joyner"	"Andre"	"4 Birch Heights Road"	"Franklin"	"CT"	"06254"	1000.0000	"Consulting Analyst"	"Fiducient Advisors"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Joyner"	"Devol"	"4 Birch Heights Rd"	"North Franklin"	"CT"	"06254"	1000.0000	"Chief of staff office"	"Mashantucket Pequot Tribal Nation"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Judge"	"Katherine"	"37 Beacon Street unit 33"	"Boston"	"MA"	"02108"	200.0000	"banker"	"Federal home loan Bank of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kane"	"Edward"	"42 Chauncy St APT 7"	"Boston"	"MA"	"02111"	1000.0000	"Owner"	"Big Night Entertainment"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kasper"	"Eleanor"	"125 West Third St"	"South Boston"	"MA"	"02127"	500.0000	"Admin Assistant"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kates"	"Mark"	"133 Commonwealth Avenue"	"Boston"	"MA"	"02116-2329"	500.0000	"Music executive"	"Fenway Recordings"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Katie Beckles"	"Katie"	"55 Wayland St"	"Dorchester"	"MA"	"02125"	1000.0000	"team coordinator "	"BT Telconsult"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kelley"	"Stephen"	"57 Parker Road"	"Needham"	"MA"	"02494"	1000.0000	"Business Development Manager"	"Fenway Sports Management"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kerr"	"Kenneth"	"402 Ashmont St. #2"	"boston"	"MA"	"02124"	25.0000	"Attorney"	"MAXIMUS Inc."	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Khazatsky"	"Kira"	"1376 Commonwealth Avenue #11"	"Allston"	"MA"	"02134"	500.0000	"COO"	"JVS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Knutson"	"Lydia"	"627 Massachusetts Ave"	"Lexington"	"MA"	"02420"	250.0000	"Chiropractor"	"Lydian Chiropractic"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kropas"	"Virginia"	"4 Hardy ST"	"boston"	"MA"	"02127"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kurzina"	"Stephanie"	"79 Beacon St. Apt C"	"Boston"	"MA"	"02108"	100.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Kutyna"	"Dale"	"26 Peck Ave."	"Arlington"	"MA"	"02476"	25.0000	"Software Developer"	"CoreLogic"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Lagoa"	"Nancy"	"15 Harbor Point Blvd #402"	"Dorchester"	"MA"	"02125"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Leary"	"Angus"	"29 OLD FARM RD"	"Dover"	"MA"	"02030"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Lee"	"Jonathan"	"65 Cornell Street"	"Boston"	"MA"	"02131"	100.0000	"Economist"	"EBP-US"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Leonard"	"Jennifer"	"75 Lawn St."	"Boston"	"MA"	"02120"	50.0000	"Owner"	"the skills library "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Lewis"	"Joanna"	"64 Lois Ln"	"Taunton"	"MA"	"02780"	25.0000	"Analyst"	"Kelly Services Inc"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"LIND"	"NORMAN"	"50 Liberty Drive Ph2b"	"BOSTON"	"MA"	"02210"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Lopes"	"Ana maria"	"20 Haverhill St"	"Brockton"	"MA"	"02301"	50.0000	"Packer"	"Packing technology group"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Lopes"	"Maria"	"3448 Halsway Dr"	"Orlando"	"FL"	"32824"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Lord"	"Charles"	"21 Rochester Road"	"Newton"	"MA"	"02458"	50.0000	"Managing Principal"	"RENEW Energy Partners LLC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Luis Ottonelli"	"Luis"	"21 Creighton St"	"Jamicia Plain"	"MA"	"02130"	45.0000	"Admin"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Luma"	"Charlene"	"55 Charles St"	"Hyde Park"	"MA"	"02136"	1000.0000	"Chief of Victim Witness Advocates"	"Suffolk County District Attorney Office"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"lupfer"	"jon"	"116 upland rd"	"cambridge"	"MA"	"02140"	1000.0000	"recording engineer"	"Q division"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"M Saleh"	"Sayed El"	"20 Rowes Wharf APT 710"	"Boston"	"MA"	"02110"	500.0000	"Managing Director"	"Int. Hotel Mgmt&dev. Inc."	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Macedo"	"Donaldo"	"P.O. Box 235"	"Minot"	"MA"	"02055"	500.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Magoon"	"Kathleen"	"7 Dinah Path"	"Plymouth"	"MA"	"02360"	1000.0000	"Retired"	"Retired "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Magoon"	"Megan"	"30 Rangelesy St"	"Dorchester"	"MA"	"02124"	1000.0000	"teacher"	"Revere Public Schools"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Marcelino"	"Christina"	"103 Peterson Ave"	"Brockton"	"MA"	"02302"	975.0000	"Assistant Store Manager"	"Stop and Shop"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Marshall"	"Caroline"	"2039 Bainbridge Street"	"Philadelphia"	"PA"	"19146"	100.0000	"Non-profit"	"The Food Trust"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Maso"	"Michael"	"12 Kenwood Street"	"Brookline"	"MA"	"02446"	100.0000	"Managing Director"	"Huntington Theatre Co"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mavrick"	"Nick"	"5 Fan Pier Blvd. Apt 516"	"Boston"	"MA"	"02210"	500.0000	"Marketing and Business Development"	"Mavrick Marketing LLC"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"McDonald"	"Deborah"	"78 Dwinell St"	"Boston"	"MA"	"02132"	25.0000	"sales"	"bioMerieux"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"McDonough"	"James"	"81 Hannah Niles Way"	"Braintree"	"MA"	"02184"	1000.0000	"Banker"	"Randolph Savings Bank"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"McKinnon"	"Anne"	"51 Sedgwick St."	"Boston"	"MA"	"02130"	18.0000	"planner"	"Jacobs"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Medvedow"	"Jill"	"131 Gardner Road"	"Brookline"	"MA"	"02445"	100.0000	"Museum Director"	"ICA"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mendes"	"Adelsa"	"134 Msgr Patrick J Lydon Way"	"Dorchester"	"MA"	"02124"	100.0000	"Business Assistance Manager"	"Brockton Redevelopment Authority"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mendes"	"Jose Quintino"	"142 Adams Street"	"Boston"	"MA"	"02122"	100.0000	"Maintenance Director"	"Bear mountain"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mendes"	"Maria"	"94A Bay View Ave."	"Quincy"	"MA"	"02169"	20.0000	"Teacher"	"BPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mendes"	"Natalina"	"24 Lambert Ave"	"Stoughton"	"MA"	"02072"	50.0000	"Teacher"	"BPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mendes"	"Natalina"	"24 Lambert Ave"	"Stoughton"	"MA"	"02072"	50.0000	"Teacher"	"BPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mendes"	"Natalina"	"24 Lambert Ave"	"Stoughton"	"MA"	"02072"	50.0000	"Teacher"	"BPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Milner"	"Chad"	"17 Fort Ave. D"	"Roxbury"	"MA"	"02119"	25.0000	"Director"	"TYPP"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Miranda"	"Luis"	"35 Wendover St"	"Dorchester"	"MA"	"02125"	1000.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Mitchell"	"Eva"	"440 Huntington Avenue"	"Hyde Park"	"MA"	"02136"	50.0000	"Director"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Monteiro"	"Alessandra"	"40 Young Way"	"Stoughton"	"MA"	"02072"	50.0000	"Administrator"	"State of Massachusetts"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Monteiro"	"Lilizita"	"280 Whitman Street"	"Bridgewater"	"MA"	"02324"	50.0000	"Nurse practitioner"	"Whittier street health center"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Moran"	"Casandra"	"35 Lambert St"	"Roxbury"	"MA"	"02119"	10.0000	"Project Manao"	"Liberty Mutual Insurance"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Moran"	"Casandra"	"35 Lambert St"	"Roxbury"	"MA"	"02119"	10.0000	"Project Manao"	"Liberty Mutual Insurance"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"moses"	"janet"	"73 School St"	"Cambridge"	"MA"	"02139"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Moses"	"Omowale"	"58 Weld Hill Apt 2"	"Boston"	"MA"	"02130"	100.0000	"Ceo"	"Mathtalk"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Moynihan"	"John"	"27 Rockland St"	"Swamoscott"	"MA"	"01907"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Nierman"	"Jonathan"	"125 East Harkness Road"	"North Smithfield"	"RI"	"02896"	36.0000	"Chief Development Officer"	"JVS BOSTON"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"O'Malley"	"Nancy"	"196 Savin Hill Ave."	"Dorchester"	"MA"	"02125"	25.0000	"Teacher"	"BPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"ONeil"	"Kathleen"	"2704 Sage Wood Dr"	"Newtown Square"	"PA"	"19073"	35.0000	"Professional Shopper"	"Wegmans"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Oser"	"Roger"	"93a wachusett st"	"Boston"	"MA"	"02111"	100.0000	"education"	"abcd"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Pearson Jr"	"David"	"53 Chelmsford Street"	"Boston"	"MA"	"02108"	100.0000	"financial manager "	"msfm"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Pernice"	"Bob"	"148 Judy Farm Road"	"Carlisle"	"MA"	"01741"	500.0000	"Marketing"	"Avery Dennison"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Perry"	"George"	"105 Gilson Rd"	"Scituate"	"MA"	"02066"	100.0000	"Educator"	"NYC DOE"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"pham"	"nam"	"5 Bayside Rd"	"quincy"	"MA"	"02171"	25.0000	"Administrator"	"Massachuetts"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Phillips"	"Brian"	"36 Prescott Street"	"Watertown"	"MA"	"02472"	100.0000	"Photo"	"Self"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Pillard"	"Richard"	"6 Bond St."	"Boston"	"MA"	"02118"	10.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Pinto"	"Paulo"	"23 Adrian St"	"Somerville"	"MA"	"02143"	25.0000	"Executive Director"	"MAPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Polanco"	"Steven"	"24 East Cottage Street"	"Boston"	"MA"	"02125"	25.0000	"Consultant"	"Steelcase"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Pontes"	"Marilyn"	"156 Train Street"	"Dorchester"	"MA"	"02121"	200.0000	"Finance Manager"	"Draper Laboratories"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Pontuso"	"Christine"	"192 Corbett Rd"	"Stoughton"	"MA"	"02072"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"post"	"larry"	"142 Marlborough st"	"boston"	"MA"	"02116"	25.0000	"real estate "	"MRG properties "	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Powers"	"Matthew"	"43 Trimount Ave"	"Taunton"	"MA"	"02780"	1000.0000	"Construction"	"A-1 Concrete Cutting & Demolition"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Prosper"	"Richard"	"10 Mercier Ave"	"Dorchester"	"MA"	"02124"	100.0000	"Construction Specialist "	"AFFORDABLE ALUMINUM CONSTRUCTION, INC."	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Quatrale"	"John A."	"35 Nonantum St"	"Boston"	"MA"	"02135"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Quatrale"	"John A."	"35 Nonantum St"	"Boston"	"MA"	"02135"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Radley"	"Shawn"	"96 Train Street"	"Boston"	"MA"	"02122"	100.0000	"Talent buyer"	"Kendall Booking"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Ranco"	"John"	"41 Pine Hill Road N"	"Cape Neddick"	"ME"	"03902"	500.0000	"Real Estate"	"Self"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Regan"	"Paul"	"PO Box 63"	"South Woodstock"	"VT"	"05071"	20.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rigueira"	"Valeria"	"225 Northern Ave"	"Boston"	"MA"	"02210-2046"	25.0000	"Public servant"	"Brazilian government"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rigueira"	"Valeria"	"225 Northern Ave"	"Boston"	"MA"	"02210-2046"	50.0000	"Public servant"	"Brazilian government"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rigueira"	"Valeria"	"225 Northern Ave"	"Boston"	"MA"	"02210-2046"	25.0000	"Public servant"	"Brazilian government"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rivera"	"Tania"	"82 Julian Street"	"Dorchester"	"MA"	"02125"	100.0000	"Community? Support Manager"	"Department of Children and Families"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Roberto"	"Melinda"	"19 SCHUYLER ST APT 2"	"Dorchester"	"MA"	"02121"	50.0000	"COO"	"AMX"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Roby"	"Peter"	"23 Kettle Hole Rd"	"Falmouth"	"MA"	"02540"	250.0000	"Athletic Director"	"Dartmouth college"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rodrigues"	"Antonio"	"111 Draper St"	"Dorchester"	"MA"	"02122"	100.0000	"owner"	"T & M Kitchen Cabinets Sales & Service"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rodrigues"	"Joao"	"33 Nelson Drive"	"Randolph"	"MA"	"02368"	50.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rogers Jr"	"Manuel"	"392 Cambridge Street"	"Cambridge"	"MA"	"02141"	100.0000	"Not employed"	"Not employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rosa"	"Hermitao(Beto)"	"2541 Gallivan Blvd"	"Dorchester"	"MA"	"02124"	100.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rosado-Barros"	"Carmen"	"32 Fencourt Rd"	"Canton"	"MA"	"02021"	50.0000	"RN"	"Brigham & Womem?s"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rosario"	"Maria"	"30 Wendover St"	"Dorchester"	"MA"	"02125"	100.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rose"	"Christine"	"56 Mallet St"	"Dorchester"	"MA"	"02124"	25.0000	"Massage Therapist"	"4 corners yoga"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Rose-Wood"	"Joshua Wharton"	"5 Thornton Street"	"Roxbury"	"MA"	"02119"	100.0000	"architects"	"Rose Wood Architects Inc."	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Santos"	"Cristina"	"38 Clifton st"	"Roxbury"	"MA"	"02119"	100.0000	"Teacher"	"BPS"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Scialdone"	"Mark"	"85 Waltham st."	"Boston"	"MA"	"02118"	25.0000	"Lawyer"	"Law Offices of Mark Scialdone"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Senesie"	"Albert"	"39 Cohasset St"	"Roslindale"	"MA"	"02131"	100.0000	"CEO"	"Victory Human Services"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Shaffer"	"Donald"	"665 Washington St Unit 1811"	"Boston"	"MA"	"02111"	50.0000	"Director"	"Jounce Therapeutics"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Shea"	"Emily"	"70 Bremen Street Apt 202"	"East Boston"	"MA"	"02128"	150.0000	"Public Administrator"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Silva"	"Juliette"	"32 Bay St"	"Boston"	"MA"	"02125"	1000.0000	"Hostess"	"Beehive"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"SILVA"	"Soelma"	"32 BAY ST APT 1"	"Dorchester"	"MA"	"02125"	1000.0000	"Pca"	"Tempus"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Slawsby"	"Todd"	"22 Normandie Rd"	"Dover"	"MA"	"02030"	1000.0000	"Executive"	"Madison Food Corp"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Stembridge"	"Norman"	"27 Gaston Street #1"	"Dorchester"	"MA"	"02121"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Sullivan"	"Thomas"	"5050 Washington St Apt 560"	"West Roxbury"	"MA"	"02132"	10.0000	"Not employed"	"none"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Sullivan"	"Thomas"	"5050 Washington St Apt Apt 560"	"West Roxbury"	"MA"	"02132"	10.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Sullivan"	"Thomas"	"5050 Washington St Apt 560"	"West Roxbury"	"MA"	"02132"	10.0000	"Not employed"	"none"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Sullivan"	"Thomas"	"5050 Washington St Apt 560"	"West Roxbury"	"MA"	"02132"	10.0000	"Not employed"	"none"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Sullivan"	"Thomas"	"5050 Washington St Apt Apt 560"	"West Roxbury"	"MA"	"02132"	10.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Sullivan"	"Thomas"	"5050 Washington St Apt 560"	"West Roxbury"	"MA"	"02132"	25.0000	"Not employed"	"none"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Susan Wong"	"Susan"	"325 St. paul St"	"Brookline"	"MA"	"02446"	100.0000	"Retired"	"Retired"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Sykes"	"Kirk"	"48 Halifax Street"	"Jamaica Plain"	"MA"	"02130"	500.0000	"RE Fund Manager"	"New boston fund"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Tavares"	"Ricardo"	"50 Shirley S"	"Roxbury"	"MA"	"02119"	250.0000	"retired"	"retired"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Tayag"	"Janine"	"2 Salman Street"	"West Roxbury"	"MA"	"02132"	50.0000	"Registered Nurse"	"New England Baptist Hospital"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Teixeira"	"Lucette"	"5 Eddie Street"	"Quincy"	"MA"	"02169"	100.0000	"Associate Director of Care Management"	"Codman Square Health Center"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Teixeira"	"Maria"	"67 Dexter St"	"Milton"	"MA"	"02186"	50.0000	"Certified unit coordinator"	"Bwh"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Thompson"	"Lauren"	"41 Harold Street"	"Boston"	"MA"	"02119"	150.0000	"Tax accountant"	"Treasury"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Toomey"	"Mark"	"32 Eldridge Rd"	"Jamaica Plain"	"MA"	"02130"	100.0000	"Regional Director"	"TransPerfect"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Tsipis"	"Yanni"	"152 grove"	"WESTWOOD"	"MA"	"02090"	250.0000	"Real Estate"	"WS Asset Management"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Urtubey"	"Natalia"	"11 Lonsdale Street"	"Boston"	"MA"	"02124"	25.0000	"Public Administration"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Veiga"	"Marina"	"51 Warner St"	"Dorchester"	"MA"	"02124"	50.0000	"FS Program Adminstrator"	"Community Care Cooperative"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Watson"	"Peggy"	"PO Box 240592"	"Boston"	"MA"	"02124"	500.0000	"Deputy Director"	"Workforce Development Office"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Watson"	"Travis"	"161 Old Meeting House Rd"	"East Falmouth"	"MA"	"02536"	50.0000	"Director of Racial Equity and Community Engagement"	"Massachusetts Housing Investment Corporation"	""	"0"	8/3/21 Deposit Report	1	1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Webb"	"Jason"	"15549 Greater Groves Blvd"	"Clermont"	"FL"	"34714"	25.0000	"Housing specialist"	"Grounded Solutions Network"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Weekes"	"Harold"	"296 Huntington Ave"	"Hyde Park"	"MA"	"02136"	100.0000	"HR professional"	"Alkermes Inc"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Welch"	"Maura"	"5 Summit Place"	"Newburyport"	"MA"	"01950"	10.0000	"Speechwriter"	"City of Boston"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Welch"	"Maura"	"111 Queensberry Street #8"	"Boston"	"MA"	"02215"	10.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"West"	"Donald"	"PO Box 301752"	"Jamaica Plain"	"MA"	"02130"	100.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Williams"	"Austin"	"19 Sackville St 2"	"Charlestown"	"MA"	"02129"	100.0000	"Business Development"	"The Roux Institute"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Willsea"	"Jennifer"	"1449 glenwood ave se"	"Atlanta"	"GA"	"30316"	100.0000	"Facilitator"	"Self"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Wilson"	"John"	"3 Euclid Ave"	"Winchester"	"MA"	"01890"	250.0000	"investor"	"self"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Xavier"	"Natalio"	"64 Shepton Street"	"Dorchester Center"	"MA"	"02124"	100.0000	"Engineer"	"Boston Medical Center Corporation"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Xavier-Depina"	"Francisca"	"12 Marie Street"	"Dorchester"	"MA"	"02122"	25.0000	"Not Employed"	"Not Employed"	""	"0"	8/3/21 Deposit Report		1	Check
+201	Individual	15609	"Barros, John F."	"8/3/2021"	"Zuker"	"Edward"	"PO Box 377"	"Chestnut Hill"	"MA"	"02467"	1000.0000	"CEO"	"Chestnut Hill Realty"	""	"0"	8/3/21 Deposit Report		1	Check
